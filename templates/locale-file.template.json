@@ -1,0 +1,6 @@
+{
+  "$comment": "TEMPLATE for a new-language domain file. Copy the KEY LIST from the matching en/<domain>.json, then replace each `default` with the translation. Add persona overrides (P1, P2, ...) only where the copy actually differs per persona. Keep \\n line breaks and keep acronyms (ANC, EQ, BT, OTP, TWS, IPX5, AI) in Roman script. Omit any key you haven't translated yet — it falls back to en at runtime. DELETE this $comment before committing.",
+  "<key_from_en>": {
+    "default": "<translated string>"
+  }
+}

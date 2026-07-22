@@ -1,0 +1,114 @@
+/* Noise Audio DLS — typography tokens (generated from Figma text styles) */
+/* Families: Saira (headings, subheadings), Geist (body, titles) */
+:root {
+  --font-family-heading: "Saira", system-ui, sans-serif;
+  --font-family-body: "Geist", system-ui, sans-serif;
+}
+
+/* font.heading.xlarge (H800) — figma style: Headings/Extra large — RESERVED */
+.heading-xlarge {
+  font-family: var(--font-family-heading);
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 0.9;
+  letter-spacing: 0;
+}
+
+/* font.heading.large (H700) — figma style: Headings/large */
+.heading-large {
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+/* font.heading.medium (H600) — figma style: Headings/Medium */
+.heading-medium {
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+/* font.heading.small (H500) — figma style: Headings/Small */
+.heading-small {
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+/* font.subheading.large (SH400) — figma style: Sub Headings/Section title */
+.subheading-large {
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+/* font.subheading.medium (SH200) — figma style: Sub Headings/card headings */
+.subheading-medium {
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+/* font.body.large (B400) — figma style: Content/large */
+.body-large {
+  font-family: var(--font-family-body);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: normal;
+  letter-spacing: 0;
+}
+
+/* font.body.medium (B200) — figma style: Content/Medium */
+.body-medium {
+  font-family: var(--font-family-body);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: 0;
+}
+
+/* font.body.small (B100) — figma style: Content/Small */
+.body-small {
+  font-family: var(--font-family-body);
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+
+/* font.body.xsmall (B50) — figma style: Content/smallest */
+.body-xsmall {
+  font-family: var(--font-family-body);
+  font-weight: 500;
+  font-size: 10px;
+  line-height: normal;
+  letter-spacing: 0;
+}
+
+/* font.title.large (T200) — figma style: Bold content/Big */
+.title-large {
+  font-family: var(--font-family-body);
+  font-weight: 600;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: 0;
+}
+
+/* font.title.medium (T100) — figma style: Bold content/Small */
+.title-medium {
+  font-family: var(--font-family-body);
+  font-weight: 600;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: 0;
+}

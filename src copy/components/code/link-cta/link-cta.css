@@ -1,0 +1,27 @@
+/* Link CTA — atom (figma 463:1380)
+   Figma spec: 44px height, 0 29px padding, no container fill/border,
+   Geist SemiBold 14, centered, underlined. Regular width 358, bottom-sheet 334. */
+
+.nds-link-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 358px;
+  min-height: 44px;
+  padding: 0 29px;
+  border: none;
+  background: none;
+  color: var(--token-text-primary);
+  font-family: var(--font-family-body);
+  font-weight: 600;
+  font-size: 14px; /* font.title.large */
+  text-align: center;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.nds-link-cta.usage-bottomsheet {
+  max-width: 334px;
+}

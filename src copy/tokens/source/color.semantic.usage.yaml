@@ -1,0 +1,729 @@
+# Noise Audio DLS — semantic color tokens (light + dark)
+# Source of truth: Figma variables, collection "tokens" (VariableCollectionId:10:50), modes: Light, Dark
+# Metadata source: "Token Visualization" frame (node 2035:458) on page "Test pilot run" (2025:148)
+# Rule: components consume ONLY these semantic tokens, never color primitives.
+
+meta:
+  layer: semantic
+  figma_file: QjVyM5bRXgIOZn8PO1e0eK
+  figma_page: "Test pilot run"  # 2025:148
+  variable_collection: tokens  # VariableCollectionId:10:50
+  visualization_node: "2035:458"
+  modes: [light, dark]
+
+tokens:
+  - id: token.default.status-bar
+    figma_name: "default/status bar"
+    value:
+      light: {alias: color.gray.100, hex: "#000000"}
+      dark: {alias: color.gray.1100, hex: "#ffffff"}
+    usage: >-
+      Used for status bar and handle bar.
+    anti_patterns:
+      - Do not use for interactive states.
+      - Do not use for semantic communication.
+      - Do not use for text, icons, or actionable elements.
+    design_intent: >-
+      Provide a neutral visual separator that remains present without competing
+      with content hierarchy.
+
+  - id: token.background.canvas
+    figma_name: "background/canvas"
+    value:
+      light: {alias: color.gray.1100, hex: "#ffffff"}
+      dark: {alias: color.gray.100, hex: "#000000"}
+    usage: >-
+      Used as the page background color.
+    anti_patterns:
+      - Do not use for cards or elevated surfaces.
+      - Do not use for semantic success or error communication.
+      - Do not use for buttons or controls.
+    design_intent: >-
+      Create the foundational visual layer upon which all content and surfaces are
+      placed.
+
+  - id: token.background.surface
+    figma_name: "background/surface"
+    value:
+      light: {alias: color.gray.1000, hex: "#f7f7f7"}
+      dark: {alias: color.gray.200, hex: "#171717"}
+    usage: >-
+      Used for cards, tiles, bottom sheets, and content surfaces elevated above
+      the page background.
+    anti_patterns:
+      - Do not use as page background.
+      - Do not use to communicate success, warning, or error states.
+      - Do not use for high-priority notifications.
+    design_intent: >-
+      Establish visual separation between content containers and the canvas while
+      preserving hierarchy.
+
+  - id: token.background.surface.green
+    figma_name: "background/surface/green"
+    value:
+      light: {alias: color.green.100, hex: "#c4ecd2"}
+      dark: {alias: color.green.900, hex: "#062012"}
+    usage: >-
+      Used for success-related cards, banners, and informational surfaces.
+    anti_patterns:
+      - Do not use for positive CTA buttons.
+      - Do not use for decorative emphasis.
+      - Do not use for neutral content containers.
+    design_intent: >-
+      Provide immediate recognition of successful states without relying solely on
+      text.
+
+  - id: token.background.surface.red
+    figma_name: "background/surface/red"
+    value:
+      light: {alias: color.red.100, hex: "#ffdada"}
+      dark: {alias: color.red.900, hex: "#240c0c"}
+    usage: >-
+      Used for failure, error, and warning-related surfaces.
+    anti_patterns:
+      - Do not use for destructive actions.
+      - Do not use for decorative emphasis.
+      - Do not use for non-semantic content.
+    design_intent: >-
+      Communicate critical attention states through container-level semantic
+      feedback.
+
+  - id: token.background.surface.raised-plus5
+    figma_name: "background/surface/raised+5"
+    value:
+      light: {alias: color.gray.500, hex: "#696969"}
+      dark: {alias: color.gray.700, hex: "#b5b5b5"}
+    usage: >-
+      Used for toast messages and temporary feedback surfaces.
+    anti_patterns:
+      - Do not use for persistent content.
+      - Do not use for page-level containers.
+      - Do not use for modals.
+    design_intent: >-
+      Create strong visual prominence for temporary feedback requiring immediate
+      attention.
+
+  - id: token.background.surface.raised-plus6
+    figma_name: "background/surface/raised+6"
+    value:
+      light: {alias: color.gray.400, hex: "#454545"}
+      dark: {alias: color.gray.800, hex: "#d1d1d1"}
+    usage: >-
+      Used for notification chin and highest non-modal elevated surfaces.
+    anti_patterns:
+      - Do not use for standard cards.
+      - Do not use for settings tiles.
+      - Do not use for routine content.
+    design_intent: >-
+      Establish maximum hierarchy for persistent system-level notifications.
+
+  - id: token.background.surface.raised-plus2
+    figma_name: "background/surface/raised+2"
+    value:
+      light: {alias: color.gray.900, hex: "#ededed"}
+      dark: {alias: color.gray.300, hex: "#292929"}
+    usage: >-
+      Used for loading, processing, and temporary system-state surfaces.
+    anti_patterns:
+      - Do not use for notifications.
+      - Do not use for toasts.
+      - Do not use for persistent content containers.
+    design_intent: >-
+      Introduce subtle elevation to indicate temporary system activity without
+      dominating the interface.
+
+  - id: token.text.primary
+    figma_name: "text/primary"
+    value:
+      light: {alias: color.gray.400, hex: "#454545"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for page titles, device names, primary content, and critical
+      information.
+    anti_patterns:
+      - Do not use for captions.
+      - Do not use for metadata.
+      - Do not use for disabled states.
+    design_intent: >-
+      Direct user attention toward the most important information within a screen.
+
+  - id: token.text.secondary
+    figma_name: "text/secondary"
+    value:
+      light: {alias: color.gray.600, hex: "#919191"}
+      dark: {alias: color.gray.600, hex: "#919191"}
+    usage: >-
+      Used for supporting information related to primary content.
+    anti_patterns:
+      - Do not use for titles.
+      - Do not use for primary actions.
+      - Do not use for disabled content.
+    design_intent: >-
+      Maintain readability while reducing visual prominence compared to primary
+      content.
+
+  - id: token.text.tertiary
+    figma_name: "text/tertiary"
+    value:
+      light: {alias: color.gray.700, hex: "#b5b5b5"}
+      dark: {alias: color.gray.700, hex: "#b5b5b5"}
+    usage: >-
+      Used for labels, metadata, helper text, and section headings.
+    anti_patterns:
+      - Do not use for primary content.
+      - Do not use for actionable information.
+      - Do not use for critical messages.
+    design_intent: >-
+      Provide structure and organization without competing with core content.
+
+  - id: token.text.disabled
+    figma_name: "text/disabled"
+    value:
+      light: {alias: color.gray.800, hex: "#d1d1d1"}
+      dark: {alias: color.gray.400, hex: "#454545"}
+    usage: >-
+      Used for disabled controls and unavailable content.
+    anti_patterns:
+      - Do not use for secondary information.
+      - Do not use to reduce hierarchy.
+      - Do not use for informational text.
+    design_intent: >-
+      Communicate non-interactive or unavailable states while maintaining
+      contextual visibility.
+
+  - id: token.text.inverted
+    figma_name: "text/inverted"
+    value:
+      light: {alias: color.gray.1000, hex: "#f7f7f7"}
+      dark: {alias: color.gray.200, hex: "#171717"}
+    usage: >-
+      Used on primary CTAs, toasts, notification chins, and elevated surfaces.
+    anti_patterns:
+      - Do not use on standard surfaces.
+      - Do not use on canvas backgrounds.
+      - Do not use for low-elevation content.
+    design_intent: >-
+      Ensure readability when content is placed on visually dominant surfaces.
+
+  - id: token.text.cta
+    figma_name: "text/cta"
+    value:
+      light: {alias: color.gray.200, hex: "#171717"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for secondary CTA labels and interactive actions.
+    anti_patterns:
+      - Do not use for informational content.
+      - Do not use for headings.
+      - Do not use for passive labels.
+    design_intent: >-
+      Clearly distinguish interactive content from informational content.
+
+  - id: token.text.colored.gray
+    figma_name: "text/colored/gray"
+    value:
+      light: {alias: color.gray.200, hex: "#171717"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for neutral status information and non-semantic state indicators.
+    anti_patterns:
+      - Do not use for success states.
+      - Do not use for warning states.
+      - Do not use for failure states.
+    design_intent: >-
+      Represent neutral status information without creating emotional association.
+
+  - id: token.text.colored.red
+    figma_name: "text/colored/red"
+    value:
+      light: {alias: color.red.400, hex: "#c42e2e"}
+      dark: {alias: color.red.400, hex: "#c42e2e"}
+    usage: >-
+      Used for error messages, destructive information, and failure states.
+    anti_patterns:
+      - Do not use for warnings.
+      - Do not use for decorative emphasis.
+      - Do not use for positive feedback.
+    design_intent: >-
+      Immediately communicate negative outcomes and critical attention
+      requirements.
+
+  - id: token.text.colored.amber
+    figma_name: "text/colored/amber"
+    value:
+      light: {alias: color.amber.400, hex: "#b6732b"}
+      dark: {alias: color.amber.400, hex: "#b6732b"}
+    usage: >-
+      Used for pending, provisional, cautionary, and warning information.
+    anti_patterns:
+      - Do not use for success communication.
+      - Do not use for failure communication.
+      - Do not use as decorative emphasis.
+    design_intent: >-
+      Communicate states requiring awareness but not immediate corrective action.
+
+  - id: token.text.colored.green
+    figma_name: "text/colored/green"
+    value:
+      light: {alias: color.green.400, hex: "#1c8a4c"}
+      dark: {alias: color.green.400, hex: "#1c8a4c"}
+    usage: >-
+      Used for success messages and positive system feedback.
+    anti_patterns:
+      - Do not use for actions.
+      - Do not use for decorative emphasis.
+      - Do not use for warnings.
+    design_intent: >-
+      Reinforce successful outcomes and positive system states.
+
+  - id: token.icon.primary
+    figma_name: "icon/primary"
+    value:
+      light: {alias: color.gray.400, hex: "#454545"}
+      dark: {alias: color.gray.900, hex: "#ededed"}
+    usage: >-
+      Used for primary informational icons and leading visual indicators.
+    anti_patterns:
+      - Do not use for disabled states.
+      - Do not use for semantic success or error states.
+      - Do not use on elevated inverse surfaces.
+    design_intent: >-
+      Provide visual reinforcement for primary information while maintaining
+      hierarchy.
+
+  - id: token.icon.inverted
+    figma_name: "icon/inverted"
+    value:
+      light: {alias: color.gray.1000, hex: "#f7f7f7"}
+      dark: {alias: color.gray.200, hex: "#171717"}
+    usage: >-
+      Used for icons placed on elevated and dark surfaces.
+    anti_patterns:
+      - Do not use on standard surfaces.
+      - Do not use on canvas backgrounds.
+      - Do not use as default icon color.
+    design_intent: >-
+      Maintain icon visibility on high-contrast surfaces.
+
+  - id: token.icon.disable
+    figma_name: "icon/disable"
+    value:
+      light: {alias: color.gray.800, hex: "#d1d1d1"}
+      dark: {alias: color.gray.400, hex: "#454545"}
+    usage: >-
+      Used for disabled or unavailable icon actions.
+    anti_patterns:
+      - Do not use for secondary hierarchy.
+      - Do not use for informational icons.
+      - Do not use for inactive navigation.
+    design_intent: >-
+      Clearly communicate unavailable interaction states.
+
+  - id: token.icon.red
+    figma_name: "icon/red"
+    value:
+      light: {alias: color.red.300, hex: "#dc4848"}
+      dark: {alias: color.red.300, hex: "#dc4848"}
+    usage: >-
+      Used for destructive, failure, and critical-state icons.
+    anti_patterns:
+      - Do not use for warnings.
+      - Do not use for decorative usage.
+      - Do not use for positive communication.
+    design_intent: >-
+      Provide immediate visual recognition of critical states.
+
+  - id: token.icon.green
+    figma_name: "icon/green"
+    value:
+      light: {alias: color.green.300, hex: "#2ea864"}
+      dark: {alias: color.green.300, hex: "#2ea864"}
+    usage: >-
+      Used for success-state and completion icons.
+    anti_patterns:
+      - Do not use for actions.
+      - Do not use for neutral states.
+      - Do not use for decorative emphasis.
+    design_intent: >-
+      Provide immediate visual confirmation of successful outcomes.
+
+  - id: token.icon.cta
+    figma_name: "icon/cta"
+    value:
+      light: {alias: color.gray.200, hex: "#171717"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for interactive icons inside CTAs and surface actions.
+    anti_patterns:
+      - Do not use for informational icons.
+      - Do not use for status communication.
+      - Do not use for passive content.
+    design_intent: >-
+      Reinforce actionability and interactive affordance.
+
+  - id: token.button.primary.background
+    figma_name: "button/primary/background"
+    value:
+      light: {alias: color.gray.300, hex: "#292929"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for the highest-priority action on a screen.
+    anti_patterns:
+      - Do not use more than one primary action within the same hierarchy level.
+      - Do not use for secondary actions.
+    design_intent: >-
+      Create a clear focal point for the user's most important action.
+
+  - id: token.button.primary.disabled
+    figma_name: "button/primary/disabled"
+    value:
+      light: {alias: color.gray.1000, hex: "#f7f7f7"}
+      dark: {alias: color.gray.200, hex: "#171717"}
+    usage: >-
+      Used when the primary action is unavailable.
+    anti_patterns:
+      - Do not use as an inactive state.
+      - Do not use for loading states.
+    design_intent: >-
+      Communicate temporary unavailability while preserving action
+      discoverability.
+
+  - id: token.button.primary.pressed
+    figma_name: "button/primary/pressed"
+    value:
+      light: {alias: color.gray.500, hex: "#696969"}
+      dark: {alias: color.gray.600, hex: "#919191"}
+    usage: >-
+      Used during active press interaction.
+    anti_patterns:
+      - Do not use as default state.
+      - Do not use as selected state.
+    design_intent: >-
+      Provide tactile feedback during user interaction.
+
+  - id: token.button.secondary.background
+    figma_name: "button/secondary/background"
+    value:
+      light: {alias: color.gray.1000, hex: "#f7f7f7"}
+      dark: {alias: color.gray.300, hex: "#292929"}
+    usage: >-
+      Used for supporting actions adjacent to primary actions.
+    anti_patterns:
+      - Do not use as primary CTA.
+      - Do not use for destructive actions.
+    design_intent: >-
+      Provide access to secondary actions without competing with primary actions.
+
+  - id: token.button.secondary.pressed
+    figma_name: "button/secondary/pressed"
+    value:
+      light: {alias: color.gray.500, hex: "#696969"}
+      dark: {hex: "#ffffff"}  # raw value, no primitive alias in Figma
+    usage: >-
+      Used during active interaction of secondary actions.
+    anti_patterns:
+      - Do not use as selected state.
+    design_intent: >-
+      Provide interaction feedback while preserving hierarchy.
+
+  - id: token.button.link.text
+    figma_name: "button/link/text"
+    value:
+      light: {alias: color.gray.400, hex: "#454545"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for low-emphasis textual actions.
+    anti_patterns:
+      - Do not use for primary actions.
+      - Do not use for destructive actions.
+    design_intent: >-
+      Enable lightweight actions without introducing visual weight.
+
+  - id: token.button.actionable.enabled
+    figma_name: "button/actionable/enabled"
+    value:
+      light: {alias: color.gray.600, hex: "#919191"}
+      dark: {alias: color.gray.600, hex: "#919191"}
+    usage: >-
+      Used for actionable icons such as chevrons, edit, close, and navigation
+      controls.
+    anti_patterns:
+      - Do not use for informational icons.
+      - Do not use for semantic communication.
+    design_intent: >-
+      Clearly communicate actionability through visual affordance.
+
+  - id: token.button.actionable.disabled
+    figma_name: "button/actionable/disabled"
+    value:
+      light: {alias: color.gray.900, hex: "#ededed"}
+      dark: {alias: color.gray.300, hex: "#292929"}
+    usage: >-
+      Used for disabled actionable controls.
+    anti_patterns:
+      - Do not use for inactive states.
+      - Do not use for informational icons.
+    design_intent: >-
+      Communicate unavailable actions without removing discoverability.
+
+  - id: token.button.toggle.thumb
+    figma_name: "button/toggle/thumb"
+    value:
+      light: {alias: color.gray.1000, hex: "#f7f7f7"}
+      dark: {alias: color.gray.200, hex: "#171717"}
+    usage: >-
+      Used for the movable thumb element in toggle controls.
+    anti_patterns:
+      - Do not use outside toggle controls.
+    design_intent: >-
+      Provide a clear interactive handle representing system state.
+
+  - id: token.button.toggle.track-active
+    figma_name: "button/toggle/track active"
+    value:
+      light: {alias: color.gray.200, hex: "#171717"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for enabled toggle states.
+    anti_patterns:
+      - Do not use for selection indicators.
+      - Do not use for progress.
+    design_intent: >-
+      Clearly communicate active system configuration.
+
+  - id: token.button.toggle.track-inactive
+    figma_name: "button/toggle/track inactive"
+    value:
+      light: {alias: color.gray.600, hex: "#919191"}
+      dark: {alias: color.gray.500, hex: "#696969"}
+    usage: >-
+      Used for disabled or inactive toggle states.
+    anti_patterns:
+      - Do not use for unavailable states.
+    design_intent: >-
+      Communicate an off state while maintaining discoverability.
+
+  - id: token.button.toggle.track-disabled
+    figma_name: "button/toggle/track disabled"
+    value:
+      light: {alias: color.gray.900, hex: "#ededed"}
+      dark: {alias: color.gray.300, hex: "#292929"}
+    usage: >-
+      Used when a toggle cannot be modified.
+    anti_patterns:
+      - Do not use as inactive state.
+    design_intent: >-
+      Communicate unavailable configuration controls.
+
+  - id: token.button.radio.on
+    figma_name: "button/radio/on"
+    value:
+      light: {alias: color.gray.200, hex: "#171717"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for selected radio options.
+    anti_patterns:
+      - Do not use for checkboxes.
+      - Do not use for toggles.
+    design_intent: >-
+      Communicate exclusive selection within a group.
+
+  - id: token.button.radio.offstroke
+    figma_name: "button/radio/off(stroke)"
+    value:
+      light: {alias: color.gray.700, hex: "#b5b5b5"}
+      dark: {alias: color.gray.500, hex: "#696969"}
+    usage: >-
+      Used for unselected radio options.
+    anti_patterns:
+      - Do not use for disabled states.
+    design_intent: >-
+      Maintain visibility of available choices.
+
+  - id: token.button.radio.disable
+    figma_name: "button/radio/disable"
+    value:
+      light: {alias: color.gray.900, hex: "#ededed"}
+      dark: {alias: color.gray.300, hex: "#292929"}
+    usage: >-
+      Used for unavailable radio options.
+    anti_patterns:
+      - Do not use for unselected states.
+    design_intent: >-
+      Communicate unavailable choices.
+
+  - id: token.button.checkbox.checked
+    figma_name: "button/checkbox/checked"
+    value:
+      light: {alias: color.gray.200, hex: "#171717"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for selected checkboxes.
+    anti_patterns:
+      - Do not use for radios.
+      - Do not use for toggles.
+    design_intent: >-
+      Communicate independent selection states.
+
+  - id: token.button.checkbox.unchecked
+    figma_name: "button/checkbox/unchecked"
+    value:
+      light: {alias: color.gray.700, hex: "#b5b5b5"}
+      dark: {alias: color.gray.500, hex: "#696969"}
+    usage: >-
+      Used for unselected checkboxes.
+    anti_patterns:
+      - Do not use for disabled states.
+    design_intent: >-
+      Maintain discoverability of selectable options.
+
+  - id: token.button.checkbox.disable
+    figma_name: "button/checkbox/disable"
+    value:
+      light: {alias: color.gray.900, hex: "#ededed"}
+      dark: {alias: color.gray.300, hex: "#292929"}
+    usage: >-
+      Used for unavailable checkbox controls.
+    anti_patterns:
+      - Do not use for unselected states.
+    design_intent: >-
+      Communicate unavailable selection controls.
+
+  - id: token.button.chip.selected
+    figma_name: "button/chip/selected"
+    value:
+      light: {alias: color.gray.200, hex: "#171717"}
+      dark: {alias: color.gray.1000, hex: "#f7f7f7"}
+    usage: >-
+      Used for selected filter and choice chips.
+    anti_patterns:
+      - Do not use for buttons.
+      - Do not use for navigation.
+    design_intent: >-
+      Provide strong recognition of active selections.
+
+  - id: token.button.chip.unselected-stroke
+    figma_name: "button/chip/unselected (stroke)"
+    value:
+      light: {alias: color.gray.700, hex: "#b5b5b5"}
+      dark: {alias: color.gray.500, hex: "#696969"}
+    usage: >-
+      Used for available but inactive chips.
+    anti_patterns:
+      - Do not use for disabled chips.
+    design_intent: >-
+      Maintain discoverability while preserving hierarchy.
+
+  - id: token.border.default
+    figma_name: "border/default"
+    value:
+      light: {alias: color.gray.800, hex: "#d1d1d1"}
+      dark: {alias: color.gray.500, hex: "#696969"}
+    usage: >-
+      Used for tiles, segmented controls, and low-elevation surfaces.
+    anti_patterns:
+      - Do not use for separators.
+      - Do not use for semantic communication.
+    design_intent: >-
+      Define boundaries without creating visual dominance.
+
+  - id: token.border.icon
+    figma_name: "border/icon"
+    value:
+      light: {alias: color.gray.700, hex: "#b5b5b5"}
+      dark: {alias: color.gray.500, hex: "#696969"}
+    usage: >-
+      Reserved for future icon-boundary use cases.
+    anti_patterns:
+      - Avoid implementation until formally defined.
+    design_intent: >-
+      Maintain future flexibility without affecting existing patterns.
+
+  - id: token.border.disable
+    figma_name: "border/disable"
+    value:
+      light: {alias: color.gray.900, hex: "#ededed"}
+      dark: {alias: color.gray.300, hex: "#292929"}
+    usage: >-
+      Used for disabled bordered controls.
+    anti_patterns:
+      - Do not use for inactive states.
+    design_intent: >-
+      Communicate unavailable interaction boundaries.
+
+  - id: token.border.separator-line
+    figma_name: "border/separator line"
+    value:
+      light: {alias: color.gray.900, hex: "#ededed"}
+      dark: {alias: color.gray.500, hex: "#696969"}
+    usage: >-
+      Used to separate content groups and card sections.
+    anti_patterns:
+      - Do not use as container borders.
+      - Do not use as decoration.
+    design_intent: >-
+      Provide structural organization without increasing visual clutter.
+
+  - id: token.battery.high
+    figma_name: "battery/high"
+    value:
+      light: {alias: color.green.300, hex: "#2ea864"}
+      dark: {alias: color.green.300, hex: "#2ea864"}
+    usage: >-
+      Used for healthy battery states.
+    anti_patterns:
+      - Do not use for generic success messaging.
+    design_intent: >-
+      Enable instant recognition of healthy battery status.
+
+  - id: token.battery.medium
+    figma_name: "battery/medium"
+    value:
+      light: {alias: color.amber.300, hex: "#d4882f"}
+      dark: {alias: color.amber.300, hex: "#d4882f"}
+    usage: >-
+      Used for moderate battery levels requiring awareness.
+    anti_patterns:
+      - Do not use for warnings unrelated to battery.
+    design_intent: >-
+      Encourage awareness before battery becomes critical.
+
+  - id: token.battery.critical
+    figma_name: "battery/critical"
+    value:
+      light: {alias: color.red.300, hex: "#dc4848"}
+      dark: {alias: color.red.300, hex: "#dc4848"}
+    usage: >-
+      Used for low battery states requiring attention.
+    anti_patterns:
+      - Do not use for generic errors.
+    design_intent: >-
+      Drive immediate recognition of battery depletion risk.
+
+  - id: token.ios.liquid-glass
+    figma_name: "Ios/Liquid glass"
+    value:
+      light: {hex: "#f7f7f7a6"}  # raw value, no primitive alias in Figma
+      dark: {hex: "#171717a6"}  # raw value, no primitive alias in Figma
+    usage: null  # no documentation row in Token Visualization (iOS material token)
+
+  - id: token.ios.primary-button
+    figma_name: "Ios/primary button"
+    value:
+      light: {hex: "#292929a6"}  # raw value, no primitive alias in Figma
+      dark: {hex: "#f7f7f7a6"}  # raw value, no primitive alias in Figma
+    usage: null  # no documentation row in Token Visualization (iOS material token)
+
+  - id: token.ios.secondary-button
+    figma_name: "Ios/Secondary button"
+    value:
+      light: {hex: "#f7f7f7a6"}  # raw value, no primitive alias in Figma
+      dark: {hex: "#292929a6"}  # raw value, no primitive alias in Figma
+    usage: null  # no documentation row in Token Visualization (iOS material token)
+
+  - id: token.ios.equalizer-card
+    figma_name: "Ios/Equalizer card"
+    value:
+      light: {hex: "#f7f7f700"}  # raw value, no primitive alias in Figma
+      dark: {hex: "#17171700"}  # raw value, no primitive alias in Figma
+    usage: null  # no documentation row in Token Visualization (iOS material token)

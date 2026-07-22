@@ -1,0 +1,88 @@
+{
+  "$canonical": "This maps device-facing features to the DeviceFeatures capabilities they require, and each device's support level. The RUNTIME truth is computed by DeviceType-branching in app/.../audio/AudioSDK.kt (getDashboardFeatures/getSoundGroupFeatures/getControlGroupFeatures + per-model helpers). This file is the intended capability-driven replacement (ADR-002). Status values: supported | degraded | unsupported | TODO(verify).",
+  "$statusLegend": "TODO(verify) = recon did not surface a direct per-model truth value; confirm against AudioSDK.kt resolver before relying on it. Only values with a cited source are confirmed.",
+  "$devices": ["HW-BUDS-1", "HW-MBUDS-2", "HW-MBUDS-MAX", "HW-BRIDGEPORT", "HW-ALT-OWS", "HW-ALT-CLIP", "HW-ALT-BUDS-S", "HW-ALT-BUDS"],
+  "features": [
+    {
+      "feature": "F-HOME-BATTERY",
+      "requires": ["BATTERY"],
+      "resolver": "AudioSDK.getDashboardFeatures (AudioSDK.kt:36-53); battery percent via NoiseChargingProgressView.kt:48-69",
+      "support": { "HW-BUDS-1": "supported", "HW-MBUDS-2": "supported", "HW-MBUDS-MAX": "supported", "HW-BRIDGEPORT": "supported", "HW-ALT-OWS": "supported", "HW-ALT-CLIP": "supported", "HW-ALT-BUDS-S": "supported", "HW-ALT-BUDS": "supported" }
+    },
+    {
+      "feature": "F-ANC",
+      "requires": ["ANC"],
+      "resolver": "AudioSDK.getDashboardFeatures/getSoundGroupFeatures (AudioSDK.kt:36-81); adaptive-ANC HomeCardSelector.kt:176-177",
+      "support": { "HW-BUDS-1": "TODO(verify)", "HW-MBUDS-2": "TODO(verify)", "HW-MBUDS-MAX": "TODO(verify)", "HW-BRIDGEPORT": "TODO(verify)", "HW-ALT-OWS": "TODO(verify — open-wear typically unsupported)", "HW-ALT-CLIP": "TODO(verify)", "HW-ALT-BUDS-S": "TODO(verify)", "HW-ALT-BUDS": "TODO(verify)" }
+    },
+    {
+      "feature": "F-EQ",
+      "requires": ["EQ or EQ_9"],
+      "resolver": "eqFeatureFor() chooses EQ_9 when custom_eq_config has >=4 freqs else EQ (AudioSDK.kt:55-57) — data-driven, the clean pattern; EqualizerMaxViewModel branches per model (kt:52-61,124-134,353-373)",
+      "support": { "HW-BUDS-1": "TODO(verify)", "HW-MBUDS-2": "TODO(verify)", "HW-MBUDS-MAX": "TODO(verify)", "HW-BRIDGEPORT": "TODO(verify)", "HW-ALT-OWS": "TODO(verify)", "HW-ALT-CLIP": "TODO(verify)", "HW-ALT-BUDS-S": "TODO(verify)", "HW-ALT-BUDS": "TODO(verify)" }
+    },
+    {
+      "feature": "F-SOUND-SPATIAL",
+      "requires": ["SPATIAL_AUDIO", "SPATIAL_INFO"],
+      "resolver": "getSoundGroupFeatures/getControlGroupFeatures (AudioSDK.kt:59-94); showSpatialInfo() true ONLY for MASTER_BUDS_2 (AudioSDK.kt:186-196)",
+      "support": { "HW-BUDS-1": "TODO(verify)", "HW-MBUDS-2": "supported", "HW-MBUDS-MAX": "TODO(verify)", "HW-BRIDGEPORT": "TODO(verify)", "HW-ALT-OWS": "TODO(verify)", "HW-ALT-CLIP": "TODO(verify)", "HW-ALT-BUDS-S": "TODO(verify)", "HW-ALT-BUDS": "TODO(verify)" }
+    },
+    {
+      "feature": "F-SOUND-GAMING",
+      "requires": ["GAMING_MODE"],
+      "resolver": "getSoundGroupFeatures (AudioSDK.kt:59-81)",
+      "support": { "$all": "TODO(verify)" }
+    },
+    {
+      "feature": "F-SOUND-AUDIOBOOST",
+      "requires": ["AUDIO_BOOST"],
+      "resolver": "canEnableAudioBoost() (SoundSettingsViewModel.kt:123); audioBoost gating AudioSDK.kt:79",
+      "support": { "$all": "TODO(verify)" }
+    },
+    {
+      "feature": "F-SOUND-SIDETONE-BASS",
+      "requires": ["SIDETONE", "BASS_BOOST"],
+      "resolver": "getSoundGroupFeatures (AudioSDK.kt:59-81)",
+      "support": { "$all": "TODO(verify)" }
+    },
+    {
+      "feature": "F-TOUCH",
+      "requires": ["TOUCH_GESTURE", "CUSTOMIZE_BUTTON_LEFT", "CUSTOMIZE_BUTTON_RIGHT"],
+      "resolver": "TouchGesturesViewModelV2; four-tap only ALT_BUDS_S & ALT_CLIP (hasFourTapSupport, kt:300-303); isMax label branch (TouchGestureFragmentV2.kt:55,67-68)",
+      "support": { "HW-BUDS-1": "TODO(verify)", "HW-MBUDS-2": "TODO(verify)", "HW-MBUDS-MAX": "degraded (headphone button model differs)", "HW-BRIDGEPORT": "TODO(verify)", "HW-ALT-OWS": "TODO(verify)", "HW-ALT-CLIP": "supported (+four-tap)", "HW-ALT-BUDS-S": "supported (+four-tap)", "HW-ALT-BUDS": "TODO(verify)" }
+    },
+    {
+      "feature": "F-MOTION",
+      "requires": ["MOTION_CONTROL"],
+      "resolver": "getControlGroupFeatures (AudioSDK.kt:82-94)",
+      "support": { "$all": "TODO(verify)" }
+    },
+    {
+      "feature": "F-WEAR-DETECTION",
+      "requires": ["WEAR_DETECTION", "WEAR_STATE"],
+      "resolver": "hasWearDetection(audioDevice) per-model boolean (AudioSDK.kt:198-207)",
+      "support": { "$all": "TODO(verify) — per-model table at AudioSDK.kt:200-204" }
+    },
+    {
+      "feature": "F-DUAL",
+      "requires": ["multi-point / headphones"],
+      "resolver": "isHeadphones() / type==MASTER_BUDS_MAX (DualPairingViewModel.kt:34-37)",
+      "support": { "HW-MBUDS-MAX": "supported", "$others": "TODO(verify)" }
+    },
+    {
+      "feature": "F-FIRMWARE",
+      "requires": ["OTA transport"],
+      "resolver": "BES-SPP/Max: BesUpdateDeviceUnitsHandler; JL: JLSppOtaManager (quirks ADR-016); ALT-OWS: AltOwsOtaManager",
+      "support": { "HW-BUDS-1": "supported", "HW-MBUDS-2": "supported", "HW-MBUDS-MAX": "supported", "HW-BRIDGEPORT": "supported", "HW-ALT-OWS": "supported", "HW-ALT-CLIP": "TODO(verify)", "HW-ALT-BUDS-S": "degraded (JL OTA quirks, ADR-016)", "HW-ALT-BUDS": "degraded (JL OTA quirks, ADR-016)" }
+    },
+    {
+      "feature": "F-FINDMY",
+      "requires": ["FindMyBuds command"],
+      "resolver": "FindMyEarBudsFragment (buds) / FindMyHeadPhoneFragment (headphones); find_my_device_play_click device_type prop",
+      "support": { "HW-MBUDS-MAX": "supported (headphone variant)", "$others": "TODO(verify) — buds variant" }
+    }
+  ],
+  "appLevelFeatures": {
+    "$note": "These do not depend on device capability and apply regardless of HW-*: F-AUTH, F-AI-VOICE, F-AI-CHAT, F-AI-TRANSCRIBE, F-WARRANTY, F-RATE-EARN, F-PROFILE, F-SETTINGS, F-LANGUAGE, F-HELP, F-ABOUT, F-APP-UPDATE, F-PRODUCT-GUIDE, F-ONBOARDING."
+  }
+}

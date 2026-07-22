@@ -1,0 +1,87 @@
+/* L1 inner page navigation — organism (figma 2007:1007)
+   56px tall, 0 12px padding, transparent at rest.
+   Scrolled state: canvas fill + the ONLY drop shadow allowed in the system. */
+
+.nds-l1-inner-nav {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+  padding: 0 12px;
+  background: transparent;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.nds-l1-inner-nav.is-scrolled {
+  background: var(--token-background-canvas);
+  /* shadow exception: the only drop shadow permitted anywhere in the system */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* centered heading slot (receives the promoted L2 heading on scroll; base variants only) */
+.nds-l1-inner-nav__title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 70%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0;
+  color: var(--token-text-primary);
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.1; /* font.heading.small */
+  text-align: center;
+}
+
+.nds-l1-inner-nav__trailing {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+/* self-contained system icons (restart, download-success, contextual actions) */
+.nds-l1-inner-nav__sysicon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  color: var(--token-button-actionable-enabled);
+}
+
+.nds-l1-inner-nav__sysicon svg {
+  display: block;
+}
+
+/* items-selected variant: close + count cluster */
+.nds-l1-inner-nav__selection {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.nds-l1-inner-nav__count {
+  margin: 0;
+  color: var(--token-text-primary);
+  font-family: var(--font-family-body);
+  font-weight: 400;
+  font-size: 14px; /* font.body.medium */
+}
+
+/* ai-token-banner variant: self-contained chip (raw colors in Figma, not tokenized) */
+.nds-l1-inner-nav__ai-chip {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: 12px;
+  background: #f6fdf5;
+  border: 1px solid #ade6a5;
+  color: var(--token-text-primary);
+  font-family: var(--font-family-body);
+  font-size: 12px;
+}

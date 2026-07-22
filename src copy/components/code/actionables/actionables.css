@@ -1,0 +1,13 @@
+/* Actionables — molecule (figma 2031:1132)
+   36x36 slot centering exactly one hosted atom (chevron / toggle / checkbox /
+   cross / radio-button). The slot guarantees a constant touch target so
+   swapping the atom never shifts layout. */
+
+.nds-actionable {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 36px;
+  height: 36px;
+}

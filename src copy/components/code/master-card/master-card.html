@@ -1,0 +1,80 @@
+<!-- Master card — organism (figma 396:728). Metadata: master-card.yaml
+     Children referenced by node ID: actionables (2031:1132), heading-content-component (301:20202).
+     Rule reminder: never use the checkbox actionable inside this component. -->
+
+<!-- Standalone card: leading icon + heading-content + chevron actionable -->
+<div class="nds-master-card">
+  <span class="nds-master-card__icon" aria-hidden="true">
+    <!-- internal part: circled icon (placeholder glyph slot) -->
+    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+      <circle cx="10" cy="10" r="8" stroke="currentColor" stroke-width="1.5"/>
+    </svg>
+  </span>
+  <div class="nds-master-card__content">
+    <div class="nds-heading-content">
+      <p class="nds-heading-content__heading">Audio boost</p>
+      <p class="nds-heading-content__body">Amplify your audio for a louder and richer sound</p>
+    </div>
+  </div>
+  <span class="nds-master-card__action">
+    <span class="nds-actionable">
+      <span class="nds-chevron dir-forward" aria-hidden="true">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+          <path d="M15.5 5L8.5 12L15.5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </span>
+    </span>
+  </span>
+</div>
+
+<!-- Standalone card with notification chin (standalone mode only) -->
+<div class="nds-master-card-standalone">
+  <div class="nds-master-card">
+    <div class="nds-master-card__content">
+      <div class="nds-heading-content">
+        <p class="nds-heading-content__heading">Spatial audio</p>
+        <p class="nds-heading-content__body">Immersive 3D sound experience</p>
+      </div>
+    </div>
+    <span class="nds-master-card__action">
+      <span class="nds-actionable">
+        <button class="nds-toggle is-on" role="switch" aria-checked="true"></button>
+      </span>
+    </span>
+  </div>
+  <div class="nds-master-card__chin">Please disable ANC to experience Spatial Audio</div>
+</div>
+
+<!-- Grouped list: container owns surface + radius, rows separated -->
+<div class="nds-card-group">
+  <div class="nds-master-card">
+    <div class="nds-master-card__content">
+      <div class="nds-heading-content">
+        <p class="nds-heading-content__heading">Equalizer</p>
+        <p class="nds-heading-content__body">Tune the sound your way</p>
+      </div>
+    </div>
+    <span class="nds-master-card__action">
+      <span class="nds-actionable">
+        <span class="nds-chevron dir-forward" aria-hidden="true">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+            <path d="M15.5 5L8.5 12L15.5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </span>
+      </span>
+    </span>
+  </div>
+  <div class="nds-master-card">
+    <div class="nds-master-card__content">
+      <div class="nds-heading-content">
+        <p class="nds-heading-content__heading">Low latency mode</p>
+        <p class="nds-heading-content__body">Best for gaming and videos</p>
+      </div>
+    </div>
+    <span class="nds-master-card__action">
+      <span class="nds-actionable">
+        <button class="nds-toggle" role="switch" aria-checked="false"></button>
+      </span>
+    </span>
+  </div>
+</div>

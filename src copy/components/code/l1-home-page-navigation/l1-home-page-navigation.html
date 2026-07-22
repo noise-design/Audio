@@ -1,0 +1,45 @@
+<!-- L1/Home page navigation — organism (figma 243:6378). Metadata: l1-home-page-navigation.yaml
+     Surface-level pages only (homepage, settings, noise-ai). Parts are
+     self-contained / not-linked placeholders in this test run. -->
+
+<nav class="nds-l1-home-nav">
+  <span class="nds-l1-home-nav__devices">
+    <!-- internal part: system/Selected device -->
+    <button class="nds-l1-home-nav__device is-selected" aria-label="Selected device" aria-pressed="true">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <path d="M4 11V7a4 4 0 0 1 8 0v4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <rect x="2.5" y="9" width="3" height="4.5" rx="1.2" fill="currentColor"/>
+        <rect x="10.5" y="9" width="3" height="4.5" rx="1.2" fill="currentColor"/>
+      </svg>
+    </button>
+    <!-- internal part: system/Device option -->
+    <button class="nds-l1-home-nav__device" aria-label="Device option">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <rect x="5" y="2.5" width="6" height="11" rx="2" stroke="currentColor" stroke-width="1.5"/>
+      </svg>
+    </button>
+    <!-- internal part: system/Device adder -->
+    <button class="nds-l1-home-nav__adder" aria-label="Add device">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M12 8.5v7M8.5 12h7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </button>
+  </span>
+  <span class="nds-l1-home-nav__trailing">
+    <!-- internal part: system/Downloading Success -->
+    <span class="nds-l1-home-nav__sysicon" role="button" aria-label="Downloads" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M12 4v10m0 0l-4-4m4 4l4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M5 19h14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </span>
+    <!-- internal part: system/Store -->
+    <span class="nds-l1-home-nav__sysicon" role="button" aria-label="Store" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M5.5 8.5h13l-1 11h-11l-1-11Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+        <path d="M9 11V7a3 3 0 0 1 6 0v4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </span>
+  </span>
+</nav>

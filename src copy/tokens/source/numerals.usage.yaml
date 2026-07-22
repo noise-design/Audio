@@ -1,0 +1,84 @@
+# Noise Audio DLS — numeral tokens (spacing, gaps, radius, padding)
+# Source of truth: Figma variables, collection "numeral" (VariableCollectionId:281:7673)
+# Usage rules for spacing live in the "spacing component" (node 2036:3057) — see components layer.
+
+meta:
+  layer: numeral
+  figma_file: QjVyM5bRXgIOZn8PO1e0eK
+  figma_page: "Test pilot run"  # 2025:148
+  variable_collection: numeral  # VariableCollectionId:281:7673
+  unit: px
+
+spacing:
+  - id: space.xs
+    figma_name: "XS"
+    value: 4
+  - id: space.s
+    figma_name: "S"
+    value: 8
+  - id: space.m
+    figma_name: "M"
+    value: 12
+  - id: space.l
+    figma_name: "L"
+    value: 16
+  - id: space.xl
+    figma_name: "XL"
+    value: 24
+  - id: space.xxl
+    figma_name: "XXL"
+    value: 32
+  - id: space.xxxl
+    figma_name: "XXXL"
+    value: 44
+  - id: space.very-big
+    figma_name: "Very big"
+    value: 56
+  - id: space.rarely-use
+    figma_name: "Rarely use"
+    value: 80
+
+gaps:
+  - id: gaps.bottom-sheet
+    figma_name: "Gaps/bottom sheet"
+    value: 24
+  - id: gaps.l2-card-gap
+    figma_name: "Gaps/L2-Card Gap"
+    value: 16
+  - id: gaps.small-gap
+    figma_name: "Gaps/small gap"
+    value: 12
+  - id: gaps.smaller-gap
+    figma_name: "Gaps/smaller gap"
+    value: 8
+
+radius:
+  - id: radius.card
+    figma_name: "Radius/Card"
+    value: 18
+  - id: radius.bottomsheet
+    figma_name: "Radius/Bottomsheet"
+    value: 32
+  - id: radius.slider-button
+    figma_name: "Radius/Slider button"
+    value: 8
+  - id: radius.tiniest
+    figma_name: "Radius/Tiniest"
+    value: 12
+
+padding:
+  - id: padding.screen-side-margin
+    figma_name: "Padding/Screen side margin"
+    value: 0
+  - id: padding.top-bottom-padding-small
+    figma_name: "Padding/top, bottom padding small"
+    value: 12
+  - id: padding.card-side-padding
+    figma_name: "Padding/Card Side Padding"
+    value: 16
+  - id: padding.card-top-bottom-padding
+    figma_name: "Padding/Card Top, bottom Padding"
+    value: 16
+  - id: padding.bottomsheet-padding
+    figma_name: "Padding/Bottomsheet padding"
+    value: 20

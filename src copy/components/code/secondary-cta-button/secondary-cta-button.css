@@ -1,0 +1,41 @@
+/* Secondary CTA Button — atom (figma 250:4953)
+   Figma spec: 56px height, 0 29px padding, radius 50 (pill), Geist SemiBold 14.
+   Regular width 358, bottom-sheet width 334 (reference frames at 390 viewport).
+   Note: disabled keeps the enabled background; only the label drops to text/disabled. */
+
+.nds-secondary-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 358px;
+  height: 56px;
+  padding: 0 29px;
+  border: none;
+  border-radius: 50px;
+  background: var(--token-button-secondary-background);
+  color: var(--token-text-cta);
+  font-family: var(--font-family-body);
+  font-weight: 600;
+  font-size: 14px; /* font.title.large */
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.nds-secondary-cta.usage-bottomsheet {
+  max-width: 334px;
+}
+
+.nds-secondary-cta:active,
+.nds-secondary-cta.is-pressed {
+  background: var(--token-button-secondary-pressed);
+  color: var(--token-text-inverted);
+}
+
+.nds-secondary-cta:disabled,
+.nds-secondary-cta.is-disabled {
+  background: var(--token-button-secondary-background);
+  color: var(--token-text-disabled);
+  cursor: not-allowed;
+}

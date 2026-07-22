@@ -1,0 +1,21 @@
+/* L2/Inner pages Heading — molecule (figma 244:133)
+   8px vertical / 16px horizontal padding, min-height 56px, content-driven
+   height. Heading = font.heading.medium (Saira SemiBold 34, 110% line-height).
+   Sits flush under the L1 inner page navigation (no gap). */
+
+.nds-l2-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 56px;
+  padding: 8px 16px;
+}
+
+.nds-l2-heading__title {
+  margin: 0;
+  color: var(--token-text-primary);
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 1.1; /* font.heading.medium */
+}

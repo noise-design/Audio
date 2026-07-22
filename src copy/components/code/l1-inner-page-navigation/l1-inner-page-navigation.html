@@ -1,0 +1,116 @@
+<!-- L1 inner page navigation — organism (figma 2007:1007). Metadata: l1-inner-page-navigation.yaml
+     Children referenced by node ID: chevron (2031:1154), cross (2031:1201). -->
+
+<!-- state=Clean-Only Chevron -->
+<nav class="nds-l1-inner-nav">
+  <span class="nds-chevron dir-back" role="button" aria-label="Back" tabindex="0">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M15.5 5L8.5 12L15.5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </span>
+</nav>
+
+<!-- state=One icon -->
+<nav class="nds-l1-inner-nav">
+  <span class="nds-chevron dir-back" role="button" aria-label="Back" tabindex="0">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M15.5 5L8.5 12L15.5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </span>
+  <span class="nds-l1-inner-nav__trailing">
+    <!-- internal part: system/Restart (placeholder glyph) -->
+    <span class="nds-l1-inner-nav__sysicon" role="button" aria-label="Restart" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M19 12a7 7 0 1 1-2-4.9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M17.5 3.5v4h-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  </span>
+</nav>
+
+<!-- state=two icon -->
+<nav class="nds-l1-inner-nav">
+  <span class="nds-chevron dir-back" role="button" aria-label="Back" tabindex="0">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M15.5 5L8.5 12L15.5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </span>
+  <span class="nds-l1-inner-nav__trailing">
+    <!-- internal part: system/Downloading Success (placeholder glyph) -->
+    <span class="nds-l1-inner-nav__sysicon" role="button" aria-label="Downloads" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M12 4v10m0 0l-4-4m4 4l4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M5 19h14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </span>
+    <span class="nds-l1-inner-nav__sysicon" role="button" aria-label="Restart" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M19 12a7 7 0 1 1-2-4.9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M17.5 3.5v4h-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  </span>
+</nav>
+
+<!-- state=Heading (base variant with heading on — shown here in scrolled state) -->
+<nav class="nds-l1-inner-nav is-scrolled">
+  <span class="nds-chevron dir-back" role="button" aria-label="Back" tabindex="0">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M15.5 5L8.5 12L15.5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </span>
+  <h1 class="nds-l1-inner-nav__title">PRODUCT TIPS</h1>
+  <span class="nds-l1-inner-nav__trailing">
+    <span class="nds-l1-inner-nav__sysicon" role="button" aria-label="Restart" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M19 12a7 7 0 1 1-2-4.9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M17.5 3.5v4h-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  </span>
+</nav>
+
+<!-- state=AI Token Banner (heading-incapable) -->
+<nav class="nds-l1-inner-nav">
+  <span class="nds-chevron dir-back" role="button" aria-label="Back" tabindex="0">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+      <path d="M15.5 5L8.5 12L15.5 19" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </span>
+  <!-- internal part: AI credit indicator chip (raw colors in Figma, not tokenized) -->
+  <span class="nds-l1-inner-nav__ai-chip">120 mins available</span>
+  <span class="nds-l1-inner-nav__trailing">
+    <span class="nds-l1-inner-nav__sysicon" role="button" aria-label="Restart" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M19 12a7 7 0 1 1-2-4.9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M17.5 3.5v4h-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  </span>
+</nav>
+
+<!-- state=Items Selected (heading-incapable; only during active selection) -->
+<nav class="nds-l1-inner-nav">
+  <span class="nds-l1-inner-nav__selection">
+    <span class="nds-cross" role="button" aria-label="Exit selection" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </span>
+    <p class="nds-l1-inner-nav__count">1 item selected</p>
+  </span>
+  <span class="nds-l1-inner-nav__trailing">
+    <span class="nds-l1-inner-nav__sysicon" role="button" aria-label="Downloads" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M12 4v10m0 0l-4-4m4 4l4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M5 19h14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </span>
+    <span class="nds-l1-inner-nav__sysicon" role="button" aria-label="Restart" tabindex="0">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+        <path d="M19 12a7 7 0 1 1-2-4.9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <path d="M17.5 3.5v4h-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  </span>
+</nav>

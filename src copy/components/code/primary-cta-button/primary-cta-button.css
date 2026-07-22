@@ -1,0 +1,39 @@
+/* Primary CTA Button — atom (figma 248:4940)
+   Figma spec: 56px height, 0 29px padding, radius 50 (pill), Geist SemiBold 14.
+   Regular width 358, bottom-sheet width 334 (reference frames at 390 viewport). */
+
+.nds-primary-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  max-width: 358px;
+  height: 56px;
+  padding: 0 29px;
+  border: none;
+  border-radius: 50px;
+  background: var(--token-button-primary-background);
+  color: var(--token-text-inverted);
+  font-family: var(--font-family-body);
+  font-weight: 600;
+  font-size: 14px; /* font.title.large */
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.nds-primary-cta.usage-bottomsheet {
+  max-width: 334px;
+}
+
+.nds-primary-cta:active,
+.nds-primary-cta.is-pressed {
+  background: var(--token-button-primary-pressed);
+}
+
+.nds-primary-cta:disabled,
+.nds-primary-cta.is-disabled {
+  background: var(--token-button-primary-disabled);
+  color: var(--token-text-disabled);
+  cursor: not-allowed;
+}

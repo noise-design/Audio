@@ -1,0 +1,36 @@
+/* Checkbox — atom (figma 2031:1168)
+   24x24, radius 4.5, stroke 1.5. Selected = filled box + knocked-out check. */
+
+.nds-checkbox {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+}
+
+.nds-checkbox svg {
+  display: block;
+}
+
+.nds-checkbox .box-fill {
+  fill: var(--token-button-checkbox-checked);
+}
+
+.nds-checkbox .box-stroke {
+  fill: none;
+  stroke: var(--token-button-checkbox-unchecked);
+  stroke-width: 1.5;
+}
+
+.nds-checkbox.is-disabled .box-stroke {
+  stroke: var(--token-button-checkbox-disable);
+}
+
+.nds-checkbox .check {
+  fill: none;
+  stroke: var(--token-background-surface); /* knock-out against the filled box */
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}

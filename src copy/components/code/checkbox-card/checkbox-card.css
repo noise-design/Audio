@@ -1,0 +1,38 @@
+/* Checkbox card — organism (figma 2032:1265)
+   Row: 8px vertical / 16px horizontal padding, 8px gap in the content cluster.
+   Lives only inside .nds-checkbox-card-group (surface token, 18px radius,
+   12px top/bottom padding, no internal spacing between rows). */
+
+.nds-checkbox-card-group {
+  width: 100%;
+  max-width: 358px;
+  padding: 12px 0;
+  background: var(--token-background-surface);
+  border-radius: var(--radius-card, 18px);
+  overflow: hidden;
+}
+
+.nds-checkbox-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 8px 16px;
+}
+
+.nds-checkbox-card__cluster {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1;
+  min-width: 0;
+}
+
+.nds-checkbox-card__cluster .nds-heading-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.nds-checkbox-card__remove {
+  flex: none;
+}

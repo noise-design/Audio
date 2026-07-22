@@ -1,0 +1,33 @@
+{
+  "$canonical": "NEW canonical for animation timing. No motion token layer exists in code today — durations/easings are magic numbers scattered across ~30 files (ADR-012). This file proposes the token set to migrate to; values are the DISTINCT durations actually observed, grouped into a scale. Adopt via .claude/rules/motion.md.",
+  "$observedDurationsMs": [0, 120, 160, 180, 250, 300, 360, 400, 500, 600, 900, 1000, 2000],
+  "duration": {
+    "instant": 0,
+    "micro": 120,
+    "fast": 180,
+    "base": 300,
+    "moderate": 400,
+    "slow": 500,
+    "slower": 600,
+    "deliberate": 900,
+    "intro": 1000,
+    "hero": 2000,
+    "$note": "300ms is the de-facto default (res/anim/*, dimens animation_duration, const ANIMATION_DURATION_MS). 250/160/360 also appear and should map to the nearest step or be justified."
+  },
+  "easing": {
+    "$observed": ["AccelerateDecelerateInterpolator (View, most common)", "DecelerateInterpolator (View)", "LinearInterpolator (View)", "LinearOutSlowInEasing (Compose, FaqScreen only)", "FastOutSlowInEasing (imported unused)"],
+    "standard": "AccelerateDecelerate (View) / FastOutSlowInEasing (Compose)",
+    "decelerate": "Decelerate (enter)",
+    "linear": "Linear (spinners/rotation only)"
+  },
+  "reducedMotion": {
+    "$status": "ABSENT — no code checks Settings.Global.ANIMATOR_DURATION_SCALE or accessibility reduce-motion anywhere.",
+    "$rule": "MANDATORY: honor reduced-motion (fall back to duration.instant / cross-fade). Gate in .claude/rules/motion.md."
+  },
+  "$duplicatedConstants": [
+    "ANIM_DEFAULT_DURATION=1000L copy-pasted in LoginFragment.kt:63 and LoginFragmentV2.kt:74",
+    "FAB_ANIM_TIME=500L (ActiveNoiseCancellationViewModel.kt:24)",
+    "ANIMATION_DURATION_MS=300L (TopStatusBanner.kt:22)",
+    "dimens.xml animation_duration=300 (a duration stored as a dimen)"
+  ]
+}

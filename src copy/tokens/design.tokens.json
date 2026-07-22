@@ -1,0 +1,64 @@
+{
+  "$canonical_today": "Code TODAY consumes app/src/main/res/values/colors.xml (XML) + dimens.xml + styles.xml. This file is the deduplicated extraction and the INTENDED single source once a Compose token layer is generated (ADR-006). Until migration, colors.xml wins for XML views. Compose currently duplicates these hexes as local private vals — those are violations (.claude/rules/design-system.md).",
+  "$idFormat": "Semantic tokens reference primitives. Primitives are named by hex to expose duplication.",
+  "color": {
+    "primitive": {
+      "$note": "One entry per UNIQUE hex found. The 'aka' list shows every colors.xml name (and Compose local val) that resolves to it — duplication to collapse.",
+      "slate-43555E": { "hex": "#43555E", "aka": ["title_color", "bg_device_connect", "color_highlight_link", "card_title_color", "themes.colorAccent", "Compose CardTitleColor", "Compose TitleColor"] },
+      "slate-54656D": { "hex": "#54656D", "aka": ["black_hp_title_enable_color", "header_title_black_color", "title_enable_black_color", "icon_black_color", "header_title_white_color", "warranty_pending", "Compose SlateText", "Compose ChevronTint"] },
+      "muted-879399": { "hex": "#879399", "aka": ["hint_color_default", "body_enable_black_color", "body_enable_white_color", "card_message_color", "Compose AnswerText", "Compose CardMessageColor"] },
+      "arrow-4C5252": { "hex": "#4C5252", "aka": ["back_arrow_color", "firm_update_title_color", "Compose HeaderText", "Compose ItemTitleColor"] },
+      "ink-232726": { "hex": "#232726", "aka": ["switch_on_black_color", "switch_on_tit_gold_color", "switch_on_white_color", "Compose DarkInk", "Compose TrackChecked", "Compose ButtonBackground"] },
+      "card-bg-F7F7F7": { "hex": "#F7F7F7", "aka": ["Compose CardBackground", "Compose ListBackground"], "note": "Compose-only, not in colors.xml" },
+      "ink-131414": { "hex": "#131414", "aka": ["dark_color", "anc_selected"] },
+      "gold-978C74": { "hex": "#978C74", "aka": ["widget_title_color", "anc_unselected"] },
+      "error-D94B37": { "hex": "#D94B37", "aka": ["color_error"] },
+      "critical-F6493E": { "hex": "#F6493E", "aka": ["home_critical"] },
+      "black-FF000000": { "hex": "#FF000000", "aka": ["black", "md_theme_light_accent", "md_theme_light_text_color"] },
+      "white-FFFFFFFF": { "hex": "#FFFFFFFF", "aka": ["white"] }
+    },
+    "semantic": {
+      "text.primary": "slate-43555E",
+      "text.secondary": "muted-879399",
+      "text.strong": "slate-54656D",
+      "accent": "slate-43555E",
+      "ink": "ink-232726",
+      "error": "error-D94B37",
+      "critical": "critical-F6493E",
+      "surface.card": "card-bg-F7F7F7",
+      "anc.selected": "ink-131414",
+      "anc.unselected": "gold-978C74"
+    },
+    "state": {
+      "warranty": { "pending": "#54656D", "approved": "#1E8D29", "expired": "#302F2D", "rejected": "#BB1515", "provisional": "#B6732B" },
+      "battery": { "below10": "#B85859", "below20": "#B88A58", "below100": "#4B906F" }
+    },
+    "colorway": {
+      "$note": "Per device-finish color groups from colors.xml (buds/case/left/right states). Kept as reference groups, not collapsed — they are intentionally per-finish. Source: colors.xml lines 70-151.",
+      "groups": ["black", "titanium_gold", "white", "silver", "buds"],
+      "roles": ["header_title", "title_enable", "title_disable", "body_enable", "body_disable", "icon", "bg", "switch_on", "switch_off", "switch_disable", "back_start", "back_center", "back_end", "back_container", "outline", "toggle_bg", "toggle_text"]
+    }
+  },
+  "spacing": {
+    "$source": "res/values/dimens.xml (dimen_*dp scale)",
+    "scale": { "0": "0dp", "2": "2dp", "4": "4dp", "8": "8dp", "12": "12dp", "16": "16dp", "18": "18dp", "20": "20dp", "24": "24dp", "28": "28dp", "30": "30dp", "32": "32dp", "40": "40dp", "48": "48dp", "56": "56dp", "80": "80dp", "96": "96dp" },
+    "semantic": { "screen.margin": "16dp (activity_horizontal/vertical_margin, side_margin, text_margin, fab_margin, list_item_spacing)", "section.gap": "24dp", "edit_text.height": "56dp", "app_bar.height": "180dp" },
+    "$violation": "No Compose spacing tokens exist; Compose uses raw .dp (~54 sites). See ADR-006 / design-system rule."
+  },
+  "typography": {
+    "$fonts": ["Clash Display (regular/medium/semibold)", "Roboto Mono (regular/italic/medium)"],
+    "$source": "res/font/*, res/values/styles.xml, ui/theme/NoiseFonts.kt",
+    "scale_sp": [10, 11, 12, 13, 14, 16, 18, 20, 22, 24, 28, 30, 32, 33, 34, 36, 48],
+    "named": { "H24": "24sp", "H4": "18sp", "H6": "14sp", "S34": "34sp", "S16": "16sp", "Small": "12sp", "toolbar.expanded": "32sp", "toolbar.collapsed": "24sp" },
+    "$violations": [
+      "Compose Typography defines only bodyLarge; all other text sizes are raw .sp (~33 sites).",
+      "dimens.xml has redundant type-size names (text_size_16 == text_16sp).",
+      "styles.xml Sequel100Wide aliased to clash_display_medium with TODO 'replace when font available from design team'."
+    ]
+  },
+  "radius": {
+    "$source": "res/values/themes.xml ShapeAppearanceOverlay",
+    "button": "24dp", "dialog": "28dp",
+    "$bug": "ShapeAppearanceOverlay.App.CornerSize16dp actually sets 14dp (themes.xml:36-38)."
+  }
+}

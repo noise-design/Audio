@@ -1,0 +1,70 @@
+/* L1/Home page navigation — organism (figma 243:6378)
+   56px tall, 0 12px padding, space-between.
+   Left: device switcher (selected 32, options 32, adder 24, 12px gap).
+   Right: downloads + store icons (24, 12px gap). */
+
+.nds-l1-home-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+  padding: 0 12px;
+}
+
+.nds-l1-home-nav__devices {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nds-l1-home-nav__device {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid var(--token-border-icon);
+  color: var(--token-icon-primary);
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.nds-l1-home-nav__device.is-selected {
+  border: 1.5px solid var(--token-icon-primary);
+}
+
+.nds-l1-home-nav__adder {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border: none;
+  background: none;
+  padding: 0;
+  color: var(--token-button-actionable-enabled);
+  cursor: pointer;
+}
+
+.nds-l1-home-nav__trailing {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.nds-l1-home-nav__sysicon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  color: var(--token-button-actionable-enabled);
+}
+
+.nds-l1-home-nav__sysicon svg,
+.nds-l1-home-nav__adder svg,
+.nds-l1-home-nav__device svg {
+  display: block;
+}

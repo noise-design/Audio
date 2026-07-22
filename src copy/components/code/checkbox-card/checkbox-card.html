@@ -1,0 +1,50 @@
+<!-- Checkbox card — organism (figma 2032:1265). Metadata: checkbox-card.yaml
+     Children referenced by node ID: actionables (2031:1132),
+     heading-content-component (301:20202), cross (2031:1201).
+     Must always live inside .nds-checkbox-card-group (never standalone). -->
+
+<div class="nds-checkbox-card-group">
+
+  <!-- position=checkbox Left: selectable AND removable -->
+  <div class="nds-checkbox-card">
+    <div class="nds-checkbox-card__cluster">
+      <span class="nds-actionable">
+        <span class="nds-checkbox is-selected" role="checkbox" aria-checked="true" tabindex="0">
+          <svg width="24" height="24" viewBox="0 0 24 24">
+            <rect class="box-fill" x="0" y="0" width="24" height="24" rx="4.5"/>
+            <path class="check" d="M6.5 12.5L10.2 16L17.5 8.5"/>
+          </svg>
+        </span>
+      </span>
+      <div class="nds-heading-content">
+        <p class="nds-heading-content__heading">Downloaded item</p>
+        <p class="nds-heading-content__body">Select to manage or remove this item</p>
+      </div>
+    </div>
+    <span class="nds-checkbox-card__remove">
+      <span class="nds-cross" role="button" aria-label="Remove" tabindex="0">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+          <path d="M6 6L18 18M18 6L6 18" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+      </span>
+    </span>
+  </div>
+
+  <!-- position=checkbox Right: selection is the only action -->
+  <div class="nds-checkbox-card">
+    <div class="nds-checkbox-card__cluster">
+      <div class="nds-heading-content">
+        <p class="nds-heading-content__heading">Saved recording</p>
+        <p class="nds-heading-content__body">Select this item</p>
+      </div>
+      <span class="nds-actionable">
+        <span class="nds-checkbox" role="checkbox" aria-checked="false" tabindex="0">
+          <svg width="24" height="24" viewBox="0 0 24 24">
+            <rect class="box-stroke" x="0.75" y="0.75" width="22.5" height="22.5" rx="4.5"/>
+          </svg>
+        </span>
+      </span>
+    </div>
+  </div>
+
+</div>

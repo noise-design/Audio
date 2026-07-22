@@ -1,0 +1,40 @@
+/* Toggle — atom (figma 2031:1190)
+   36x19 track (radius 40), 17x17 thumb inset 1px. */
+
+.nds-toggle {
+  position: relative;
+  display: inline-block;
+  width: 36px;
+  height: 19px;
+  border: none;
+  border-radius: 40px;
+  background: var(--token-button-toggle-track-inactive);
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.nds-toggle::after {
+  content: "";
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  background: var(--token-button-toggle-thumb);
+  transition: transform 0.15s ease;
+}
+
+.nds-toggle.is-on {
+  background: var(--token-button-toggle-track-active);
+}
+
+.nds-toggle.is-on::after {
+  transform: translateX(17px);
+}
+
+.nds-toggle.is-disabled,
+.nds-toggle:disabled {
+  background: var(--token-button-toggle-track-disabled);
+  cursor: not-allowed;
+}

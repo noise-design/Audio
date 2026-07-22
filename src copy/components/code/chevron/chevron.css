@@ -1,0 +1,33 @@
+/* Chevron — atom (figma 2031:1154)
+   24x24 icon, 1.5px stroke via currentColor.
+   Back = icon/primary (navigation); forward/up/down = button/actionable/enabled. */
+
+.nds-chevron {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  color: var(--token-button-actionable-enabled);
+}
+
+.nds-chevron svg {
+  display: block;
+}
+
+/* base svg points back (left); rotate for the other directions */
+.nds-chevron.dir-back {
+  color: var(--token-icon-primary);
+}
+
+.nds-chevron.dir-forward svg {
+  transform: rotate(180deg);
+}
+
+.nds-chevron.dir-up svg {
+  transform: rotate(90deg);
+}
+
+.nds-chevron.dir-down svg {
+  transform: rotate(-90deg);
+}

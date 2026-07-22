@@ -1,0 +1,33 @@
+/* Radio Button — atom (figma 2031:1178)
+   20x20 circle. Selected = fill + 11px surface-colored inner circle.
+   Unselected/disabled = 1px stroke circle. */
+
+.nds-radio {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+}
+
+.nds-radio svg {
+  display: block;
+}
+
+.nds-radio .radio-fill {
+  fill: var(--token-button-radio-on);
+}
+
+.nds-radio .radio-dot {
+  fill: var(--token-background-surface); /* punch-out against the filled circle */
+}
+
+.nds-radio .radio-stroke {
+  fill: none;
+  stroke: var(--token-button-radio-off-stroke);
+  stroke-width: 1;
+}
+
+.nds-radio.is-disabled .radio-stroke {
+  stroke: var(--token-button-radio-disable);
+}

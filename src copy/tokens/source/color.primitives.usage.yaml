@@ -1,0 +1,478 @@
+# Noise Audio DLS — color primitives
+# Source of truth: Figma variables, collection "color" (VariableCollectionId:10:2)
+# Metadata source: "Colors Visualization" frame (node 2035:1542) on page "Test pilot run" (2025:148)
+# Rule: primitives are NEVER used directly in product UI — they only feed semantic tokens.
+
+meta:
+  layer: primitive
+  figma_file: QjVyM5bRXgIOZn8PO1e0eK
+  figma_page: "Test pilot run"  # 2025:148
+  variable_collection: color  # VariableCollectionId:10:2
+  visualization_node: "2035:1542"
+
+tokens:
+  - id: color.gray.100
+    figma_name: "gray/100"
+    value: "#000000"
+    status: active
+    usage: >-
+      Lightest value in the gray scale used to build semantic tokens.
+    anti_patterns:
+      - Do not reference directly in product screens.
+      - Do not use as a semantic decision.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Provide the highest-lightness foundation for constructing semantic color
+      mappings.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.default.status-bar, mode: light}
+      - {token: token.background.canvas, mode: dark}
+
+  - id: color.gray.200
+    figma_name: "gray/200"
+    value: "#171717"
+    status: active
+    usage: >-
+      Light gray value used as a foundational step within the gray scale.
+    anti_patterns:
+      - Do not use directly in UI implementations.
+      - Do not assign component meaning.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Create a consistent tonal progression between the lightest and mid-tone
+      values.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface, mode: dark}
+      - {token: token.text.inverted, mode: dark}
+      - {token: token.text.cta, mode: light}
+      - {token: token.text.colored.gray, mode: light}
+      - {token: token.icon.inverted, mode: dark}
+      - {token: token.icon.cta, mode: light}
+      - {token: token.button.primary.disabled, mode: dark}
+      - {token: token.button.toggle.thumb, mode: dark}
+      - {token: token.button.toggle.track-active, mode: light}
+      - {token: token.button.radio.on, mode: light}
+      - {token: token.button.checkbox.checked, mode: light}
+      - {token: token.button.chip.selected, mode: light}
+
+  - id: color.gray.300
+    figma_name: "gray/300"
+    value: "#292929"
+    status: active
+    usage: >-
+      Light-mid gray value used for semantic token construction.
+    anti_patterns:
+      - Do not directly represent component states.
+      - Do not assign product meaning.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Support balanced tonal transitions across the grayscale system.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.raised-plus2, mode: dark}
+      - {token: token.button.primary.background, mode: light}
+      - {token: token.button.secondary.background, mode: dark}
+      - {token: token.button.actionable.disabled, mode: dark}
+      - {token: token.button.toggle.track-disabled, mode: dark}
+      - {token: token.button.radio.disable, mode: dark}
+      - {token: token.button.checkbox.disable, mode: dark}
+      - {token: token.border.disable, mode: dark}
+
+  - id: color.gray.400
+    figma_name: "gray/400"
+    value: "#454545"
+    status: active
+    usage: >-
+      Mid-light gray value used within semantic mappings.
+    anti_patterns:
+      - Do not use as a semantic state.
+      - Do not reference directly in components.
+      - Do not replace semantic tokens.
+    design_intent: >-
+      Provide a versatile tonal step supporting multiple hierarchy levels.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.raised-plus6, mode: light}
+      - {token: token.text.primary, mode: light}
+      - {token: token.text.disabled, mode: dark}
+      - {token: token.icon.primary, mode: light}
+      - {token: token.icon.disable, mode: dark}
+      - {token: token.button.link.text, mode: light}
+
+  - id: color.gray.500
+    figma_name: "gray/500"
+    value: "#696969"
+    status: active
+    usage: >-
+      Middle gray value used as a neutral reference point in the grayscale.
+    anti_patterns:
+      - Do not use as a semantic indicator.
+      - Do not assign interaction meaning.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Act as the visual midpoint of the grayscale system.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.raised-plus5, mode: light}
+      - {token: token.button.primary.pressed, mode: light}
+      - {token: token.button.secondary.pressed, mode: light}
+      - {token: token.button.toggle.track-inactive, mode: dark}
+      - {token: token.button.radio.offstroke, mode: dark}
+      - {token: token.button.checkbox.unchecked, mode: dark}
+      - {token: token.button.chip.unselected-stroke, mode: dark}
+      - {token: token.border.default, mode: dark}
+      - {token: token.border.icon, mode: dark}
+      - {token: token.border.separator-line, mode: dark}
+
+  - id: color.gray.600
+    figma_name: "gray/600"
+    value: "#919191"
+    status: active
+    usage: >-
+      Mid-dark gray value used in semantic token construction.
+    anti_patterns:
+      - Do not use directly in components.
+      - Do not communicate hierarchy through primitives.
+      - Do not replace semantic mappings.
+    design_intent: >-
+      Enable smooth progression from neutral to darker tonal values.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.text.secondary, mode: both}
+      - {token: token.button.primary.pressed, mode: dark}
+      - {token: token.button.actionable.enabled, mode: both}
+      - {token: token.button.toggle.track-inactive, mode: light}
+
+  - id: color.gray.700
+    figma_name: "gray/700"
+    value: "#b5b5b5"
+    status: active
+    usage: >-
+      Dark gray value used for semantic token generation.
+    anti_patterns:
+      - Do not reference directly in product UI.
+      - Do not communicate state meaning.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Provide stronger tonal contrast while maintaining grayscale consistency.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.raised-plus5, mode: dark}
+      - {token: token.text.tertiary, mode: both}
+      - {token: token.button.radio.offstroke, mode: light}
+      - {token: token.button.checkbox.unchecked, mode: light}
+      - {token: token.button.chip.unselected-stroke, mode: light}
+      - {token: token.border.icon, mode: light}
+
+  - id: color.gray.800
+    figma_name: "gray/800"
+    value: "#d1d1d1"
+    status: active
+    usage: >-
+      Very dark gray value used in semantic token construction.
+    anti_patterns:
+      - Do not assign component behavior.
+      - Do not use as semantic communication.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Support higher contrast requirements within the grayscale system.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.raised-plus6, mode: dark}
+      - {token: token.text.disabled, mode: light}
+      - {token: token.icon.disable, mode: light}
+      - {token: token.border.default, mode: light}
+
+  - id: color.gray.900
+    figma_name: "gray/900"
+    value: "#ededed"
+    status: active
+    usage: >-
+      Near-black gray value used for semantic mappings.
+    anti_patterns:
+      - Do not reference directly in UI decisions.
+      - Do not communicate hierarchy without semantic tokens.
+      - Do not assign meaning.
+    design_intent: >-
+      Provide strong visual weight while preserving tonal consistency.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.raised-plus2, mode: light}
+      - {token: token.icon.primary, mode: dark}
+      - {token: token.button.actionable.disabled, mode: light}
+      - {token: token.button.toggle.track-disabled, mode: light}
+      - {token: token.button.radio.disable, mode: light}
+      - {token: token.button.checkbox.disable, mode: light}
+      - {token: token.border.disable, mode: light}
+      - {token: token.border.separator-line, mode: light}
+
+  - id: color.gray.1000
+    figma_name: "gray/1000"
+    value: "#f7f7f7"
+    status: active
+    usage: >-
+      Ultra-dark gray value used for high-contrast semantic mappings.
+    anti_patterns:
+      - Do not use directly in components.
+      - Do not replace semantic tokens.
+      - Do not communicate state meaning.
+    design_intent: >-
+      Enable maximum contrast while avoiding pure black usage.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface, mode: light}
+      - {token: token.text.primary, mode: dark}
+      - {token: token.text.inverted, mode: light}
+      - {token: token.text.cta, mode: dark}
+      - {token: token.text.colored.gray, mode: dark}
+      - {token: token.icon.inverted, mode: light}
+      - {token: token.icon.cta, mode: dark}
+      - {token: token.button.primary.background, mode: dark}
+      - {token: token.button.primary.disabled, mode: light}
+      - {token: token.button.secondary.background, mode: light}
+      - {token: token.button.link.text, mode: dark}
+      - {token: token.button.toggle.thumb, mode: light}
+      - {token: token.button.toggle.track-active, mode: dark}
+      - {token: token.button.radio.on, mode: dark}
+      - {token: token.button.checkbox.checked, mode: dark}
+      - {token: token.button.chip.selected, mode: dark}
+
+  - id: color.gray.1100
+    figma_name: "gray/1100"
+    value: "#ffffff"
+    status: active
+    usage: >-
+      Darkest value in the grayscale system.
+    anti_patterns:
+      - Do not assign component meaning.
+      - Do not reference directly in product screens.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Serve as the terminal anchor of the grayscale ramp for extreme contrast
+      requirements.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.default.status-bar, mode: dark}
+      - {token: token.background.canvas, mode: light}
+
+  - id: color.red.100
+    figma_name: "red/100"
+    value: "#ffdada"
+    status: active
+    usage: >-
+      Lightest red value used for semantic surface tokens.
+    anti_patterns:
+      - Do not use for text.
+      - Do not use for icons.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Provide a subtle foundation for low-emphasis error and failure surfaces.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.red, mode: light}
+
+  - id: color.red.200
+    figma_name: "red/200"
+    value: "#eb9494"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.red.300
+    figma_name: "red/300"
+    value: "#dc4848"
+    status: active
+    usage: >-
+      Primary red value used for semantic icon mappings.
+    anti_patterns:
+      - Do not use for text.
+      - Do not use for backgrounds.
+      - Do not assign direct product meaning.
+    design_intent: >-
+      Provide sufficient visibility for icon-level semantic communication.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.icon.red, mode: both}
+      - {token: token.battery.critical, mode: both}
+
+  - id: color.red.400
+    figma_name: "red/400"
+    value: "#c42e2e"
+    status: active
+    usage: >-
+      Primary red value used for semantic text mappings.
+    anti_patterns:
+      - Do not use for surfaces.
+      - Do not use for decorative emphasis.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Maintain readable semantic communication while preserving accessibility.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.text.colored.red, mode: both}
+
+  - id: color.red.500
+    figma_name: "red/500"
+    value: "#9e1e1e"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.red.600
+    figma_name: "red/600"
+    value: "#7a1616"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.red.700
+    figma_name: "red/700"
+    value: "#5a1010"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.red.800
+    figma_name: "red/800"
+    value: "#3a0a0a"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.red.900
+    figma_name: "red/900"
+    value: "#240c0c"
+    status: reserved  # "Currently not in use, can be used in future"
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.red, mode: dark}
+
+  - id: color.red.1000
+    figma_name: "red/1000"
+    value: "#170707"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.amber.100
+    figma_name: "amber/100"
+    value: "#fae0b8"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.amber.200
+    figma_name: "amber/200"
+    value: "#d4a055"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.amber.300
+    figma_name: "amber/300"
+    value: "#d4882f"
+    status: active
+    usage: >-
+      Primary amber value used for semantic icon mappings.
+    anti_patterns:
+      - Do not use for text.
+      - Do not use for surfaces.
+      - Do not assign direct product meaning.
+    design_intent: >-
+      Provide clear caution-state visibility at icon scale.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.battery.medium, mode: both}
+
+  - id: color.amber.400
+    figma_name: "amber/400"
+    value: "#b6732b"
+    status: active
+    usage: >-
+      Primary amber value used for semantic text mappings.
+    anti_patterns:
+      - Do not use for surfaces.
+      - Do not use decoratively.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Communicate cautionary information while maintaining readability.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.text.colored.amber, mode: both}
+
+  - id: color.amber.500
+    figma_name: "amber/500"
+    value: "#8a5218"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.amber.600
+    figma_name: "amber/600"
+    value: "#7a4d18"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.amber.700
+    figma_name: "amber/700"
+    value: "#5c3810"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.amber.800
+    figma_name: "amber/800"
+    value: "#3d2408"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.amber.900
+    figma_name: "amber/900"
+    value: "#241a08"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.green.100
+    figma_name: "green/100"
+    value: "#c4ecd2"
+    status: active
+    usage: >-
+      Lightest green value used for semantic success surfaces.
+    anti_patterns:
+      - Do not use for text.
+      - Do not use for icons.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Provide a subtle foundation for positive semantic surfaces.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.green, mode: light}
+
+  - id: color.green.200
+    figma_name: "green/200"
+    value: "#6ec494"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.green.300
+    figma_name: "green/300"
+    value: "#2ea864"
+    status: active
+    usage: >-
+      Primary green value used for semantic icon mappings.
+    anti_patterns:
+      - Do not use for text.
+      - Do not use for backgrounds.
+      - Do not assign direct product meaning.
+    design_intent: >-
+      Provide recognizable success-state communication at icon scale.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.icon.green, mode: both}
+      - {token: token.battery.high, mode: both}
+
+  - id: color.green.400
+    figma_name: "green/400"
+    value: "#1c8a4c"
+    status: active
+    usage: >-
+      Primary green value used for semantic text mappings.
+    anti_patterns:
+      - Do not use for surfaces.
+      - Do not use decoratively.
+      - Do not bypass semantic tokens.
+    design_intent: >-
+      Communicate positive outcomes while maintaining readability.
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.text.colored.green, mode: both}
+
+  - id: color.green.500
+    figma_name: "green/500"
+    value: "#14683a"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.green.600
+    figma_name: "green/600"
+    value: "#125a32"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.green.700
+    figma_name: "green/700"
+    value: "#0e4426"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.green.800
+    figma_name: "green/800"
+    value: "#082e1a"
+    status: reserved  # "Currently not in use, can be used in future"
+
+  - id: color.green.900
+    figma_name: "green/900"
+    value: "#062012"
+    status: reserved  # "Currently not in use, can be used in future"
+    referenced_by:  # semantic tokens deriving from this primitive
+      - {token: token.background.surface.green, mode: dark}
+
+  - id: color.green.1000
+    figma_name: "green/1000"
+    value: "#04140c"
+    status: reserved  # "Currently not in use, can be used in future"

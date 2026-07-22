@@ -1,0 +1,19 @@
+/* Cross — atom (figma 2031:1201)
+   24x24 icon, X over a 12x12 area, 1.5px stroke via currentColor. */
+
+.nds-cross {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  color: var(--token-button-actionable-enabled);
+}
+
+.nds-cross svg {
+  display: block;
+}
+
+.nds-cross.is-disabled {
+  color: var(--token-button-actionable-disabled);
+}

@@ -1,0 +1,28 @@
+/* Heading-content component — atom (figma 301:20202)
+   Vertical stack, 4px gap. Heading = font.subheading.medium (Saira Medium 16),
+   supporting content = font.body.small (Geist Regular 12). */
+
+.nds-heading-content {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+}
+
+.nds-heading-content__heading {
+  margin: 0;
+  color: var(--token-text-primary);
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.1; /* font.subheading.medium */
+}
+
+.nds-heading-content__body {
+  margin: 0;
+  color: var(--token-text-secondary);
+  font-family: var(--font-family-body);
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.3; /* font.body.small */
+}

@@ -1,0 +1,42 @@
+/* Status bar — atom (figma 2007:775)
+   iOS-style status bar mock: 59px tall, transparent at rest.
+   All glyphs use token/default/status-bar. The .is-scrolled fill is driven
+   by the L1 inner page navigation's scrolled state. */
+
+.nds-status-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 59px;
+  color: var(--token-default-status-bar);
+  background: transparent;
+}
+
+.nds-status-bar.is-scrolled {
+  background: var(--token-background-canvas);
+}
+
+.nds-status-bar__time {
+  padding-left: 16px;
+  padding-right: 6px;
+  min-width: 95px;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro", system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.nds-status-bar__levels {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding-right: 16px;
+  padding-left: 6px;
+  min-width: 95px;
+  justify-content: center;
+}
+
+.nds-status-bar__levels svg {
+  display: block;
+  fill: currentColor;
+}

@@ -1,0 +1,62 @@
+{
+  "$canonical": "This is the canonical persona registry. memory/product/personas.md mirrors it with rationale. If they disagree, this file wins.",
+  "$status": "STUB — persona SEGMENT SIGNALS are inferred from feature code; all demographics, goals, and quotes are TODO(product/UXR). Do not treat inferred segments as validated personas.",
+  "$schema_note": "id is stable (P#). 'inferredFrom' cites the code signal that suggests this segment exists. 'todo' lists what a human must supply.",
+  "personas": [
+    {
+      "id": "P1",
+      "name": "TODO(product): Everyday commuter",
+      "segmentSignal": "Core ANC / Transparency / one-tap noise-control usage",
+      "inferredFrom": "F-ANC + F-HOME noise-control card; strings text_transparency, active_noise_cancellation; home_anc_* events",
+      "primaryDevices": ["HW-BUDS-1", "HW-MBUDS-2", "HW-ALT-BUDS", "HW-ALT-BUDS-S"],
+      "goals": "TODO(product)",
+      "frustrations": "TODO(product)",
+      "demographics": "TODO(product)",
+      "todo": "Validate this is a real segment; supply goals/demographics/quote."
+    },
+    {
+      "id": "P2",
+      "name": "TODO(product): Mobile gamer",
+      "segmentSignal": "Low-lag / gaming mode users",
+      "inferredFrom": "DeviceFeatures.GAMING_MODE; string low_lag_gaming_mode; sound_gaming_mode_toggle_click event",
+      "primaryDevices": ["HW-MBUDS-2", "HW-BUDS-1"],
+      "goals": "TODO(product)",
+      "frustrations": "TODO(product)",
+      "demographics": "TODO(product)",
+      "todo": "Confirm gaming is a targeted persona vs a feature."
+    },
+    {
+      "id": "P3",
+      "name": "TODO(product): Home / immersive listener",
+      "segmentSignal": "Over-ear headphone + spatial-audio users",
+      "inferredFrom": "HW-MBUDS-MAX (headphones); DeviceFeatures.SPATIAL_AUDIO/SPATIAL_INFO; F-SOUND spatial walkthrough",
+      "primaryDevices": ["HW-MBUDS-MAX"],
+      "goals": "TODO(product)",
+      "frustrations": "TODO(product)",
+      "demographics": "TODO(product)",
+      "todo": "Validate; supply detail."
+    },
+    {
+      "id": "P4",
+      "name": "TODO(product): Productivity / voice-AI user",
+      "segmentSignal": "Noise AI voice assistant + live transcription users",
+      "inferredFrom": "F-AI-VOICE, F-AI-TRANSCRIBE; ai_companion_* / ai_voice_chat_* events; RECORD_AUDIO + speech recognition perms",
+      "primaryDevices": ["HW-MBUDS-2", "HW-MBUDS-MAX"],
+      "goals": "TODO(product)",
+      "frustrations": "TODO(product)",
+      "demographics": "TODO(product)",
+      "todo": "Confirm AI-first segment exists and which devices expose on-device AI activation."
+    },
+    {
+      "id": "P5",
+      "name": "TODO(product): Multi-device / open-wear user",
+      "segmentSignal": "Dual-pairing and open-wear (ALT) form-factor users",
+      "inferredFrom": "F-DUAL (DualPairing); HW-ALT-BUDS-OPEN, HW-ALT-CLIP form factors; dual_pairing_* events",
+      "primaryDevices": ["HW-ALT-OWS", "HW-ALT-CLIP", "HW-MBUDS-MAX"],
+      "goals": "TODO(product)",
+      "frustrations": "TODO(product)",
+      "demographics": "TODO(product)",
+      "todo": "Validate; open-wear/clip buyers may be a distinct lifestyle segment."
+    }
+  ]
+}

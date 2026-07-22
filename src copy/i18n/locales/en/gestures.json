@@ -1,0 +1,319 @@
+{
+  "press_and_hold_center_button": {
+    "default": "Press and hold center button",
+    "_todo": "Confirm English copy for iOS key \"press_and_hold_center_button\" (auto-humanized from slug)."
+  },
+  "Wear Detection": {
+    "default": "Wear Detection"
+  },
+  "touch_Gestures": {
+    "default": "Touch Gestures",
+    "_todo": "Confirm English copy for iOS key \"touch_Gestures\" (auto-humanized from slug)."
+  },
+  "SWITCH MODES": {
+    "default": "SWITCH MODES"
+  },
+  "CHANGE VOLUME": {
+    "default": "CHANGE VOLUME"
+  },
+  "PLAY/PAUSE": {
+    "default": "PLAY/PAUSE"
+  },
+  "CHANGE SONG": {
+    "default": "CHANGE SONG"
+  },
+  "ANSWER/HANGUP": {
+    "default": "ANSWER/HANGUP"
+  },
+  "DECLINE CALLS": {
+    "default": "DECLINE CALLS"
+  },
+  "TAP ONCE TO INCREASE OR DECREASE VOLUME\\nL:VOL. DOWN | R:VOL. UP": {
+    "default": "TAP ONCE TO INCREASE OR DECREASE VOLUME\\nL:VOL. DOWN | R:VOL. UP"
+  },
+  "TAP TWICE TO PLAY OR PAUSE THE SONG": {
+    "default": "TAP TWICE TO PLAY OR PAUSE THE SONG"
+  },
+  "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG\\nL:VOL. UP | R:VOL. DOWN": {
+    "default": "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG\\nL:VOL. UP | R:VOL. DOWN"
+  },
+  "TAP TWICE TO ANSWER/HANGUP CALLS": {
+    "default": "TAP TWICE TO ANSWER/HANGUP CALLS"
+  },
+  "TAP & HOLD TO REJECT INCOMING CALLS": {
+    "default": "TAP & HOLD TO REJECT INCOMING CALLS"
+  },
+  "VOLUME CONTROL": {
+    "default": "VOLUME CONTROL"
+  },
+  "LONG PRESS ON POWER BUTTON TO TURN\\nDEVICE ON/OFF": {
+    "default": "LONG PRESS ON POWER BUTTON TO TURN\\nDEVICE ON/OFF"
+  },
+  "TAP AND HOLD THE + AND – BUTTON FOR 5\\nSECONDS SIMULTANEOUSLY TO RESET THE DEVICE": {
+    "default": "TAP AND HOLD THE + AND – BUTTON FOR 5\\nSECONDS SIMULTANEOUSLY TO RESET THE DEVICE"
+  },
+  "CUSTOMIZE TOUCH GESTURES FOR\\nEFFORTLESS EARPHONE CONTROL.": {
+    "default": "CUSTOMIZE TOUCH GESTURES FOR\\nEFFORTLESS EARPHONE CONTROL."
+  },
+  "TOUCH GESTURES\\nCUSTOMISATION": {
+    "default": "TOUCH GESTURES\\nCUSTOMISATION"
+  },
+  "In-ear detection": {
+    "default": "In-ear detection"
+  },
+  "TAP ONCE": {
+    "default": "TAP ONCE"
+  },
+  "TAP TWICE": {
+    "default": "TAP TWICE"
+  },
+  "TAP THRICE": {
+    "default": "TAP THRICE"
+  },
+  "TAP HOLD": {
+    "default": "TAP HOLD"
+  },
+  "SELECT AN ACTION FOR\\nTAP & HOLD": {
+    "default": "SELECT AN ACTION FOR\\nTAP & HOLD"
+  },
+  "VOLUME DOWN": {
+    "default": "VOLUME DOWN"
+  },
+  "VOLUME UP": {
+    "default": "VOLUME UP"
+  },
+  "CALL ACCEPT": {
+    "default": "CALL ACCEPT"
+  },
+  "NEXT SONG": {
+    "default": "NEXT SONG"
+  },
+  "PREVIOUS SONG": {
+    "default": "PREVIOUS SONG"
+  },
+  "REJECT CALLS": {
+    "default": "REJECT CALLS"
+  },
+  "WAKE UP ASSISTANT": {
+    "default": "WAKE UP ASSISTANT"
+  },
+  "VOICE ASSISTANCE": {
+    "default": "VOICE ASSISTANCE"
+  },
+  "SELECT AN ACTION FOR\\nSINGLE TAP": {
+    "default": "SELECT AN ACTION FOR\\nSINGLE TAP"
+  },
+  "SELECT AN ACTION FOR\\nDOUBLE TAP": {
+    "default": "SELECT AN ACTION FOR\\nDOUBLE TAP"
+  },
+  "SELECT AN ACTION FOR\\nTRIPLE TAP": {
+    "default": "SELECT AN ACTION FOR\\nTRIPLE TAP"
+  },
+  "TAP VOLUME + OR - ON THE HEADPHONE TO INCREASE OR DECREASE THE VOLUME": {
+    "default": "TAP VOLUME + OR - ON THE HEADPHONE TO INCREASE OR DECREASE THE VOLUME"
+  },
+  "AUTO ANSWER INCOMING CALL BY PUTTING ON YOUR HEADPHONES": {
+    "default": "AUTO ANSWER INCOMING CALL BY PUTTING ON YOUR HEADPHONES"
+  },
+  "SINGLE PRESS POWER BUTTON TO PAUSE AND PLAY MUSIC": {
+    "default": "SINGLE PRESS POWER BUTTON TO PAUSE AND PLAY MUSIC"
+  },
+  "TAILOR YOUR EXPERIENCE. CUSTOMISE TOUCH CONTROLS TO MAKE EVERY ACTION FEEL SEAMLESS—ADJUST VOLUME, SKIP TRACKS, ALL WITH A SIMPLE TOUCH.": {
+    "default": "TAILOR YOUR EXPERIENCE. CUSTOMISE TOUCH CONTROLS TO MAKE EVERY ACTION FEEL SEAMLESS—ADJUST VOLUME, SKIP TRACKS, ALL WITH A SIMPLE TOUCH."
+  },
+  "Motion\\nControl": {
+    "default": "Motion\\nControl"
+  },
+  "Enables music playback & calls through head gestures.": {
+    "default": "Enables music playback & calls through head gestures."
+  },
+  "QUICK NOD": {
+    "default": "QUICK NOD"
+  },
+  "PLAY OR PAUSE MUSIC WITH A QUICK NOD.": {
+    "default": "PLAY OR PAUSE MUSIC WITH A QUICK NOD."
+  },
+  "RIGHT NOD": {
+    "default": "RIGHT NOD"
+  },
+  "PLAY NEXT SONG.": {
+    "default": "PLAY NEXT SONG."
+  },
+  "ANSWER INCOMING CALLS WITH A QUICK NOD.": {
+    "default": "ANSWER INCOMING CALLS WITH A QUICK NOD."
+  },
+  "REJECT CALLS WITH A QUICK SHAKE.": {
+    "default": "REJECT CALLS WITH A QUICK SHAKE."
+  },
+  "MEDIA CONTROL": {
+    "default": "MEDIA CONTROL"
+  },
+  "Motion Control Tips": {
+    "default": "Motion Control Tips"
+  },
+  "Extend Sound Volume": {
+    "default": "Extend Sound Volume"
+  },
+  "Here are some gestures to": {
+    "default": "Here are some gestures to"
+  },
+  "Here are some gestures to look for.": {
+    "default": "Here are some gestures to look for."
+  },
+  "TOUCH CONTROLS": {
+    "default": "TOUCH CONTROLS"
+  },
+  "Customise touch gesture controls of your device for a personalised experience.\\nTouch controls are currently off.": {
+    "default": "Customise touch gesture controls of your device for a personalised experience.\\nTouch controls are currently off."
+  },
+  "Tap Four Times": {
+    "default": "Tap Four Times"
+  },
+  "Motion\\nGestures": {
+    "default": "Motion\\nGestures"
+  },
+  "Customise touch gestures for effortless control": {
+    "default": "Customise touch gestures for effortless control"
+  },
+  "Hear yourself on calls to speak at a natural volume": {
+    "default": "Hear yourself on calls to speak at a natural volume"
+  },
+  "Move your head to the right and back twice to skip To the next track": {
+    "default": "Move your head to the right and back twice to skip To the next track"
+  },
+  "Move your head to the left and back twice to return to the previous track": {
+    "default": "Move your head to the left and back twice to return to the previous track"
+  },
+  "play/pause your music with a quick nod": {
+    "default": "play/pause your music with a quick nod"
+  },
+  "Answer incoming calls with a quick nod": {
+    "default": "Answer incoming calls with a quick nod"
+  },
+  "Reject incoming calls with a quick double nod": {
+    "default": "Reject incoming calls with a quick double nod"
+  },
+  "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG": {
+    "default": "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG"
+  },
+  "TAP TWICE TO INCREASE OR DECREASE VOLUME\\nL: VOL. UP | R: VOL. DOWN": {
+    "default": "TAP TWICE TO INCREASE OR DECREASE VOLUME\\nL: VOL. UP | R: VOL. DOWN"
+  },
+  "TAP THRICE TO PLAY OR PAUSE THE MUSIC": {
+    "default": "TAP THRICE TO PLAY OR PAUSE THE MUSIC"
+  },
+  "TAP & HOLD FOR 3S TO PLAY NEXT OR PREVIOUS TRACK\\nL: PREVIOUS TRACK | R: NEXT TRACK": {
+    "default": "TAP & HOLD FOR 3S TO PLAY NEXT OR PREVIOUS TRACK\\nL: PREVIOUS TRACK | R: NEXT TRACK"
+  },
+  "TAP TWICE TO ANSWER CALLS OR END ONGOING CALLS": {
+    "default": "TAP TWICE TO ANSWER CALLS OR END ONGOING CALLS"
+  },
+  "TAP THRICE TO REJECT INCOMING CALLS": {
+    "default": "TAP THRICE TO REJECT INCOMING CALLS"
+  },
+  "Transcribe your meetings/discussions at single tap": {
+    "default": "Transcribe your meetings/discussions at single tap"
+  },
+  "TAP TO SPEAK": {
+    "default": "TAP TO SPEAK"
+  },
+  "Tap & Hold": {
+    "default": "Tap & Hold"
+  },
+  "Tap Twice": {
+    "default": "Tap Twice"
+  },
+  "Tap Thrice": {
+    "default": "Tap Thrice"
+  },
+  "FOR BUDS - WITH THE BUDS IN THE CASE AND THE LID OPEN, PRESS & HOLD THE CASE BUTTON UNTIL THE LIGHT STARTS BLINKING": {
+    "default": "FOR BUDS - WITH THE BUDS IN THE CASE AND THE LID OPEN, PRESS & HOLD THE CASE BUTTON UNTIL THE LIGHT STARTS BLINKING"
+  },
+  "Customize gestures for effortless control.": {
+    "default": "Customize gestures for effortless control."
+  },
+  "Record your thoughts with a single tap": {
+    "default": "Record your thoughts with a single tap"
+  },
+  "QUICK DOUBLE NOD": {
+    "default": "QUICK DOUBLE NOD"
+  },
+  "Long press charging case button to make your device discoverable": {
+    "default": "Long press charging case button to make your device discoverable"
+  },
+  "Long press charging case button to make device discoverable": {
+    "default": "Long press charging case button to make device discoverable"
+  },
+  "DO NOT PRESS ANY BUTTONS ON THE HEADPHONES.": {
+    "default": "DO NOT PRESS ANY BUTTONS ON THE HEADPHONES."
+  },
+  "Quick double press the power button until the light starts to blink.": {
+    "default": "Quick double press the power button until the light starts to blink."
+  },
+  "Customize button controls for effortless control": {
+    "default": "Customize button controls for effortless control"
+  },
+  "BUTTON CONTROLS": {
+    "default": "BUTTON CONTROLS"
+  },
+  "Button Controls": {
+    "default": "Button Controls"
+  },
+  "Double tap and hold": {
+    "default": "Double tap and hold"
+  },
+  "TAP ONCE TO INCREASE OR DECREASE VOLUME. L: VOL. DOWN | R: VOL. UP": {
+    "default": "TAP ONCE TO INCREASE OR DECREASE VOLUME. L: VOL. DOWN | R: VOL. UP"
+  },
+  "TAP TWICE TO PLAY OR PAUSE THE MUSIC": {
+    "default": "TAP TWICE TO PLAY OR PAUSE THE MUSIC"
+  },
+  "TAP THRICE TO CHANGE TRACKS. L: PREV. TRACK | R: NEXT TRACK": {
+    "default": "TAP THRICE TO CHANGE TRACKS. L: PREV. TRACK | R: NEXT TRACK"
+  },
+  "TAP TWICE TO ANSWER INCOMING/HANG UP ONGOING CALLS": {
+    "default": "TAP TWICE TO ANSWER INCOMING/HANG UP ONGOING CALLS"
+  },
+  "VOICE ASSISTANT": {
+    "default": "VOICE ASSISTANT"
+  },
+  "TAP FOUR TIMES ON EITHER BUD TO WAKE YOUR SMARTPHONE'S VOICE ASSISTANT": {
+    "default": "TAP FOUR TIMES ON EITHER BUD TO WAKE YOUR SMARTPHONE'S VOICE ASSISTANT"
+  },
+  "TAP AND HOLD TO INCREASE OR DECREASE VOLUME. L: VOL. DOWN | R: VOL. UP": {
+    "default": "TAP AND HOLD TO INCREASE OR DECREASE VOLUME. L: VOL. DOWN | R: VOL. UP"
+  },
+  "TAP ONCE TO ANSWER INCOMING/HANG UP ONGOING CALLS": {
+    "default": "TAP ONCE TO ANSWER INCOMING/HANG UP ONGOING CALLS"
+  },
+  "TAP TWICE TO REJECT INCOMING CALLS": {
+    "default": "TAP TWICE TO REJECT INCOMING CALLS"
+  },
+  "Motion Controls": {
+    "default": "Motion Controls"
+  },
+  "SHAKE YOUR HEAD TO THE RIGHT AND BACK TWICE TO SKIP TO THE NEXT TRACK.": {
+    "default": "SHAKE YOUR HEAD TO THE RIGHT AND BACK TWICE TO SKIP TO THE NEXT TRACK."
+  },
+  "SHAKE YOUR HEAD TO THE LEFT AND BACK TWICE TO RETURN TO THE PREVIOUS TRACK.": {
+    "default": "SHAKE YOUR HEAD TO THE LEFT AND BACK TWICE TO RETURN TO THE PREVIOUS TRACK."
+  },
+  "PLAY PAUSE YOUR FAVORITE MUSIC WITH A QUICK NOD.": {
+    "default": "PLAY PAUSE YOUR FAVORITE MUSIC WITH A QUICK NOD."
+  },
+  "REJECT INCOMING CALLS WITH A QUICK DOUBLE NOD.": {
+    "default": "REJECT INCOMING CALLS WITH A QUICK DOUBLE NOD."
+  },
+  "In Ear Detection": {
+    "default": "In Ear Detection"
+  },
+  "Single Tap": {
+    "default": "Single Tap"
+  },
+  "CALL REJECT": {
+    "default": "CALL REJECT"
+  },
+  "CALL MUTE": {
+    "default": "CALL MUTE"
+  }
+}

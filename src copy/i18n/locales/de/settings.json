@@ -1,0 +1,155 @@
+{
+  "all_device_settings": {
+    "default": "Alle Geräteeinstellungen"
+  },
+  "Low": {
+    "default": "Niedrig"
+  },
+  "PRODUCT TIPS": {
+    "default": "TIPPS ZU NOISE AUDIO PRODUKTEN"
+  },
+  "POWER\\nCONTROLS": {
+    "default": "STROMSTEUERUNG"
+  },
+  "CUSTOMISABLE\\nPRODUCT CONTROLS": {
+    "default": "ANPASSBARE STEUERUNGEN"
+  },
+  "ZERO\\nEFFORT\\nCONTROL": {
+    "default": "KONTROLLE OHNE ANSTRENGUNG"
+  },
+  "PRODUCT\\nGUIDE": {
+    "default": "PRODUKTANLEITUNG"
+  },
+  "APP\\nLANGUAGE": {
+    "default": "APPSPRACHE"
+  },
+  "CHANGE": {
+    "default": "ÄNDERN"
+  },
+  "SAVE CHANGES": {
+    "default": "ÄNDERUNGEN SPEICHERN"
+  },
+  "SAVE ADJUSTMENTS": {
+    "default": "Anpassungen speichern"
+  },
+  "SETTINGS": {
+    "default": "EINSTELLUNGEN"
+  },
+  "Share Log": {
+    "default": "Protokoll teilen"
+  },
+  "Locks controls for focused, uninterrupted listening": {
+    "default": "Sperrt die Steuerung für fokussiertes, ungestörtes Hören"
+  },
+  "REFRESH": {
+    "default": "AKTUALISIEREN"
+  },
+  "CALL CONTROL": {
+    "default": "Anrufsteuerung"
+  },
+  "High": {
+    "default": "Hoch"
+  },
+  "Medium": {
+    "default": "Mittel"
+  },
+  "Controls": {
+    "default": "Steuerung"
+  },
+  "Register your device for warranty coverage": {
+    "default": "Registriere dein Gerät für den Garantieanspruch"
+  },
+  "Set your preferred language for the app": {
+    "default": "Bevorzugte Appsprache festlegen"
+  },
+  "Learn more about your device": {
+    "default": "Mehr über das Gerät erfahren"
+  },
+  "ABOUT\\nYOUR DEVICE": {
+    "default": "ÜBER DEIN GERÄT"
+  },
+  "Product tips": {
+    "default": "Produkttipps"
+  },
+  "Settings": {
+    "default": "Einstellungen"
+  },
+  "SERIAL NUMBER": {
+    "default": "SERIENNUMMER"
+  },
+  "LOOK AT THE BACK OF THE BOX TO FIND THE SERIAL\\nNUMBER, SHOWN IN THE ABOVE FORMAT": {
+    "default": "SIEHE AUF DIE RÜCKSEITE DER VERPACKUNG, UM DIE SERIENNUMMER IM OBEN GEZEIGTEN FORMAT ZU FINDEN"
+  },
+  "WARRANTY": {
+    "default": "GARANTIE"
+  },
+  "Incorrect Serial Number": {
+    "default": "Ungültige Seriennummer"
+  },
+  "register warranty": {
+    "default": "Garantie registrieren"
+  },
+  "REGISTER WARRANTY": {
+    "default": "GARANTIE REGISTRIEREN"
+  },
+  "In Warranty": {
+    "default": "In Garantie"
+  },
+  "Customise your device\\ncontrols": {
+    "default": "Gerätesteuerung anpassen"
+  },
+  "Control your device hands-free": {
+    "default": "Gerät freihändig steuern"
+  },
+  "Low latency audio for the\\ngamer in you": {
+    "default": "Audio mit niedriger Latenz für Gamer"
+  },
+  "Lowest amplification. Recommended for low noise environments": {
+    "default": "Niedrigste Aussteuerung. Empfohlen für Umgebungen mit geringem Rauschen"
+  },
+  "Access this feature from the Sound settings on the Home screen.": {
+    "default": "Greife über die Sound-Einstellungen auf dem Startbildschirm auf diese Funktion zu."
+  },
+  "Take action on your media and call controls by simply moving your head": {
+    "default": "Steuer die Medien- und Anrufaktionen durch einfache Kopfbewegungen"
+  },
+  "Try the different settings below": {
+    "default": "Probiere die verschiedenen Einstellungen unten aus"
+  },
+  "Product\\nGuide": {
+    "default": "Produktleitfaden"
+  },
+  "App\\nLanguage": {
+    "default": "App-Sprache"
+  },
+  "Warranty": {
+    "default": "Garantie"
+  },
+  "DEVICE\\nWARRANTY": {
+    "default": "GERÄTE GARANTIE"
+  },
+  "CONTROLS": {
+    "default": "STEUERUNG"
+  },
+  "Locks controls for focused listening": {
+    "default": "Sperrt die Steuerung für konzentriertes Zuhören"
+  },
+  "Wear Buds to unlock full controls": {
+    "default": "Trage die Masterbuds, um alle Funktionen freizuschalten"
+  },
+  "Battery low. Please charge to at least 20%": {
+    "default": "Batterie schwach. Bitte auf mindestens 20 % aufladen"
+  },
+  "Warranty Status": {
+    "default": "Garantiestatus"
+  },
+  "GO TO SETTINGS": {
+    "default": "ZU DEN EINSTELLUNGEN"
+  },
+  "Control your music from notifications": {
+    "default": "Steuere deine Musik über Benachrichtigungen"
+  },
+  "Product Tips": {
+    "default": "Produkttipps"
+  }
+}

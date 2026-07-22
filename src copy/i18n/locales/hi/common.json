@@ -1,0 +1,671 @@
+{
+  "start_typing": {
+    "default": "टाइप करना शुरू करें..."
+  },
+  "cancel": {
+    "default": "रद्द करें"
+  },
+  "enter_otp": {
+    "default": "OTP दर्ज करें"
+  },
+  "resend_code_in": {
+    "default": "कोड दोबारा भेजें"
+  },
+  "resend_code": {
+    "default": "कोड दोबारा भेजें"
+  },
+  "device_found": {
+    "default": "डिवाइस मिला"
+  },
+  "noise_nile": {
+    "default": "Noise Nile"
+  },
+  "select_device": {
+    "default": "डिवाइस चुनें"
+  },
+  "cant_find_device": {
+    "default": "क्या आपका डिवाइस नहीं मिल रहा?"
+  },
+  "see_here": {
+    "default": "यहाँ देखें"
+  },
+  "retry_connect": {
+    "default": "दोबारा कोशिश करें"
+  },
+  "earbuds_ready_to_pair_heading": {
+    "default": "अपने ईयरबड्स को पेयर करने के लिए तैयार रखें"
+  },
+  "earbuds_ready_to_pair_instruction": {
+    "default": "अपने ईयरबड्स को केस में रखें और पेयरिंग बटन को 2 सेकंड के लिए दबाकर रखें"
+  },
+  "improved_performance": {
+    "default": "बेहतर परफॉर्मेंस"
+  },
+  "enhanced_anc": {
+    "default": "बेहतर ANC"
+  },
+  "remind_me_later": {
+    "default": "बाद में याद दिलाएं"
+  },
+  "take_me_home": {
+    "default": "मुझे होम पर ले जाएं"
+  },
+  "do_not_exit_this_page": {
+    "default": "इस पेज से बाहर न जाएं"
+  },
+  "find_my_earbuds_heading": {
+    "default": "मेरे ईयरबड्स ढूंढें"
+  },
+  "find_my_earbuds_description": {
+    "default": "अपने ईयरबड्स का पता लगाने के लिए प्ले बटन पर क्लिक करें"
+  },
+  "find_my_earbuds_instruction": {
+    "default": "बजाने पर आवाज़ आएगी। प्ले पर क्लिक करने से पहले सुनिश्चित करें कि आपका डिवाइस उपयोग में नहीं है।"
+  },
+  "save_adjustments": {
+    "default": "बदलाव सेव करें"
+  },
+  "all_devices_heading": {
+    "default": "Noise TWS के बारे में और जानें"
+  },
+  "learn_more": {
+    "default": "और जानें"
+  },
+  "remind_later": {
+    "default": "बाद में याद दिलाएं"
+  },
+  "app_update": {
+    "default": "ऐप अपडेट"
+  },
+  "terms_conditions": {
+    "default": "नियम एवं शर्तें"
+  },
+  "low_battery_heading": {
+    "default": "आपका डिवाइस चार्ज से बाहर है"
+  },
+  "place_earbuds_in_case": {
+    "default": "अपने ईयरबड्स को केस में रखें"
+  },
+  "Off": {
+    "default": "बंद"
+  },
+  "Mid": {
+    "default": "मध्य"
+  },
+  "Max": {
+    "default": "अधिकतम"
+  },
+  "ON": {
+    "default": "चालू"
+  },
+  "Custom": {
+    "default": "कस्टम"
+  },
+  "DEFAULT": {
+    "default": "डिफ़ॉल्ट"
+  },
+  "Swift Call Mode": {
+    "default": "स्विफ्ट कॉल मोड"
+  },
+  "It_makes_the_audio_come_alive_from_ever_corner": {
+    "default": "यह हर कोने से ऑडियो को जीवंत बना देता है"
+  },
+  "Here_are_Msg": {
+    "default": "यहाँ कुछ जेस्चर देखें।"
+  },
+  "DISCONNECTED": {
+    "default": "डिस्कनेक्ट हो गया"
+  },
+  "off_caps": {
+    "default": "बंद"
+  },
+  "Wear_detection": {
+    "default": "वेयर डिटेक्शन"
+  },
+  "Swift_call_mode": {
+    "default": "स्विफ्ट कॉल मोड"
+  },
+  "CHARGING\\nYOUR BUDS": {
+    "default": "अपने बड्स को\\nचार्ज करना"
+  },
+  "CHARGE EARBUDS": {
+    "default": "ईयरबड्स चार्ज करें"
+  },
+  "CHARGE CASE": {
+    "default": "केस चार्ज करें"
+  },
+  "NEXT": {
+    "default": "अगला"
+  },
+  "RAIN, SWEAT, OR SHINE, YOUR EARBUDS STAY PROTECTED. TAKE THEM EVERYWHERE WITHOUT A SECOND THOUGHT.": {
+    "default": "बारिश, पसीना या धूप — आपके ईयरबड्स सुरक्षित रहते हैं। बिना सोचे उन्हें कहीं भी ले जाएं।"
+  },
+  "CHANGER": {
+    "default": "बदलाव करें"
+  },
+  "YOUR DEVICE IS IN": {
+    "default": "आपका डिवाइस इस भाषा में है"
+  },
+  "SHALL WE SWITCH THE APP TO": {
+    "default": "क्या हम ऐप को भी इसमें बदलें?"
+  },
+  "TOO?": {
+    "default": "भी?"
+  },
+  "ENGLISH": {
+    "default": "अंग्रेज़ी"
+  },
+  "FOLLOW THE STEPS FROM THE VIDEO BELOW": {
+    "default": "नीचे दिए गए वीडियो के स्टेप्स फ़ॉलो करें"
+  },
+  "MY DEVICES": {
+    "default": "मेरे डिवाइस"
+  },
+  "POWER ON/OFF": {
+    "default": "पावर चालू/बंद"
+  },
+  "RESET DEVICE": {
+    "default": "डिवाइस रीसेट करें"
+  },
+  "MID": {
+    "default": "मध्य"
+  },
+  "STANDARD": {
+    "default": "स्टैंडर्ड"
+  },
+  "CUSTOM": {
+    "default": "कस्टम"
+  },
+  "LEFT": {
+    "default": "बायाँ"
+  },
+  "RIGHT": {
+    "default": "दायाँ"
+  },
+  "CUSTOMISE": {
+    "default": "कस्टमाइज़ करें"
+  },
+  "NONE": {
+    "default": "कोई नहीं"
+  },
+  "Alert": {
+    "default": "अलर्ट"
+  },
+  "Audio App": {
+    "default": "ऑडियो ऐप"
+  },
+  "CANCEL": {
+    "default": "रद्द करें"
+  },
+  "REMIND ME LATER": {
+    "default": "बाद में याद दिलाएं"
+  },
+  "CUSTOMISING": {
+    "default": "कस्टमाइज़ हो रहा है"
+  },
+  "BUDS": {
+    "default": "बड्स"
+  },
+  "suggestion_text_find_device": {
+    "default": "Noise ऑडियो ऐप केवल मास्टर सीरीज़ को सपोर्ट करता है। अन्य Noise ईयरबड्स को ऐप की ज़रूरत नहीं है।"
+  },
+  "enter_dob": {
+    "default": "अपनी जन्म तिथि दर्ज करें"
+  },
+  "REWARD GENERATED": {
+    "default": "रिवॉर्ड जनरेट हुआ"
+  },
+  "DOUBLE SHAKE": {
+    "default": "डबल शेक"
+  },
+  "QUICK SHAKE": {
+    "default": "तेज़ शेक"
+  },
+  "Download your product user manual": {
+    "default": "अपना प्रोडक्ट यूज़र मैनुअल डाउनलोड करें"
+  },
+  "Check if new features are available": {
+    "default": "जाँचें कि नए फ़ीचर उपलब्ध हैं या नहीं"
+  },
+  "FORGET THIS DEVICE": {
+    "default": "इस डिवाइस को भूल जाएं"
+  },
+  "How To Wear": {
+    "default": "कैसे पहनें"
+  },
+  "Owner's Guide": {
+    "default": "ओनर्स गाइड"
+  },
+  "Need help ?": {
+    "default": "मदद चाहिए?"
+  },
+  "HOW TO WEAR": {
+    "default": "कैसे पहनें"
+  },
+  "RESET ALL": {
+    "default": "सब रीसेट करें"
+  },
+  "Home": {
+    "default": "होम"
+  },
+  "REGISTER": {
+    "default": "रजिस्टर करें"
+  },
+  "WEBSITE": {
+    "default": "वेबसाइट"
+  },
+  "ONLINE STORE": {
+    "default": "ऑनलाइन स्टोर"
+  },
+  "RETAIL SHOP": {
+    "default": "रिटेल शॉप"
+  },
+  "Enter name": {
+    "default": "नाम दर्ज करें"
+  },
+  "Your E-mail": {
+    "default": "आपका ईमेल"
+  },
+  "YOUR NUMBER": {
+    "default": "आपका नंबर"
+  },
+  "Enter number": {
+    "default": "नंबर दर्ज करें"
+  },
+  "Where did you buy it?": {
+    "default": "आपने इसे कहाँ से खरीदा?"
+  },
+  "Order date": {
+    "default": "ऑर्डर की तारीख"
+  },
+  "USER DETAILS": {
+    "default": "यूज़र विवरण"
+  },
+  "Name is required.": {
+    "default": "नाम ज़रूरी है।"
+  },
+  "Mobile number required.": {
+    "default": "मोबाइल नंबर ज़रूरी है।"
+  },
+  "Date": {
+    "default": "तारीख"
+  },
+  "DEVICE": {
+    "default": "डिवाइस"
+  },
+  "In Review": {
+    "default": "समीक्षा में"
+  },
+  "Review typically takes 24-48 hours": {
+    "default": "समीक्षा में आमतौर पर 24-48 घंटे लगते हैं"
+  },
+  "Please recheck details and submit again": {
+    "default": "कृपया विवरण दोबारा जाँचें और फिर से सबमिट करें"
+  },
+  "Expires on 12/10/2026": {
+    "default": "12/10/2026 को समाप्त होगी"
+  },
+  "need more help?": {
+    "default": "और मदद चाहिए?"
+  },
+  "Audio follows your head movement to maintain that sweet spot": {
+    "default": "उस परफेक्ट स्पॉट को बनाए रखने के लिए ऑडियो आपके सिर की गति का अनुसरण करता है"
+  },
+  "Maximum loudness. Recommended for loud environments": {
+    "default": "अधिकतम लाउडनेस। तेज़ आवाज़ वाले माहौल के लिए अनुशंसित"
+  },
+  "Head Tracking": {
+    "default": "हेड ट्रैकिंग"
+  },
+  "Fixed": {
+    "default": "फिक्स्ड"
+  },
+  "RESET": {
+    "default": "रीसेट करें"
+  },
+  "RIGHT AND BACK": {
+    "default": "दाईं और पीछे"
+  },
+  "LEFT AND BACK": {
+    "default": "बाईं और पीछे"
+  },
+  "LEFT AND RIGHT": {
+    "default": "बाईं और दाईं"
+  },
+  "Chat History": {
+    "default": "चैट हिस्ट्री"
+  },
+  "Read/Resume your previous chats": {
+    "default": "अपनी पिछली चैट पढ़ें/फिर से शुरू करें"
+  },
+  "COMING SOON": {
+    "default": "जल्द आ रहा है"
+  },
+  "No chat thread\\nfound": {
+    "default": "कोई चैट थ्रेड\\nnहीं मिला"
+  },
+  "START A NEW CHAT": {
+    "default": "नई चैट शुरू करें"
+  },
+  "SETTING UP...": {
+    "default": "सेट हो रहा है..."
+  },
+  "LISTENING": {
+    "default": "सुन रहा है"
+  },
+  "ANALYZING...": {
+    "default": "विश्लेषण हो रहा है..."
+  },
+  "SPEAK ANYTIME": {
+    "default": "कभी भी बोलें"
+  },
+  "activate_ai_title": {
+    "default": "डिवाइस पर AI\\nसक्रिय करें"
+  },
+  "Stereo": {
+    "default": "स्टीरियो"
+  },
+  "DONE": {
+    "default": "हो गया"
+  },
+  "TRY THE DEMO AGAIN": {
+    "default": "डेमो दोबारा आज़माएं"
+  },
+  "This is": {
+    "default": "यह है"
+  },
+  "SELECT AN ACTION": {
+    "default": "एक एक्शन चुनें"
+  },
+  "OK": {
+    "default": "ठीक है"
+  },
+  "Go to chat history": {
+    "default": "चैट हिस्ट्री पर जाएं"
+  },
+  "DEVICE HAS BEEN\\n REMOVED": {
+    "default": "डिवाइस हटा दिया गया है"
+  },
+  "Choose Photo Source": {
+    "default": "फ़ोटो सोर्स चुनें"
+  },
+  "Photo Library": {
+    "default": "फ़ोटो लाइब्रेरी"
+  },
+  "Camera": {
+    "default": "कैमरा"
+  },
+  "Cancel": {
+    "default": "रद्द करें"
+  },
+  "PURCHASE CHANNEL": {
+    "default": "खरीद चैनल"
+  },
+  "file size should be less than 5mb": {
+    "default": "फ़ाइल का आकार 5MB से कम होना चाहिए"
+  },
+  "Please enter valid name": {
+    "default": "कृपया वैध नाम दर्ज करें"
+  },
+  "Please select purchase channel": {
+    "default": "कृपया खरीद चैनल चुनें"
+  },
+  "Please select valid order date": {
+    "default": "कृपया वैध ऑर्डर तारीख चुनें"
+  },
+  "REGISTRATION DATE": {
+    "default": "रजिस्ट्रेशन की तारीख"
+  },
+  "EDIT DETAILS": {
+    "default": "विवरण एडिट करें"
+  },
+  "SELECT AN OPTION": {
+    "default": "एक विकल्प चुनें"
+  },
+  "Photos": {
+    "default": "फ़ोटो"
+  },
+  "Files": {
+    "default": "फ़ाइलें"
+  },
+  "Noise Cancellation": {
+    "default": "नॉइज़ कैंसलेशन"
+  },
+  "Request a Feature": {
+    "default": "फ़ीचर का अनुरोध करें"
+  },
+  "terms_of_service": {
+    "default": "मैंने सेवा की शर्तें और गोपनीयता नीति पढ़ और स्वीकार कर ली है"
+  },
+  "Help & Support": {
+    "default": "हेल्प और सपोर्ट"
+  },
+  "Get help for product issues": {
+    "default": "प्रोडक्ट संबंधी समस्याओं के लिए मदद लें"
+  },
+  "How may I assist you": {
+    "default": "मैं आपकी कैसे मदद कर सकता हूँ"
+  },
+  "Hi, I'm": {
+    "default": "नमस्ते, मैं हूँ"
+  },
+  "1. Ensure your earbuds are sufficiently charged, powered on, and within 9 meters of your mobile device.": {
+    "default": "1. सुनिश्चित करें कि आपके ईयरबड्स पर्याप्त चार्ज हैं, चालू हैं और आपके मोबाइल डिवाइस से 9 मीटर के भीतर हैं।"
+  },
+  "CONTACT US": {
+    "default": "हमसे संपर्क करें"
+  },
+  "PLEASE TRY AFTER SOME TIME": {
+    "default": "कृपया कुछ देर बाद कोशिश करें"
+  },
+  "Or": {
+    "default": "या"
+  },
+  "This action can not be modified": {
+    "default": "इस एक्शन को बदला नहीं जा सकता"
+  },
+  "Access your previous chats": {
+    "default": "अपनी पिछली चैट देखें"
+  },
+  "YES": {
+    "default": "हाँ"
+  },
+  "NO": {
+    "default": "नहीं"
+  },
+  "THE APP IS UPTO DATE": {
+    "default": "ऐप अपडेटेड है"
+  },
+  "EDIT": {
+    "default": "एडिट करें"
+  },
+  "Take a photo": {
+    "default": "फ़ोटो लें"
+  },
+  "JOIN\\nNOISE AUDIO": {
+    "default": "Noise Audio\\nसे जुड़ें"
+  },
+  "MOBILE NUMBER": {
+    "default": "मोबाइल नंबर"
+  },
+  "NAME": {
+    "default": "नाम"
+  },
+  "CROP": {
+    "default": "क्रॉप करें"
+  },
+  "CLOSE": {
+    "default": "बंद करें"
+  },
+  "Edit": {
+    "default": "एडिट करें"
+  },
+  "Add": {
+    "default": "जोड़ें"
+  },
+  "Request A Feature": {
+    "default": "फ़ीचर का अनुरोध करें"
+  },
+  "Click here": {
+    "default": "यहाँ क्लिक करें"
+  },
+  "Add Screenshot / Recording": {
+    "default": "स्क्रीनशॉट/रिकॉर्डिंग जोड़ें"
+  },
+  "Please Share Details Of Your Issue": {
+    "default": "कृपया अपनी समस्या का विवरण शेयर करें"
+  },
+  "REPORT AN ISSUE": {
+    "default": "समस्या रिपोर्ट करें"
+  },
+  "*Recent app logs will be shared with developers": {
+    "default": "*हाल के ऐप लॉग डेवलपर्स के साथ शेयर किए जाएंगे"
+  },
+  "SUBMIT": {
+    "default": "सबमिट करें"
+  },
+  "SELECT CHANNEL": {
+    "default": "चैनल चुनें"
+  },
+  "I AGREE": {
+    "default": "मैं सहमत हूँ"
+  },
+  "I DENY": {
+    "default": "मैं असहमत हूँ"
+  },
+  "and": {
+    "default": "और"
+  },
+  "Support Request": {
+    "default": "सपोर्ट रिक्वेस्ट"
+  },
+  "REGISTERED NAME": {
+    "default": "रजिस्टर्ड नाम"
+  },
+  "REGISTERED E-MAIL": {
+    "default": "रजिस्टर्ड ईमेल"
+  },
+  "NAME CANNOT BE EMPTY": {
+    "default": "नाम खाली नहीं हो सकता"
+  },
+  "Report An Issue": {
+    "default": "समस्या रिपोर्ट करें"
+  },
+  "HELP &\\nSUPPORT": {
+    "default": "हेल्प &\\nसपोर्ट"
+  },
+  "CALL US": {
+    "default": "हमें कॉल करें"
+  },
+  "MAIL US": {
+    "default": "हमें मेल करें"
+  },
+  "Frequently Asked Questions": {
+    "default": "अक्सर पूछे जाने वाले सवाल"
+  },
+  "Feedback": {
+    "default": "फ़ीडबैक"
+  },
+  "For any other query": {
+    "default": "किसी अन्य सवाल के लिए"
+  },
+  "MAIL SUPPORT": {
+    "default": "मेल सपोर्ट"
+  },
+  "FAQS": {
+    "default": "FAQs"
+  },
+  "No support number available.": {
+    "default": "कोई सपोर्ट नंबर उपलब्ध नहीं है।"
+  },
+  "NOT NOW": {
+    "default": "अभी नहीं"
+  },
+  "APP": {
+    "default": "ऐप"
+  },
+  "left_bud_battery_low_charge_now": {
+    "default": "बाएं ईयरबड की बैटरी कम है। अभी चार्ज करें।"
+  },
+  "right_bud_battery_low_charge_now": {
+    "default": "दाएं ईयरबड की बैटरी कम है। अभी चार्ज करें।"
+  },
+  "both_buds_battery_low_charge_now": {
+    "default": "दोनों ईयरबड्स की बैटरी कम है। अभी चार्ज करें।"
+  },
+  "left_bud_not_detected_troubleshoot": {
+    "default": "बायाँ ईयरबड नहीं मिला। ट्रबलशूट करें।"
+  },
+  "right_bud_not_detected_troubleshoot": {
+    "default": "दायाँ ईयरबड नहीं मिला। ट्रबलशूट करें।"
+  },
+  "bud_not_detected_title": {
+    "default": "ईयरबड नहीं मिला"
+  },
+  "bud_not_detected_step_place_correctly": {
+    "default": "सुनिश्चित करें कि ईयरबड केस में सही तरीके से रखा गया है।"
+  },
+  "bud_not_detected_step_clean_pins": {
+    "default": "ईयरबड और केस के चार्जिंग पिन साफ़ करें।"
+  },
+  "bud_not_detected_step_case_min_charge": {
+    "default": "सुनिश्चित करें कि केस में कम से कम 20% बैटरी हो।"
+  },
+  "bud_not_detected_step_keep_lid_open": {
+    "default": "पेयरिंग प्रक्रिया के दौरान ढक्कन खुला रखें।"
+  },
+  "bud_not_detected_step_factory_reset": {
+    "default": "अगर समस्या बनी रहे तो फ़ैक्टरी रीसेट करें।"
+  },
+  "case_power_alert_title": {
+    "default": "केस पावर अलर्ट"
+  },
+  "case_power_alert_step_connect_charger": {
+    "default": "केस को प्रमाणित Type-C चार्जर से कनेक्ट करें।"
+  },
+  "case_power_alert_step_insert_cable": {
+    "default": "सुनिश्चित करें कि चार्जिंग केबल पूरी तरह लगी हो।"
+  },
+  "case_power_alert_step_wait_10_minutes": {
+    "default": "ईयरबड्स चार्ज होना शुरू करने के लिए 10 मिनट प्रतीक्षा करें।"
+  },
+  "case_power_alert_step_check_debris": {
+    "default": "चार्जिंग पोर्ट में किसी भी गंदगी की जाँच करें।"
+  },
+  "help_connecting_question": {
+    "default": "कनेक्ट करने में मदद चाहिए?"
+  },
+  "Location": {
+    "default": "लोकेशन"
+  },
+  "Send Notifications": {
+    "default": "नोटिफ़िकेशन भेजें"
+  },
+  "Music Library": {
+    "default": "म्यूज़िक लाइब्रेरी"
+  },
+  "Read Notifications": {
+    "default": "नोटिफ़िकेशन पढ़ें"
+  },
+  "Photos & Videos (Gallery)": {
+    "default": "फ़ोटो और वीडियो (गैलरी)"
+  },
+  "ENABLED": {
+    "default": "चालू"
+  },
+  "DISABLED": {
+    "default": "बंद"
+  },
+  "Access granted": {
+    "default": "अनुमति मिल गई"
+  },
+  "Report submitted successfully": {
+    "default": "रिपोर्ट सफलतापूर्वक सबमिट हो गई"
+  },
+  "Disconnected": {
+    "default": "डिस्कनेक्टेड"
+  },
+  "You're now using": {
+    "default": "आप अभी उपयोग कर रहे हैं"
+  }
+}

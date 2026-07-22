@@ -1,0 +1,74 @@
+{
+  "pairing": {
+    "default": "KOPPELN"
+  },
+  "found_it": {
+    "default": "Gefunden"
+  },
+  "Dual Pairing": {
+    "default": "Dual Pairing"
+  },
+  "dual_pairing": {
+    "default": "Dual Pairing"
+  },
+  "FIND MY\\nEARBUDS": {
+    "default": "MASTERBUDS FINDEN"
+  },
+  "DUAL\\nPAIRING": {
+    "default": "DUAL PAIRING"
+  },
+  "LOCATE YOUR LOST HEADPHONES\\nIN SECONDS": {
+    "default": "FINDE DEINE VERLORENEN KOPFHÖRER IN SEKUNDEN"
+  },
+  "FIND MY\\nHEADPHONES": {
+    "default": "FINDE MEINE KOPFHÖRER"
+  },
+  "LOCATE YOUR LOST EARBUDS\\nIN SECONDS": {
+    "default": "FINDE DEINE VERLORENEN MASTERBUDS IN SEKUNDEN"
+  },
+  "LISTEN TO SOUND AT ITS FINEST. CRYSTAL-CLEAR VOCALS AND RICH, DETAILED INSTRUMENTALS BRING OUT EVERY NUANCE, DELIVERING DEEPER BASS, CLEANER MIDS, AND SOFTER HIGHS FOR AN IMMERSIVE AUDIO EXPERIENCE.": {
+    "default": "MUSIK, DIE ALL DEINE STIMMUNGEN ÜBERTRIFFT. ERWEITERTE WIEDERGABE UND ANPASSBARE TOUCH-BEDIENUNGEN VERBESSERN DAS ERLEBNIS, WODURCH JEDER SCHRITT NAHTLOS WIRD."
+  },
+  "FIND MY\\nDEVICE": {
+    "default": "MEIN GERÄT FINDEN"
+  },
+  "Find My\\nDevice": {
+    "default": "Gerät finden"
+  },
+  "Locate your lost device in seconds": {
+    "default": "Verlorenes Gerät in Sekunden finden"
+  },
+  "Auto-answer incoming calls by wearing your device": {
+    "default": "Anrufe automatisch annehmen beim Tragen"
+  },
+  "FOR HEADPHONES - DOUBLE PRESS POWER BUTTON TO ENABLE PAIRING MODE": {
+    "default": "FÜR KOPFHÖRER – DRÜCKE DIE EIN/AUS-TASTE ZWEIMAL, UM DEN KOPPLUNGSMODUS ZU AKTIVIEREN"
+  },
+  "4. If the issue persists, enable pairing mode: Press and hold the pairing button on the charging case for 3 seconds, until the indicator light starts blinking.": {
+    "default": "4. Wenn das Problem weiterhin besteht, aktiviere den Kopplungsmodus: Halten die Pairing-Taste am Ladecase 3 Sekunden lang gedrückt, bis die Anzeigeleuchte blinkt."
+  },
+  "3. If the issue persists, enable pairing mode: Press the power button twice in quick succession.": {
+    "default": "3. Wenn das Problem weiterhin besteht, aktiviere den Kopplungsmodus: Drücke die Einschalttaste zweimal schnell hintereinander."
+  },
+  "Order date cannot be after first pairing date": {
+    "default": "Das Kaufdatum darf nicht nach dem ersten Kopplungsdatum liegen"
+  },
+  "purchase date cannot be later than your pairing date": {
+    "default": "Das Kaufdatum darf nicht nach dem Kopplungsdatum liegen"
+  },
+  "PAIRING...": {
+    "default": "KOPPELN..."
+  },
+  "Press & hold the pairing button until the LED starts blinking.": {
+    "default": "Halte die Kopplungstaste gedrückt, bis die LED blinkt."
+  },
+  "RETRY PAIRING": {
+    "default": "KOPPLUNG ERNEUT VERSUCHEN"
+  },
+  "Press and hold the pairing button on the case until the light starts to blink.": {
+    "default": "Halte die Kopplungstaste am Etui gedrückt, bis das Licht zu blinken beginnt."
+  },
+  "Press and hold the pairing button on the case for 3 sec, until the light starts to blink": {
+    "default": "Halte die Kopplungstaste am Etui 3 Sekunden lang gedrückt, bis das Licht zu blinken beginnt"
+  }
+}

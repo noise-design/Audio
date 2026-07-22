@@ -1,0 +1,278 @@
+{
+  "contine": {
+    "default": "Fortfahren"
+  },
+  "enter_email_address": {
+    "default": "Gebe Deine E-Mail-Adresse ein"
+  },
+  "skip": {
+    "default": "Überspringen"
+  },
+  "create_account_using_email": {
+    "default": "ERLEBE REINEN AUDIOGENUSS, AUF DEINE ART"
+  },
+  "tos": {
+    "default": "Nutzungsbedingungen"
+  },
+  "privacy_policy": {
+    "default": "DATENSCHUTZRICHTLINIE"
+  },
+  "continue_with_email": {
+    "default": "mit E-Mail fortfahren"
+  },
+  "continue_with_phone": {
+    "default": "mit Telefonnummer fortfahren"
+  },
+  "enter_phone": {
+    "default": "Gib Deine Telefonnummer ein"
+  },
+  "allow_access": {
+    "default": "Zugriff erlauben"
+  },
+  "dob": {
+    "default": "Geburtsdatum"
+  },
+  "date_of_birth": {
+    "default": "GEBURTSDATUM"
+  },
+  "logout": {
+    "default": "Abmelden"
+  },
+  "terms_policies": {
+    "default": "Bedingungen & Richtlinien"
+  },
+  "privacy_policy_accept": {
+    "default": "Bitte akzeptiere die AGB und die Datenschutzerklärung, um fortzufahren"
+  },
+  "find_my_headphones": {
+    "default": "Kopfhörer suchen"
+  },
+  "activate_this_feature_by_allowing_permissions": {
+    "default": "Aktiviere diese Funktion, indem Du Berechtigungen erteilst"
+  },
+  "PHONE\\nCALLS": {
+    "default": "TELEFONANRUFE"
+  },
+  "SKIP": {
+    "default": "ÜBERSPRINGEN"
+  },
+  "TERMS &\\nPOLICIES": {
+    "default": "BEDINGUNGEN & RICHTLINIEN"
+  },
+  "Logout": {
+    "default": "Abmelden"
+  },
+  "Are you sure to logout from your account?": {
+    "default": "Möchtest Du Dich wirklich von Deinem Konto abmelden?"
+  },
+  "Delete Account": {
+    "default": "Konto löschen"
+  },
+  "Are you sure to Delete from your account?": {
+    "default": "Möchtest Du Dein Konto wirklich löschen?"
+  },
+  "TWS EARPHONES": {
+    "default": "TWS-KOPFHÖRER"
+  },
+  "CONTINUE": {
+    "default": "WEITER"
+  },
+  "find_my_Headphones_description": {
+    "default": "Klicke auf die Wiedergabetaste der Kopfhörer, um sie zu finden."
+  },
+  "headphone_press_and_hold_center_button": {
+    "default": "Halte die Ein/Aus-Taste gedrückt."
+  },
+  "headphone_ready_to_pair_heading": {
+    "default": "Bereite Deine Kopfhörer zum Koppeln vor."
+  },
+  "verify_identity": {
+    "default": "BESTÄTIGE DEINE IDENTITÄT"
+  },
+  "sent_code_to": {
+    "default": "WIR HABEN EINEN CODE GESENDET AN"
+  },
+  "one_last_thing": {
+    "default": "NOCH EINS... DANN BIST DU FERTIG."
+  },
+  "enter_name": {
+    "default": "GIB DEINEN NAMEN EIN"
+  },
+  "your_name": {
+    "default": "DEIN NAME"
+  },
+  "your_email": {
+    "default": "DEINE E MAIL"
+  },
+  "headphone_ready_to_pair_instruction": {
+    "default": "DRÜCKE DEN EIN/AUS KNOPF DOPPELT, UM DAS GERÄT SICHTBAR ZU MACHEN"
+  },
+  "Review & Earn": {
+    "default": "Bewerten & verdienen"
+  },
+  "REVIEW & EARN": {
+    "default": "BEWERTEN & VERDIENEN"
+  },
+  "Your feedback unlocks perks!": {
+    "default": "Dein Feedback ermöglicht dir den Zugang zu besonderen Vorteilen!"
+  },
+  "REDEEM OFFER": {
+    "default": "Angebot einlösen"
+  },
+  "Use the code below to redeem the offer value": {
+    "default": "Verwenden Sie den folgenden Code, um das Angebot einzulösen"
+  },
+  "SKIP TRACKS BY DOUBLE SHAKING YOUR HEAD.": {
+    "default": "Überspringe Titel, indem du den Kopf doppelt schüttelst."
+  },
+  "Enter email": {
+    "default": "E-Mail eingeben"
+  },
+  "Only alphabets allowed.": {
+    "default": "Nur Buchstaben erlaubt."
+  },
+  "Email is required.": {
+    "default": "E-Mail ist erforderlich."
+  },
+  "Enter valid email address.": {
+    "default": "Gültige E-Mail-Adresse eingeben."
+  },
+  "By proceeding, you agree to log out of guest mode. Note that you will need to log in again to access the app.": {
+    "default": "Wenn Du fortfährst, stimmst Du zu, sich vom Gastmodus abzumelden. Bitte beachte, dass Du Dich erneut anmelden musst, um auf die App zuzugreifen."
+  },
+  "Privacy Policy": {
+    "default": "Datenschutzrichtlinie"
+  },
+  "Terms & Conditions": {
+    "default": "Allgemeine Geschäftsbedingungen"
+  },
+  "Welcome to your": {
+    "default": "Willkommen bei Deinem"
+  },
+  "Headphones on? Let’s try": {
+    "default": "Kopfhörer auf? Probieren wir es aus"
+  },
+  "YOUR NAME": {
+    "default": "DEIN NAME"
+  },
+  "LOGIN TO REGISTER": {
+    "default": "ZUM REGISTRIEREN ANMELDEN"
+  },
+  "UPLOAD INVOICE": {
+    "default": "RECHNUNG HOCHLADEN"
+  },
+  "Don’t have an invoice?": {
+    "default": "Keine Rechnung vorhanden?"
+  },
+  "Only PDF/JPG/PNG allowed": {
+    "default": "Nur PDF/JPG/PNG erlaubt"
+  },
+  "Upload invoice instead": {
+    "default": "Rechnung stattdessen hochladen"
+  },
+  "Could not prepare invoice file": {
+    "default": "Rechnungsdatei konnte nicht vorbereitet werden"
+  },
+  "Please upload invoice": {
+    "default": "Bitte lade die Rechnung hoch"
+  },
+  "LOGIN TO CONTINUE": {
+    "default": "Anmelden, um fortzufahren"
+  },
+  "1. Ensure your headphones are sufficiently charged, powered on, and within 9 meters of your mobile device.": {
+    "default": "1. Stell sicher, dass Deine Kopfhörer ausreichend geladen, eingeschaltet und innerhalb von 9 Metern von Deinem Mobilgerät entfernt sind."
+  },
+  "or_login_using": {
+    "default": "Jetzt anmelden"
+  },
+  "CONTINUE AS GUEST": {
+    "default": "ALS GAST FORTFAHREN"
+  },
+  "privacy_policy_login": {
+    "default": "Datenschutzerklärung"
+  },
+  "DELETE ACCOUNT": {
+    "default": "KONTO LÖSCHEN"
+  },
+  "SIGN OUT": {
+    "default": "ABMELDEN"
+  },
+  "EMAIL ADDRESS": {
+    "default": "E-MAIL-ADRESSE"
+  },
+  "ENTER YOUR EMAIL": {
+    "default": "GIB DEINE E-MAIL EIN"
+  },
+  "VERIFY\\nWITH OTP": {
+    "default": "MIT OTP VERIFIZIEREN"
+  },
+  "PLEASE ENTER THE 4-DIGIT OTP SENT TO": {
+    "default": "BITTE GIB DEN 4-STELLIGEN OTP-CODE EIN, DER GESENDET WURDE AN"
+  },
+  "Incorrect OTP entered.": {
+    "default": "Falscher OTP-Code eingegeben."
+  },
+  "ARE YOU SURE YOU WANT TO DELETE YOUR ACCOUNT?": {
+    "default": "BIST DU SICHER, DASS DU DEIN KONTO LÖSCHEN MÖCHTEST?"
+  },
+  "DELETING YOUR ACCOUNT WILL DISCONNECT YOUR DEVICE FROM THE APP AND ALL THE DATA AND SETTINGS WILL BE RESET.": {
+    "default": "DURCH DAS LÖSCHEN DEINES KONTOS WIRD DEIN GERÄT VON DER APP GETRENNT UND ALLE DATEN UND EINSTELLUNGEN WERDEN ZURÜCKGESETZT."
+  },
+  "ARE YOU SURE YOU TO SIGNOUT FROM YOUR ACCOUNT?": {
+    "default": "BIST DU SICHER, DASS DU DICH VON DEINEM KONTO ABMELDEN MÖCHTEST?"
+  },
+  "To continue, please accept our": {
+    "default": "Um fortzufahren, akzeptiere bitte unsere"
+  },
+  "Sign In / Create Account": {
+    "default": "Anmelden / Konto erstellen"
+  },
+  "ARE YOU SURE TO SIGN OUT FROM YOUR ACCOUNT?": {
+    "default": "BIST DU SICHER, DASS DU DICH VON DEINEM KONTO ABMELDEN MÖCHTEST?"
+  },
+  "Are you sure you\\nwant to sign out?": {
+    "default": "Möchtest Du Dich wirklich abmelden?"
+  },
+  "Signing out will log you in as a guest": {
+    "default": "Beim Abmelden wirst Du als Gast angemeldet"
+  },
+  "Manage Permissions": {
+    "default": "Berechtigungen verwalten"
+  },
+  "Microphone": {
+    "default": "Mikrofon"
+  },
+  "Please grant the necessary permissions to continue using the app.": {
+    "default": "Bitte erteile die erforderlichen Berechtigungen, um die App weiterhin zu nutzen."
+  },
+  "Please enable Location to continue": {
+    "default": "Bitte aktiviere den Standort, um fortzufahren."
+  },
+  "ALLOW ACCESS": {
+    "default": "ZUGRIFF ERLAUBEN"
+  },
+  "Set live profile picture and share invoice for warranty.": {
+    "default": "Profilbild live festlegen und Rechnung für die Garantie teilen."
+  },
+  "Allows you to control music playback directly from the app.": {
+    "default": "Ermöglicht die direkte Steuerung der Musikwiedergabe in der App."
+  },
+  "Customize profile picture and share invoice for warranty.": {
+    "default": "Profilbild anpassen und Rechnung für die Garantie teilen."
+  },
+  "Signal Strength": {
+    "default": "Signalstärke"
+  },
+  "AVAILABLE REWARDS": {
+    "default": "Verfügbare Belohnungen"
+  },
+  "Make sure your headphones are charged, turned on and within 9m of this device.": {
+    "default": "Stelle sicher, dass deine Kopfhörer aufgeladen, eingeschaltet und innerhalb von 9 m von diesem Gerät entfernt sind."
+  },
+  "ALLOW": {
+    "default": "ERLAUBEN"
+  },
+  "PERMISSIONS REQUIRED": {
+    "default": "BERECHTIGUNGEN ERFORDERLICH"
+  }
+}

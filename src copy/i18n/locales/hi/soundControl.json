@@ -1,0 +1,161 @@
+{
+  "Noise_Control": {
+    "default": "नॉइज़ कंट्रोल"
+  },
+  "Transparency": {
+    "default": "ट्रांसपेरेंसी"
+  },
+  "ANC": {
+    "default": "ANC"
+  },
+  "Adaptive": {
+    "default": "एडेप्टिव"
+  },
+  "Spatial Audio": {
+    "default": "स्पेशियल ऑडियो"
+  },
+  "EQ Control": {
+    "default": "EQ कंट्रोल"
+  },
+  "JAZZ": {
+    "default": "जैज़"
+  },
+  "Rock": {
+    "default": "रॉक"
+  },
+  "Club": {
+    "default": "क्लब"
+  },
+  "Focus Mode": {
+    "default": "फ़ोकस मोड"
+  },
+  "NOISE\\nCONTROL": {
+    "default": "नॉइज़\\nकंट्रोल"
+  },
+  "SPATIAL\\nAUDIO": {
+    "default": "स्पेशियल ऑडियो"
+  },
+  "TAP & HOLD ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "ANC मोड बदलने के लिए ईयरबड को टैप करके रखें।"
+  },
+  "49dB\\nANC": {
+    "default": "49dB\\nANC"
+  },
+  "SINGLE TAP ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "ANC मोड बदलने के लिए ईयरबड पर एक बार टैप करें।"
+  },
+  "TAP VOLUME + AND - ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "ANC मोड बदलने के लिए ईयरबड पर वॉल्यूम + और - टैप करें।"
+  },
+  "TOGGLE ANC MODES": {
+    "default": "ANC मोड टॉगल करें"
+  },
+  "DOUBLE TAP ON ANC BUTTON TO SWITCH BETWEEN ANC MODES": {
+    "default": "ANC मोड बदलने के लिए ANC बटन पर दो बार टैप करें"
+  },
+  "EQUALISER": {
+    "default": "इक्वलाइज़र"
+  },
+  "BASS": {
+    "default": "बास"
+  },
+  "TREBLE": {
+    "default": "ट्रेबल"
+  },
+  "PERSONALIZE SOUND WITH\\nCUSTOM EQ CONTROL SETTINGS.": {
+    "default": "\\nकस्टम EQ कंट्रोल सेटिंग्स के साथ साउंड पर्सनलाइज़ करें।"
+  },
+  "SWITCH ANC MODES": {
+    "default": "ANC मोड बदलें"
+  },
+  "GAMING MODE": {
+    "default": "गेमिंग मोड"
+  },
+  "KEEP TAPPING ON MODE SWITCH BUTTON TO SWITCH BETWEEN DIFFERENT ANC MODES": {
+    "default": "अलग-अलग ANC मोड बदलने के लिए\\nमोड स्विच बटन टैप करते रहें"
+  },
+  "TAP TWICE ON MODE SWITCH BUTTON TO TOGGLE BETWEEN SPATIAL AUDIO & MUSIC MODE": {
+    "default": "स्पेशियल ऑडियो और म्यूज़िक मोड के बीच टॉगल करने के लिए मोड स्विच बटन दो बार दबाएं"
+  },
+  "Side Tone": {
+    "default": "साइडटोन"
+  },
+  "AUDIO BOOST": {
+    "default": "ऑडियो बूस्ट"
+  },
+  "Audio Boost": {
+    "default": "ऑडियो बूस्ट"
+  },
+  "Toggle Spatial Audio": {
+    "default": "स्पेशियल ऑडियो टॉगल करें"
+  },
+  "Sidetone": {
+    "default": "साइडटोन"
+  },
+  "Deeper, richer bass for a fuller listening experience": {
+    "default": "बेहतर सुनने के अनुभव के लिए गहरा, रिच बास"
+  },
+  "Enhance and add depth to your content with Spatial Audio.": {
+    "default": "स्पेशियल ऑडियो के साथ अपने कंटेंट में गहराई जोड़ें।"
+  },
+  "Balanced amplification. Recommended for best experience": {
+    "default": "संतुलित एम्प्लीफिकेशन। सर्वोत्तम अनुभव के लिए अनुशंसित"
+  },
+  "TAP FOUR TIMES TO ENABLE OR DISABLE SPATIAL AUDIO": {
+    "default": "स्पेशियल ऑडियो चालू या बंद करने के लिए चार बार टैप करें"
+  },
+  "Bass Boost": {
+    "default": "बास बूस्ट"
+  },
+  "Spatial Audio & Adaptive ANC": {
+    "default": "स्पेशियल ऑडियो और एडेप्टिव ANC"
+  },
+  "Adaptive ANC, so you can focus on what matters. Spatial Audio, so you step into any environment and let the music be your muse.": {
+    "default": "एडेप्टिव ANC, ताकि आप जो ज़रूरी है उस पर ध्यान दे सकें। स्पेशियल ऑडियो, ताकि आप किसी भी माहौल में कदम रखें और म्यूज़िक को अपनी प्रेरणा बनाएं।"
+  },
+  "Experience balanced, distortion-free audio with deep bass, clear mids, and crisp highs.": {
+    "default": "डीप बास, क्लियर मिड्स और क्रिस्प हाई के साथ संतुलित, डिस्टॉर्शन-फ्री ऑडियो का अनुभव करें।"
+  },
+  "Tap four times on either side of the bud to activate Spatial Audio.": {
+    "default": "स्पेशियल ऑडियो सक्रिय करने के लिए बड के किसी भी तरफ चार बार टैप करें।"
+  },
+  "Adaptive ANC": {
+    "default": "एडेप्टिव ANC"
+  },
+  "Tap & hold on the right bud to toggle between ANC modes.": {
+    "default": "ANC मोड टॉगल करने के लिए दाएं बड पर टैप करके रखें।"
+  },
+  "Spatial Audio cannot be used with ANC on": {
+    "default": "ANC चालू होने पर स्पेशियल ऑडियो उपयोग नहीं किया जा सकता"
+  },
+  "CLUB": {
+    "default": "क्लब"
+  },
+  "ROCK": {
+    "default": "रॉक"
+  },
+  "Equaliser": {
+    "default": "इक्वलाइज़र"
+  },
+  "Spatial audio can not be use with ANC enabled": {
+    "default": "ANC सक्षम होने पर स्पेशियल ऑडियो उपयोग नहीं किया जा सकता"
+  },
+  "TAP AND HOLD ON THE RIGHT EARBUD TO SWITCH BETWEEN ANC MODES": {
+    "default": "ANC मोड बदलने के लिए दाएं ईयरबड को टैप करके रखें"
+  },
+  "STEP INTO ANY ENVIRONMENT, WHETHER IT'S A BUSTLING STREET OR A CROWDED CAFÉ, AND LET THE WORLD FADE AWAY. ADAPTIVE ANC DOES THE WORK SO YOU CAN FOCUS ON WHAT MATTERS.": {
+    "default": "किसी भी माहौल में कदम रखें — चाहे भीड़-भाड़ वाली सड़क हो या भरा हुआ कैफे — और दुनिया को पीछे छोड़ दें। एडेप्टिव ANC काम करता है ताकि आप जो ज़रूरी है उस पर ध्यान दे सकें।"
+  },
+  "FOCUS MODE IS ENABLED. PLEASE DISABLE IT TO CONTINUE.": {
+    "default": "फ़ोकस मोड चालू है। जारी रखने के लिए कृपया इसे बंद करें।"
+  },
+  "Gaming Mode": {
+    "default": "गेमिंग मोड"
+  },
+  "EXPERIENCE SPATIAL AUDIO": {
+    "default": "स्पेशियल ऑडियो का अनुभव करें"
+  },
+  "TOGGLE SPATIAL AUDIO": {
+    "default": "स्पेशियल ऑडियो टॉगल करें"
+  }
+}

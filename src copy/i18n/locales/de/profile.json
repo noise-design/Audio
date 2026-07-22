@@ -1,0 +1,62 @@
+{
+  "upload": {
+    "default": "Hochladen"
+  },
+  "my_profile": {
+    "default": "Mein Profil"
+  },
+  "delete_profile": {
+    "default": "Profil löschen"
+  },
+  "Personalize_your_buds": {
+    "default": "Personalisiere Deine Masterbuds"
+  },
+  "Personalize_your_buds_entry_placeholder": {
+    "default": "z. B. Meine Buds"
+  },
+  "Edit Profile": {
+    "default": "Profil bearbeiten"
+  },
+  "ENTER A DEVICE NAME": {
+    "default": "GIB EINEN GERÄTENAMEN EIN"
+  },
+  "Personalize_your_buds_heading": {
+    "default": "PERSONALISIERE DEIN GERÄT"
+  },
+  "edit_profile": {
+    "default": "PROFIL BEARBEITEN"
+  },
+  "Personalize your\\nlistening experience": {
+    "default": "Passe Dein Hörerlebnis an"
+  },
+  "DEVICE NAME": {
+    "default": "GERÄTENAME"
+  },
+  "Are you sure you want to delete this thread?": {
+    "default": "Möchtest Du diesen Chat wirklich löschen?"
+  },
+  "DELETE": {
+    "default": "LÖSCHEN"
+  },
+  "Upload from gallery": {
+    "default": "Aus Galerie hochladen"
+  },
+  "Delete": {
+    "default": "Löschen"
+  },
+  "PROFILE IMAGE DELETED": {
+    "default": "PROFILBILD GELÖSCHT"
+  },
+  "Complete Profile": {
+    "default": "Profil vervollständigen"
+  },
+  "Upload up to 3 media files not exceeding 20 MB in the formats JPEG/JPG/PNG/HEIC/MP4": {
+    "default": "Lade bis zu 3 Mediendateien mit maximal 20 MB in den Formaten JPEG/JPG/PNG/HEIC/MP4 hoch"
+  },
+  "UPLOAD SCREENSHOT": {
+    "default": "SCREENSHOT HOCHLADEN"
+  },
+  "Please upload only screenshots of your posted review — other images won’t be eligible for rewards.": {
+    "default": "Bitte lade nur Screenshots deiner veröffentlichten Bewertung hoch — andere Bilder sind nicht für Belohnungen berechtigt."
+  }
+}

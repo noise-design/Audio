@@ -1,0 +1,135 @@
+{
+  "invalid_code": {
+    "default": "Invalid code",
+    "_todo": "Confirm English copy for iOS key \"invalid_code\" (auto-humanized from slug)."
+  },
+  "mobile_number_validation_msg": {
+    "default": "Mobile number validation msg",
+    "_todo": "Confirm English copy for iOS key \"mobile_number_validation_msg\" (auto-humanized from slug)."
+  },
+  "noInternet": {
+    "default": "No Internet",
+    "_todo": "Confirm English copy for iOS key \"noInternet\" (auto-humanized from slug)."
+  },
+  "left_bud_is_critically_low": {
+    "default": "Left bud is critically low",
+    "_todo": "Confirm English copy for iOS key \"left_bud_is_critically_low\" (auto-humanized from slug)."
+  },
+  "right_bud_is_critically_low": {
+    "default": "Right bud is critically low",
+    "_todo": "Confirm English copy for iOS key \"right_bud_is_critically_low\" (auto-humanized from slug)."
+  },
+  "buds_are_critically_low": {
+    "default": "Buds are critically low",
+    "_todo": "Confirm English copy for iOS key \"buds_are_critically_low\" (auto-humanized from slug)."
+  },
+  "box_is_critically_low": {
+    "default": "Box is critically low",
+    "_todo": "Confirm English copy for iOS key \"box_is_critically_low\" (auto-humanized from slug)."
+  },
+  "headphone_is_critically_low": {
+    "default": "Headphone is critically low",
+    "_todo": "Confirm English copy for iOS key \"headphone_is_critically_low\" (auto-humanized from slug)."
+  },
+  "FIRMWARE UPDATE\\nFAILED": {
+    "default": "FIRMWARE UPDATE\\nFAILED"
+  },
+  "NO UPDATE AVAILABLE": {
+    "default": "NO UPDATE AVAILABLE"
+  },
+  "UNABLE TO CONNECT DEVICE": {
+    "default": "UNABLE TO CONNECT DEVICE"
+  },
+  "DEVICE IS NOT PAIRED": {
+    "default": "DEVICE IS NOT PAIRED"
+  },
+  "PLEASE WAIT FOR THE TIMER TO RESET": {
+    "default": "PLEASE WAIT FOR THE TIMER TO RESET"
+  },
+  "Registration Failed": {
+    "default": "Registration Failed"
+  },
+  "API response failed": {
+    "default": "API response failed"
+  },
+  "REQUEST FAILED": {
+    "default": "REQUEST FAILED"
+  },
+  "Uh Oh! Looks like we have an API response failure!": {
+    "default": "Uh Oh! Looks like we have an API response failure!"
+  },
+  "Weekly Limit\\nReached": {
+    "default": "Weekly Limit\\nReached"
+  },
+  "Something went wrong": {
+    "default": "Something went wrong"
+  },
+  "Device failed to connect": {
+    "default": "Device failed to connect"
+  },
+  "TRY AGAIN": {
+    "default": "TRY AGAIN"
+  },
+  "Maintenance": {
+    "default": "Maintenance",
+    "_todo": "Confirm English copy for iOS key \"Maintenance\" (auto-humanized from slug)."
+  },
+  "Failed to submit report. Please try again.": {
+    "default": "Failed to submit report. Please try again."
+  },
+  "case_battery_critically_low_charge_now": {
+    "default": "Case battery critically low charge now",
+    "_todo": "Confirm English copy for iOS key \"case_battery_critically_low_charge_now\" (auto-humanized from slug)."
+  },
+  "BT is disabled on your device. Enable to proceed": {
+    "default": "BT is disabled on your device. Enable to proceed"
+  },
+  "Location is disabled on your device. Enable to proceed": {
+    "default": "Location is disabled on your device. Enable to proceed"
+  },
+  "Connection Failed": {
+    "default": "Connection Failed"
+  },
+  "Unable to find your device?": {
+    "default": "Unable to find your device?"
+  },
+  "UNABLE TO FIND YOUR DEVICE": {
+    "default": "UNABLE TO FIND YOUR DEVICE"
+  },
+  "DEVICE FAILED\\nTO PAIR": {
+    "default": "DEVICE FAILED\\nTO PAIR"
+  },
+  "DEVICE FAILED TO CONNECT": {
+    "default": "DEVICE FAILED TO CONNECT"
+  },
+  "File still too large — try a shorter clip": {
+    "default": "File still too large — try a shorter clip"
+  },
+  "ASSET DOWNLOAD\\nFAILED": {
+    "default": "ASSET DOWNLOAD\\nFAILED"
+  },
+  "NO INTERNET CONNECTION": {
+    "default": "NO INTERNET CONNECTION"
+  },
+  "COULDN'T UPDATE SETTINGS. PLEASE TRY AGAIN.": {
+    "default": "COULDN'T UPDATE SETTINGS. PLEASE TRY AGAIN."
+  },
+  "AUDIO BOOST WAS TURNED OFF, BUT THE EQ CHANGE DIDN'T APPLY. PLEASE TRY AGAIN.": {
+    "default": "AUDIO BOOST WAS TURNED OFF, BUT THE EQ CHANGE DIDN'T APPLY. PLEASE TRY AGAIN."
+  },
+  "FAILED": {
+    "default": "FAILED"
+  },
+  "LIMIT REACHED": {
+    "default": "LIMIT REACHED"
+  },
+  "APP_UNDER_MAINTENANCE": {
+    "default": "APP_UNDER_MAINTENANCE"
+  },
+  "PLEASE CLOSE AND REOPEN YOUR CASE TO VERIFY FIRMWARE UPDATE": {
+    "default": "PLEASE CLOSE AND REOPEN YOUR CASE TO VERIFY FIRMWARE UPDATE"
+  },
+  "FIRMWARE UPDATE TIMED OUT": {
+    "default": "FIRMWARE UPDATE TIMED OUT"
+  }
+}

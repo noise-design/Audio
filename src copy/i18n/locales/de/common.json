@@ -1,0 +1,776 @@
+{
+  "start_typing": {
+    "default": "Tippe hier..."
+  },
+  "cancel": {
+    "default": "Abbrechen"
+  },
+  "enter_otp": {
+    "default": "OTP eingeben"
+  },
+  "resend_code_in": {
+    "default": "CODE ERNEUT SENDEN in"
+  },
+  "resend_code": {
+    "default": "CODE ERNEUT SENDEN"
+  },
+  "device_found": {
+    "default": "Gerät gefunden"
+  },
+  "noise_nile": {
+    "default": "Noise Nile"
+  },
+  "select_device": {
+    "default": "Gerät auswählen"
+  },
+  "cant_find_device": {
+    "default": "Gerät nicht gefunden?"
+  },
+  "see_here": {
+    "default": "hier ansehen"
+  },
+  "retry_connect": {
+    "default": "ERNEUT VERSUCHEN"
+  },
+  "earbuds_ready_to_pair_heading": {
+    "default": "Bereite Deine Masterbuds zum Koppeln vor"
+  },
+  "earbuds_ready_to_pair_instruction": {
+    "default": "Leg Deine Masterbuds in das Ladecase und halte die Kopplungstaste 2 Sekunden lang gedrückt"
+  },
+  "improved_performance": {
+    "default": "Verbesserte Leistung"
+  },
+  "enhanced_anc": {
+    "default": "verbesserte ANC"
+  },
+  "remind_me_later": {
+    "default": "Später erinnern"
+  },
+  "take_me_home": {
+    "default": "ZUR STARTSEITE"
+  },
+  "do_not_exit_this_page": {
+    "default": "Bitte diese Seite nicht verlassen"
+  },
+  "find_my_earbuds_heading": {
+    "default": "Meine Masterbuds finden"
+  },
+  "find_my_earbuds_description": {
+    "default": "Drück den Wiedergabe-Button der Masterbuds, den Du finden möchtest."
+  },
+  "find_my_earbuds_instruction": {
+    "default": "Beim Abspielen wird ein Ton ausgelöst. Bitte stell sicher, dass Dein Gerät nicht verwendet wird."
+  },
+  "save_adjustments": {
+    "default": "Änderungen speichern"
+  },
+  "all_devices_heading": {
+    "default": "Erfahre mehr über Noise TWS"
+  },
+  "learn_more": {
+    "default": "Mehr erfahren"
+  },
+  "remind_later": {
+    "default": "Später erinnern"
+  },
+  "app_update": {
+    "default": "Appaktualisierung"
+  },
+  "terms_conditions": {
+    "default": "Allgemeine Geschäftsbedingungen"
+  },
+  "low_battery_heading": {
+    "default": "Deine Batterie ist fast leer"
+  },
+  "place_earbuds_in_case": {
+    "default": "Leg die Masterbuds in das Ladecase"
+  },
+  "Off": {
+    "default": "Aus"
+  },
+  "Mid": {
+    "default": "Mittel"
+  },
+  "Max": {
+    "default": "Max"
+  },
+  "ON": {
+    "default": "Ein"
+  },
+  "Custom": {
+    "default": "Benutzerdefiniert"
+  },
+  "DEFAULT": {
+    "default": "Standard"
+  },
+  "Swift Call Mode": {
+    "default": "Schnellrufmodus"
+  },
+  "It_makes_the_audio_come_alive_from_ever_corner": {
+    "default": "Es lässt den Sound aus jeder Ecke lebendig wirken"
+  },
+  "Here_are_Msg": {
+    "default": "Hier sind einige Gesten, die Du nutzen kannst."
+  },
+  "DISCONNECTED": {
+    "default": "GETRENNT"
+  },
+  "off_caps": {
+    "default": "AUS"
+  },
+  "Wear_detection": {
+    "default": "Trageerkennung"
+  },
+  "Swift_call_mode": {
+    "default": "Schnellrufmodus"
+  },
+  "MUSICCONTROL": {
+    "default": "MUSIKSTEUERUNG"
+  },
+  "CHARGING\\nYOUR BUDS": {
+    "default": "MASTERBUDS LADEN"
+  },
+  "CHARGE EARBUDS": {
+    "default": "MASTERBUDS LADEN"
+  },
+  "CHARGE CASE": {
+    "default": "CASE LADEN"
+  },
+  "NEXT": {
+    "default": "WEITER"
+  },
+  "RAIN, SWEAT, OR SHINE, YOUR EARBUDS STAY PROTECTED. TAKE THEM EVERYWHERE WITHOUT A SECOND THOUGHT.": {
+    "default": "REGEN, SCHWEIß ODER SONNE – DEINE MASTERBUDS SIND GESCHÜTZT. NIMM SIE ÜBERALL MIT HIN."
+  },
+  "CHANGER": {
+    "default": "CHANGER"
+  },
+  "YOUR DEVICE IS IN": {
+    "default": "DEIN GERÄT IST IN"
+  },
+  "SHALL WE SWITCH THE APP TO": {
+    "default": "SOLLEN WIR DIE APP UMSTELLEN AUF"
+  },
+  "TOO?": {
+    "default": "UMSTELLEN?"
+  },
+  "ENGLISH": {
+    "default": "ENGLISCH"
+  },
+  "FOLLOW THE STEPS FROM THE VIDEO BELOW": {
+    "default": "FOLGE DEN SCHRITTEN IM VIDEO UNTEN"
+  },
+  "MY DEVICES": {
+    "default": "MEINE GERÄTE"
+  },
+  "POWER ON/OFF": {
+    "default": "EIN/AUS"
+  },
+  "RESET DEVICE": {
+    "default": "GERÄT ZURÜCKSETZEN"
+  },
+  "MID": {
+    "default": "Mitten"
+  },
+  "STANDARD": {
+    "default": "Standard"
+  },
+  "CUSTOM": {
+    "default": "Benutzerdefiniert"
+  },
+  "LEFT": {
+    "default": "LINKS"
+  },
+  "RIGHT": {
+    "default": "RECHTS"
+  },
+  "CUSTOMISE": {
+    "default": "ANPASSEN"
+  },
+  "NONE": {
+    "default": "KEINE"
+  },
+  "Alert": {
+    "default": "Warnung"
+  },
+  "Audio App": {
+    "default": "Audio-App"
+  },
+  "CANCEL": {
+    "default": "ABBRECHEN"
+  },
+  "REMIND ME LATER": {
+    "default": "Erinnere mich später"
+  },
+  "CUSTOMISING": {
+    "default": "ANPASSEN"
+  },
+  "BUDS": {
+    "default": "Masterbuds"
+  },
+  "suggestion_text_find_device": {
+    "default": "DIE NOISE AUDIO-APP UNTERSTÜTZT NUR DIE MASTER-SERIE. ANDERE NOISE-BUDS BENÖTIGEN DIE APP NICHT."
+  },
+  "enter_dob": {
+    "default": "GIB DEIN GEBURTSDATUM EIN"
+  },
+  "REWARD GENERATED": {
+    "default": "PRÄMIE ERWORBEN"
+  },
+  "DOUBLE SHAKE": {
+    "default": "Zwei Mal schütteln"
+  },
+  "QUICK SHAKE": {
+    "default": "SCHNELLES SCHÜTTELN"
+  },
+  "Download your product user manual": {
+    "default": "Produktbedienungsanleitung herunterladen"
+  },
+  "Check if new features are available": {
+    "default": "Prüfen, ob neue Funktionen verfügbar sind"
+  },
+  "FORGET THIS DEVICE": {
+    "default": "DIESES GERÄT ENTFERNEN"
+  },
+  "How To Wear": {
+    "default": "Richtig tragen"
+  },
+  "Owner's Guide": {
+    "default": "Benutzerhandbuch"
+  },
+  "Need help ?": {
+    "default": "Brauchst du Hilfe?"
+  },
+  "HOW TO WEAR": {
+    "default": "RICHTIG TRAGEN"
+  },
+  "RESET ALL": {
+    "default": "ALLES ZURÜCKSETZEN"
+  },
+  "Home": {
+    "default": "Start"
+  },
+  "REGISTER": {
+    "default": "REGISTRIEREN"
+  },
+  "WEBSITE": {
+    "default": "WEBSEITE"
+  },
+  "ONLINE STORE": {
+    "default": "ONLINE-SHOP"
+  },
+  "RETAIL SHOP": {
+    "default": "EINZELHANDEL"
+  },
+  "Enter name": {
+    "default": "Name eingeben"
+  },
+  "Your E-mail": {
+    "default": "Deine E-Mail"
+  },
+  "YOUR NUMBER": {
+    "default": "DEINE NUMMER"
+  },
+  "Enter number": {
+    "default": "Nummer eingeben"
+  },
+  "Where did you buy it?": {
+    "default": "Wo hast Du es gekauft?"
+  },
+  "Order date": {
+    "default": "Bestelldatum"
+  },
+  "USER DETAILS": {
+    "default": "BENUTZERDATEN"
+  },
+  "Name is required.": {
+    "default": "Name ist erforderlich."
+  },
+  "Mobile number required.": {
+    "default": "Mobilnummer erforderlich."
+  },
+  "Date": {
+    "default": "Datum"
+  },
+  "DEVICE": {
+    "default": "GERÄT"
+  },
+  "In Review": {
+    "default": "In Prüfung"
+  },
+  "Review typically takes 24-48 hours": {
+    "default": "Die Prüfung dauert in der Regel 24–48 Stunden"
+  },
+  "Please recheck details and submit again": {
+    "default": "Bitte überprüfe die Angaben und sende Sie erneut"
+  },
+  "Expires on 12/10/2026": {
+    "default": "Läuft ab am 12.10.2026"
+  },
+  "need more help?": {
+    "default": "Brauchst Du weitere Hilfe?"
+  },
+  "Audio follows your head movement to maintain that sweet spot": {
+    "default": "Audio folgt Deinen Kopfbewegungen für den optimalen Klangpunkt"
+  },
+  "Maximum loudness. Recommended for loud environments": {
+    "default": "Maximale Lautstärke. Empfohlen für laute Umgebungen"
+  },
+  "Head Tracking": {
+    "default": "Head Tracking"
+  },
+  "Fixed": {
+    "default": "Behoben"
+  },
+  "RESET": {
+    "default": "ZURÜCKSETZEN"
+  },
+  "RIGHT AND BACK": {
+    "default": "RECHTS UND ZURÜCK"
+  },
+  "LEFT AND BACK": {
+    "default": "LINKS UND ZURÜCK"
+  },
+  "LEFT AND RIGHT": {
+    "default": "LINKS UND RECHTS"
+  },
+  "Chat History": {
+    "default": "Chatverlauf"
+  },
+  "Read/Resume your previous chats": {
+    "default": "Lesen oder fortsetzen Deienr vorherigen Chats"
+  },
+  "COMING SOON": {
+    "default": "BALD VERFÜGBAR"
+  },
+  "No chat thread\\nfound": {
+    "default": "Kein Chatverlauf gefunden"
+  },
+  "START A NEW CHAT": {
+    "default": "NEUEN CHAT STARTEN"
+  },
+  "SETTING UP...": {
+    "default": "WIRD EINGERICHTET..."
+  },
+  "LISTENING": {
+    "default": "HÖRT ZU"
+  },
+  "ANALYZING...": {
+    "default": "ANALYSIERT..."
+  },
+  "SPEAK ANYTIME": {
+    "default": "JEDERZEIT SPRECHEN"
+  },
+  "activate_ai_title": {
+    "default": "KI AUF DEM GERÄT AKTIVIEREN"
+  },
+  "Stereo": {
+    "default": "Stereo"
+  },
+  "DONE": {
+    "default": "FERTIG"
+  },
+  "TRY THE DEMO AGAIN": {
+    "default": "DEMO ERNEUT TESTEN"
+  },
+  "This is": {
+    "default": "Das ist"
+  },
+  "SELECT AN ACTION": {
+    "default": "AKTION AUSWÄHLEN"
+  },
+  "OK": {
+    "default": "OK"
+  },
+  "Go to chat history": {
+    "default": "Zum Chatverlauf"
+  },
+  "DEVICE HAS BEEN\\n REMOVED": {
+    "default": "GERÄT WURDE ENTFERNT"
+  },
+  "Choose Photo Source": {
+    "default": "Fotoquelle auswählen"
+  },
+  "Photo Library": {
+    "default": "Fotomediathek"
+  },
+  "Camera": {
+    "default": "Kamera"
+  },
+  "Cancel": {
+    "default": "Abbrechen"
+  },
+  "PURCHASE CHANNEL": {
+    "default": "KAUFORT"
+  },
+  "file size should be less than 5mb": {
+    "default": "Dateigröße muss kleiner als 5 MB sein"
+  },
+  "Please enter valid name": {
+    "default": "Bitte gib einen gültigen Namen ein"
+  },
+  "Please select purchase channel": {
+    "default": "Bitte wähle einen Kaufort aus"
+  },
+  "Please select valid order date": {
+    "default": "Bitte wähle ein gültiges Bestelldatum"
+  },
+  "REGISTRATION DATE": {
+    "default": "REGISTRIERUNGSDATUM"
+  },
+  "EDIT DETAILS": {
+    "default": "DETAILS BEARBEITEN"
+  },
+  "SELECT AN OPTION": {
+    "default": "OPTION AUSWÄHLEN"
+  },
+  "Photos": {
+    "default": "Fotos"
+  },
+  "Files": {
+    "default": "Dateien"
+  },
+  "Noise Cancellation": {
+    "default": "Geräuschunterdrückung"
+  },
+  "Request a Feature": {
+    "default": "Funktionsanfrage"
+  },
+  "terms_of_service": {
+    "default": "Ich habe die Nutzungsbedingungen und die Datenschutzerklärung gelesen und akzeptiere sie"
+  },
+  "Help & Support": {
+    "default": "Hilfe & Support"
+  },
+  "Get help for product issues": {
+    "default": "Hilfe bei Produktproblemen erhalten"
+  },
+  "How may I assist you": {
+    "default": "Wie kann ich Dir helfen"
+  },
+  "Hi, I'm": {
+    "default": "Hallo, ich bin"
+  },
+  "1. Ensure your earbuds are sufficiently charged, powered on, and within 9 meters of your mobile device.": {
+    "default": "1. Stell sicher, dass Deine Masterbuds ausreichend geladen, eingeschaltet und innerhalb von 9 Metern von Deinem Mobilgerät entfernt sind."
+  },
+  "CONTACT US": {
+    "default": "KONTAKTIERE UNS"
+  },
+  "PLEASE TRY AFTER SOME TIME": {
+    "default": "BITTE VERSUCHE ES SPÄTER ERNEUT"
+  },
+  "Or": {
+    "default": "Oder"
+  },
+  "This action can not be modified": {
+    "default": "Diese Aktion kann nicht rückgängig gemacht werden"
+  },
+  "Access your previous chats": {
+    "default": "Greife auf Deine vorherigen Chats zu"
+  },
+  "YES": {
+    "default": "JA"
+  },
+  "NO": {
+    "default": "NEIN"
+  },
+  "THE APP IS UPTO DATE": {
+    "default": "DIE APP IST AKTUELL"
+  },
+  "EDIT": {
+    "default": "BEARBEITEN"
+  },
+  "Take a photo": {
+    "default": "Foto aufnehmen"
+  },
+  "JOIN\\nNOISE AUDIO": {
+    "default": "NOISE AUDIO BEITRETEN"
+  },
+  "MOBILE NUMBER": {
+    "default": "MOBILNUMMER"
+  },
+  "NAME": {
+    "default": "NAME"
+  },
+  "CROP": {
+    "default": "ZUSCHNEIDEN"
+  },
+  "CLOSE": {
+    "default": "SCHLIESSEN"
+  },
+  "Edit": {
+    "default": "Bearbeiten"
+  },
+  "Add": {
+    "default": "Hinzufügen"
+  },
+  "Request A Feature": {
+    "default": "Funktion anfragen"
+  },
+  "Click here": {
+    "default": "Hier klicken"
+  },
+  "Add Screenshot / Recording": {
+    "default": "Screenshot / Aufnahme hinzufügen"
+  },
+  "Please Share Details Of Your Issue": {
+    "default": "Bitte teile Details zu Deinem Problem mit"
+  },
+  "REPORT AN ISSUE": {
+    "default": "PROBLEM MELDEN"
+  },
+  "*Recent app logs will be shared with developers": {
+    "default": "*Aktuelle Appprotokolle werden mit den Entwicklern geteilt"
+  },
+  "Issue reported successfully": {
+    "default": "Meldung erfolgreich gesendet"
+  },
+  "SUBMIT": {
+    "default": "SENDEN"
+  },
+  "SELECT CHANNEL": {
+    "default": "KANAL AUSWÄHLEN"
+  },
+  "I AGREE": {
+    "default": "ICH STIMME ZU"
+  },
+  "I DENY": {
+    "default": "ICH LEHNE AB"
+  },
+  "and": {
+    "default": "und"
+  },
+  "Support Request": {
+    "default": "Supportanfrage"
+  },
+  "REGISTERED NAME": {
+    "default": "REGISTRIERTER NAME"
+  },
+  "REGISTERED E-MAIL": {
+    "default": "REGISTRIERTE E-MAIL"
+  },
+  "NAME CANNOT BE EMPTY": {
+    "default": "NAME DARF NICHT LEER SEIN"
+  },
+  "Report An Issue": {
+    "default": "Ein Problem melden"
+  },
+  "HELP &\\nSUPPORT": {
+    "default": "HILFE & SUPPORT"
+  },
+  "CALL US": {
+    "default": "RUF UNS AN"
+  },
+  "MAIL US": {
+    "default": "SCHREIB UNS"
+  },
+  "Frequently Asked Questions": {
+    "default": "Häufig gestellte Fragen"
+  },
+  "Feedback": {
+    "default": "Feedback"
+  },
+  "For any other query": {
+    "default": "Für alle anderen Anfragen"
+  },
+  "MAIL SUPPORT": {
+    "default": "SUPPORT PER E-MAIL"
+  },
+  "FAQS": {
+    "default": "FAQS"
+  },
+  "No support number available.": {
+    "default": "Keine Supportnummer verfügbar."
+  },
+  "NOT NOW": {
+    "default": "JETZT NICHT"
+  },
+  "APP": {
+    "default": "App"
+  },
+  "left_bud_battery_low_charge_now": {
+    "default": "Akku des linken Masterbuds ist niedrig. Jetzt aufladen."
+  },
+  "right_bud_battery_low_charge_now": {
+    "default": "Akku des rechten Masterbuds ist niedrig. Jetzt aufladen."
+  },
+  "both_buds_battery_low_charge_now": {
+    "default": "Akkustand beider Masterbuds ist niedrig. Jetzt aufladen."
+  },
+  "left_bud_not_detected_troubleshoot": {
+    "default": "Linker Masterbud nicht erkannt. Fehlerbehebung starten."
+  },
+  "right_bud_not_detected_troubleshoot": {
+    "default": "Rechter Masterbud nicht erkannt. Fehlerbehebung starten."
+  },
+  "bud_not_detected_title": {
+    "default": "MASTERBUDS NICHT ERKANNT"
+  },
+  "bud_not_detected_step_place_correctly": {
+    "default": "Stell sicher, dass der Masterbud korrekt im Ladecase sitzt."
+  },
+  "bud_not_detected_step_clean_pins": {
+    "default": "Reinige die Ladekontakte am Masterbud und im Ladecase."
+  },
+  "bud_not_detected_step_case_min_charge": {
+    "default": "Stell sicher, dass das Ladecase mindestens 20 % Akku hat."
+  },
+  "bud_not_detected_step_keep_lid_open": {
+    "default": "Lass den Deckel während des Kopplungsvorgangs geöffnet."
+  },
+  "bud_not_detected_step_factory_reset": {
+    "default": "Wenn das Problem weiterhin besteht, führe einen Werksreset durch."
+  },
+  "case_power_alert_title": {
+    "default": "LADECASE-WARNMELDUNG"
+  },
+  "case_power_alert_step_connect_charger": {
+    "default": "Verbinde das Ladecase mit einem zertifizierten Type-C-Ladegerät."
+  },
+  "case_power_alert_step_insert_cable": {
+    "default": "Stell sicher, dass das Ladekabel vollständig eingesteckt ist."
+  },
+  "case_power_alert_step_wait_10_minutes": {
+    "default": "Warte 10 Minuten, bis die Masterbuds mit dem Laden beginnen."
+  },
+  "case_power_alert_step_check_debris": {
+    "default": "Prüfe den Ladeanschluss auf Schmutz oder Fremdkörper."
+  },
+  "help_connecting_question": {
+    "default": "Hilfe beim Verbinden?"
+  },
+  "Location": {
+    "default": "Standort"
+  },
+  "Send Notifications": {
+    "default": "Benachrichtigungen senden"
+  },
+  "Music Library": {
+    "default": "Musikbibliothek"
+  },
+  "Read Notifications": {
+    "default": "Benachrichtigungen lesen"
+  },
+  "Photos & Videos (Gallery)": {
+    "default": "Fotos und Videos (Galerie)"
+  },
+  "ENABLED": {
+    "default": "AKTIVIERT"
+  },
+  "DISABLED": {
+    "default": "DEAKTIVIERT"
+  },
+  "Access granted": {
+    "default": "Zugriff gewährt"
+  },
+  "DOWNLOAD USER MANUAL": {
+    "default": "BENUTZERHANDBUCH HERUNTERLADEN"
+  },
+  "DEVICE NOT FOUND": {
+    "default": "GERÄT NICHT GEFUNDEN"
+  },
+  "SET UP YOUR DEVICE": {
+    "default": "GERÄT EINRICHTEN"
+  },
+  "SET UP A NEW DEVICE": {
+    "default": "NEUES GERÄT EINRICHTEN"
+  },
+  "SELECT YOUR DEVICE": {
+    "default": "WÄHLE DEIN GERÄT"
+  },
+  "Can't find your device?": {
+    "default": "Gerät nicht gefunden?"
+  },
+  "Make sure your device is fully charged.": {
+    "default": "Stell sicher, dass Dein Gerät vollständig geladen ist."
+  },
+  "devices found": {
+    "default": "Geräte gefunden"
+  },
+  "SET UP ANOTHER DEVICE": {
+    "default": "ANDERES GERÄT EINRICHTEN"
+  },
+  "SUBJECT*": {
+    "default": "BETREFF*"
+  },
+  "DESCRIPTION*": {
+    "default": "BESCHREIBUNG*"
+  },
+  "Search": {
+    "default": "Suchen"
+  },
+  "New device detected": {
+    "default": "Neues Gerät erkannt"
+  },
+  "DIDN'T FIND YOURS?": {
+    "default": "DEINS NICHT GEFUNDEN?"
+  },
+  "GET HELP": {
+    "default": "HILFE ERHALTEN"
+  },
+  "DISMISS": {
+    "default": "SCHLIESSEN"
+  },
+  "Generating data ...": {
+    "default": "Daten werden generiert ..."
+  },
+  "All": {
+    "default": "Alle"
+  },
+  "No FAQs found": {
+    "default": "Keine FAQs gefunden"
+  },
+  "Make sure your earbuds are  charged, turned on and within 9m of this device.": {
+    "default": "Stelle sicher, dass deine Ohrhörer aufgeladen, eingeschaltet und innerhalb von 9 m von diesem Gerät entfernt sind."
+  },
+  "Open the case, leaving in the earbuds.": {
+    "default": "Öffne das Etui und lasse die Masterbuds darin."
+  },
+  "Supported file types:": {
+    "default": "Unterstützte Dateitypen:"
+  },
+  "onboardOWS1": {
+    "default": "PASSE DEIN ERLEBNIS AN. PASSE DIE TOUCH-STEUERUNG AN, DAMIT JEDE AKTION NAHTLOS WIRKT—LAUTSTÄRKE ÄNDERN, TITEL ÜBERSPRINGEN, ALLES MIT EINER EINFACHEN BERÜHRUNG."
+  },
+  "onboardOWS2": {
+    "default": "HÖRE SOUND IN BESTER QUALITÄT. KRISTALLKLARE STIMMEN UND REICHE, DETAILLIERTE INSTRUMENTALS BRINGEN JEDE NUANCE ZUM VORSCHEIN UND LIEFERN TIEFERE BÄSSE, KLARERE MITTEN UND WEICHERE HÖHEN FÜR EIN IMMERSIVES KLANGERLEBNIS."
+  },
+  "onboardOWS3": {
+    "default": "REGEN, SCHWEISS ODER SONNENSCHEIN. DEINE EARBUDS BLEIBEN GESCHÜTZT. NIMM SIE OHNE BEDENKEN ÜBERALL MIT."
+  },
+  "onboardOWS4": {
+    "default": "STARTE DURCH. JEDE PLAYLIST MIT BIS ZU 35+ STUNDEN AKKULAUFZEIT*. GENIESSE UNUNTERBROCHENES HÖREN, LANGE GESPRÄCHE UND GANZTÄGIGE LEISTUNG — SO BLEIBT DEINE MUSIK ÜBERALL BEI DIR. *EINSCHLIESSLICH DES LADECASES"
+  },
+  "ASSISTANT": {
+    "default": "ASSISTENT"
+  },
+  "PROCEED": {
+    "default": "FORTFAHREN"
+  },
+  "onboardclip4": {
+    "default": "ERLEBE JEDE PLAYLIST MIT BIS ZU 28+ STUNDEN AKKULAUFZEIT*. GENIESSE UNUNTERBROCHENES HÖREN, LANGE GESPRÄCHE UND GANZTÄGIGE LEISTUNG — DAMIT DEINE MUSIK ÜBERALL DABEI IST. *INKLUSIVE LADECASE"
+  },
+  "onboardbuds_s4": {
+    "default": "ERLEBE JEDE PLAYLIST MIT BIS ZU 45+ STUNDEN AKKULAUFZEIT*. GENIESSE UNUNTERBROCHENES HÖREN, LANGE GESPRÄCHE UND GANZTÄGIGE LEISTUNG — DAMIT DEINE MUSIK ÜBERALL DABEI IST. *INKLUSIVE LADECASE"
+  },
+  "onboardbuds4": {
+    "default": "ERLEBE JEDE PLAYLIST MIT BIS ZU 45+ STUNDEN AKKULAUFZEIT*. GENIESSE UNUNTERBROCHENES HÖREN, LANGE GESPRÄCHE UND GANZTÄGIGE LEISTUNG — DAMIT DEINE MUSIK ÜBERALL DABEI IST. *INKLUSIVE LADECASE"
+  },
+  "UNDERSTOOD": {
+    "default": "VERSTANDEN"
+  },
+  "VOCAL": {
+    "default": "VOCAL"
+  },
+  "POP": {
+    "default": "POP"
+  },
+  "ELECTRONIC": {
+    "default": "ELEKTRONISCH"
+  },
+  "DYNAMIC": {
+    "default": "DYNAMISCH"
+  }
+}

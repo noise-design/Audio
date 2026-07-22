@@ -1,0 +1,71 @@
+{
+  "AI": {
+    "default": "AI"
+  },
+  "Ensure the app stays open in\\nthe background to activate AI": {
+    "default": "Ensure the app stays open in\\nthe background to activate AI"
+  },
+  "AI Companion": {
+    "default": "AI Companion"
+  },
+  "Your own AI buddy to answer your questions": {
+    "default": "Your own AI buddy to answer your questions"
+  },
+  "AI Transcription": {
+    "default": "AI Transcription"
+  },
+  "On Device AI": {
+    "default": "On Device AI"
+  },
+  "Learn how to activate voice AI from your device": {
+    "default": "Learn how to activate voice AI from your device"
+  },
+  "AI Assistant": {
+    "default": "AI Assistant"
+  },
+  "Noise AI – your personal AI companion to assist you through the day.": {
+    "default": "Noise AI – your personal AI companion to assist you through the day."
+  },
+  "Tap and hold on the left bud to activate Noise AI assistant. App needs to be open in foreground.": {
+    "default": "Tap and hold on the left bud to activate Noise AI assistant. App needs to be open in foreground."
+  },
+  "Noise AI": {
+    "default": "Noise AI"
+  },
+  "Learn how to activate AI on your device": {
+    "default": "Learn how to activate AI on your device"
+  },
+  "USE NOISE AI": {
+    "default": "USE NOISE AI"
+  },
+  "Noise AI uses your inputs to power responses and store chat history. Interactions may be securely analysed to improve performance.": {
+    "default": "Noise AI uses your inputs to power responses and store chat history. Interactions may be securely analysed to improve performance."
+  },
+  "AI Help Assistant": {
+    "default": "AI Help Assistant"
+  },
+  "Required to scan for nearby Noise devices and enable Noise AI for personalized recommendations.": {
+    "default": "Required to scan for nearby Noise devices and enable Noise AI for personalized recommendations."
+  },
+  "Allows you to interact with Noise AI voice assistant.": {
+    "default": "Allows you to interact with Noise AI voice assistant."
+  },
+  "Briefly Explain Your Problem": {
+    "default": "Briefly Explain Your Problem"
+  },
+  "Chat limit reached": {
+    "default": "Chat limit reached"
+  },
+  "Ask Anything...": {
+    "default": "Ask Anything..."
+  },
+  "Some ideas to get you started": {
+    "default": "Some ideas to get you started"
+  },
+  "To activate AI assistant on your device, the app must remain open. Once activated, you can exit the app.": {
+    "default": "To activate AI assistant on your device, the app must remain open. Once activated, you can exit the app."
+  },
+  "THINKING": {
+    "default": "THINKING"
+  }
+}

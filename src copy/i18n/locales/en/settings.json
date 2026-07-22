@@ -1,0 +1,168 @@
+{
+  "all_device_settings": {
+    "default": "All device settings",
+    "_todo": "Confirm English copy for iOS key \"all_device_settings\" (auto-humanized from slug)."
+  },
+  "Low": {
+    "default": "Low",
+    "_todo": "Confirm English copy for iOS key \"Low\" (auto-humanized from slug)."
+  },
+  "PRODUCT TIPS": {
+    "default": "PRODUCT TIPS"
+  },
+  "POWER\\nCONTROLS": {
+    "default": "POWER\\nCONTROLS"
+  },
+  "CUSTOMISABLE\\nPRODUCT CONTROLS": {
+    "default": "CUSTOMISABLE\\nPRODUCT CONTROLS"
+  },
+  "ZERO\\nEFFORT\\nCONTROL": {
+    "default": "ZERO\\nEFFORT\\nCONTROL"
+  },
+  "PRODUCT\\nGUIDE": {
+    "default": "PRODUCT\\nGUIDE"
+  },
+  "APP\\nLANGUAGE": {
+    "default": "APP\\nLANGUAGE"
+  },
+  "CHANGE": {
+    "default": "CHANGE"
+  },
+  "SAVE CHANGES": {
+    "default": "SAVE CHANGES"
+  },
+  "SAVE ADJUSTMENTS": {
+    "default": "SAVE ADJUSTMENTS"
+  },
+  "SETTINGS": {
+    "default": "SETTINGS"
+  },
+  "Share Log": {
+    "default": "Share Log"
+  },
+  "Locks controls for focused, uninterrupted listening": {
+    "default": "Locks controls for focused, uninterrupted listening"
+  },
+  "REFRESH": {
+    "default": "REFRESH"
+  },
+  "CALL CONTROL": {
+    "default": "CALL CONTROL"
+  },
+  "High": {
+    "default": "High",
+    "_todo": "Confirm English copy for iOS key \"High\" (auto-humanized from slug)."
+  },
+  "Medium": {
+    "default": "Medium",
+    "_todo": "Confirm English copy for iOS key \"Medium\" (auto-humanized from slug)."
+  },
+  "Controls": {
+    "default": "Controls",
+    "_todo": "Confirm English copy for iOS key \"Controls\" (auto-humanized from slug)."
+  },
+  "Register your device for warranty coverage": {
+    "default": "Register your device for warranty coverage"
+  },
+  "Set your preferred language for the app": {
+    "default": "Set your preferred language for the app"
+  },
+  "Learn more about your device": {
+    "default": "Learn more about your device"
+  },
+  "ABOUT\\nYOUR DEVICE": {
+    "default": "ABOUT\\nYOUR DEVICE"
+  },
+  "Product tips": {
+    "default": "Product tips"
+  },
+  "Settings": {
+    "default": "Settings",
+    "_todo": "Confirm English copy for iOS key \"Settings\" (auto-humanized from slug)."
+  },
+  "SERIAL NUMBER": {
+    "default": "SERIAL NUMBER"
+  },
+  "LOOK AT THE BACK OF THE BOX TO FIND THE SERIAL\\nNUMBER, SHOWN IN THE ABOVE FORMAT": {
+    "default": "LOOK AT THE BACK OF THE BOX TO FIND THE SERIAL\\nNUMBER, SHOWN IN THE ABOVE FORMAT"
+  },
+  "WARRANTY": {
+    "default": "WARRANTY"
+  },
+  "Incorrect Serial Number": {
+    "default": "Incorrect Serial Number"
+  },
+  "register warranty": {
+    "default": "register warranty"
+  },
+  "REGISTER WARRANTY": {
+    "default": "REGISTER WARRANTY"
+  },
+  "In Warranty": {
+    "default": "In Warranty"
+  },
+  "Customise your device\\ncontrols": {
+    "default": "Customise your device\\ncontrols"
+  },
+  "Control your device hands-free": {
+    "default": "Control your device hands-free"
+  },
+  "Low latency audio for the\\ngamer in you": {
+    "default": "Low latency audio for the\\ngamer in you"
+  },
+  "Lowest amplification. Recommended for low noise environments": {
+    "default": "Lowest amplification. Recommended for low noise environments"
+  },
+  "Access this feature from the Sound settings on the Home screen.": {
+    "default": "Access this feature from the Sound settings on the Home screen."
+  },
+  "Take action on your media and call controls by simply moving your head": {
+    "default": "Take action on your media and call controls by simply moving your head"
+  },
+  "Try the different settings below": {
+    "default": "Try the different settings below"
+  },
+  "Product\\nGuide": {
+    "default": "Product\\nGuide"
+  },
+  "App\\nLanguage": {
+    "default": "App\\nLanguage"
+  },
+  "Warranty": {
+    "default": "Warranty",
+    "_todo": "Confirm English copy for iOS key \"Warranty\" (auto-humanized from slug)."
+  },
+  "DEVICE\\nWARRANTY": {
+    "default": "DEVICE\\nWARRANTY"
+  },
+  "CONTROLS": {
+    "default": "CONTROLS"
+  },
+  "Locks controls for focused listening": {
+    "default": "Locks controls for focused listening"
+  },
+  "Wear Buds to unlock full controls": {
+    "default": "Wear Buds to unlock full controls"
+  },
+  "Battery low. Please charge to at least 20%": {
+    "default": "Battery low. Please charge to at least 20%"
+  },
+  "Warranty Status": {
+    "default": "Warranty Status"
+  },
+  "GO TO SETTINGS": {
+    "default": "GO TO SETTINGS"
+  },
+  "Control your music from notifications": {
+    "default": "Control your music from notifications"
+  },
+  "Product Tips": {
+    "default": "Product Tips"
+  },
+  "MUSIC\\nCONTROL": {
+    "default": "MUSIC\\nCONTROL"
+  },
+  "Music Control": {
+    "default": "Music Control"
+  }
+}

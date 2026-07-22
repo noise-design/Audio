@@ -1,0 +1,207 @@
+{
+  "Noise_Control": {
+    "default": "Noise Control",
+    "_todo": "Confirm English copy for iOS key \"Noise_Control\" (auto-humanized from slug)."
+  },
+  "Transparency": {
+    "default": "Transparency",
+    "_todo": "Confirm English copy for iOS key \"Transparency\" (auto-humanized from slug)."
+  },
+  "ANC": {
+    "default": "ANC"
+  },
+  "Adaptive": {
+    "default": "Adaptive",
+    "_todo": "Confirm English copy for iOS key \"Adaptive\" (auto-humanized from slug)."
+  },
+  "Spatial Audio": {
+    "default": "Spatial Audio"
+  },
+  "EQ Control": {
+    "default": "EQ Control"
+  },
+  "JAZZ": {
+    "default": "JAZZ"
+  },
+  "Rock": {
+    "default": "Rock",
+    "_todo": "Confirm English copy for iOS key \"Rock\" (auto-humanized from slug)."
+  },
+  "Club": {
+    "default": "Club",
+    "_todo": "Confirm English copy for iOS key \"Club\" (auto-humanized from slug)."
+  },
+  "Focus Mode": {
+    "default": "Focus Mode"
+  },
+  "NOISE\\nCONTROL": {
+    "default": "NOISE\\nCONTROL"
+  },
+  "SPATIAL\\nAUDIO": {
+    "default": "SPATIAL\\nAUDIO"
+  },
+  "TAP & HOLD ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "TAP & HOLD ON THE EARBUD TO SWITCH BETWEEN ANC MODES."
+  },
+  "49dB\\nANC": {
+    "default": "49dB\\nANC"
+  },
+  "SINGLE TAP ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "SINGLE TAP ON THE EARBUD TO SWITCH BETWEEN ANC MODES."
+  },
+  "TAP VOLUME + AND - ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "TAP VOLUME + AND - ON THE EARBUD TO SWITCH BETWEEN ANC MODES."
+  },
+  "TOGGLE ANC MODES": {
+    "default": "TOGGLE ANC MODES"
+  },
+  "DOUBLE TAP ON ANC BUTTON TO SWITCH BETWEEN ANC MODES": {
+    "default": "DOUBLE TAP ON ANC BUTTON TO SWITCH BETWEEN ANC MODES"
+  },
+  "EQUALISER": {
+    "default": "EQUALISER"
+  },
+  "BASS": {
+    "default": "BASS"
+  },
+  "TREBLE": {
+    "default": "TREBLE"
+  },
+  "PERSONALIZE SOUND WITH\\nCUSTOM EQ CONTROL SETTINGS.": {
+    "default": "PERSONALIZE SOUND WITH\\nCUSTOM EQ CONTROL SETTINGS."
+  },
+  "SWITCH ANC MODES": {
+    "default": "SWITCH ANC MODES"
+  },
+  "GAMING MODE": {
+    "default": "GAMING MODE"
+  },
+  "KEEP TAPPING ON MODE SWITCH BUTTON TO SWITCH BETWEEN DIFFERENT ANC MODES": {
+    "default": "KEEP TAPPING ON MODE SWITCH BUTTON TO SWITCH BETWEEN DIFFERENT ANC MODES"
+  },
+  "TAP TWICE ON MODE SWITCH BUTTON TO TOGGLE BETWEEN SPATIAL AUDIO & MUSIC MODE": {
+    "default": "TAP TWICE ON MODE SWITCH BUTTON TO TOGGLE BETWEEN SPATIAL AUDIO & MUSIC MODE"
+  },
+  "STEP INTO ANY ENVIRONMENT, WHETHER IT’S A BUSTLING STREET OR A CROWDED CAFÉ, AND LET THE WORLD FADE AWAY. ADAPTIVE ANC DOES THE WORK SO YOU CAN FOCUS ON WHAT MATTERS.": {
+    "default": "STEP INTO ANY ENVIRONMENT, WHETHER IT’S A BUSTLING STREET OR A CROWDED CAFÉ, AND LET THE WORLD FADE AWAY. ADAPTIVE ANC DOES THE WORK SO YOU CAN FOCUS ON WHAT MATTERS."
+  },
+  "Side Tone": {
+    "default": "Side Tone"
+  },
+  "AUDIO BOOST": {
+    "default": "AUDIO BOOST"
+  },
+  "Audio Boost": {
+    "default": "Audio Boost"
+  },
+  "Toggle Spatial Audio": {
+    "default": "Toggle Spatial Audio"
+  },
+  "Sidetone": {
+    "default": "Sidetone",
+    "_todo": "Confirm English copy for iOS key \"Sidetone\" (auto-humanized from slug)."
+  },
+  "Deeper, richer bass for a fuller listening experience": {
+    "default": "Deeper, richer bass for a fuller listening experience"
+  },
+  "Enhance and add depth to your content with Spatial Audio.": {
+    "default": "Enhance and add depth to your content with Spatial Audio."
+  },
+  "Balanced amplification. Recommended for best experience": {
+    "default": "Balanced amplification. Recommended for best experience"
+  },
+  "TAP FOUR TIMES TO ENABLE OR DISABLE SPATIAL AUDIO": {
+    "default": "TAP FOUR TIMES TO ENABLE OR DISABLE SPATIAL AUDIO"
+  },
+  "Bass Boost": {
+    "default": "Bass Boost"
+  },
+  "Spatial Audio & Adaptive ANC": {
+    "default": "Spatial Audio & Adaptive ANC"
+  },
+  "Adaptive ANC, so you can focus on what matters. Spatial Audio, so you step into any environment and let the music be your muse.": {
+    "default": "Adaptive ANC, so you can focus on what matters. Spatial Audio, so you step into any environment and let the music be your muse."
+  },
+  "Experience balanced, distortion-free audio with deep bass, clear mids, and crisp highs.": {
+    "default": "Experience balanced, distortion-free audio with deep bass, clear mids, and crisp highs."
+  },
+  "Tap four times on either side of the bud to activate Spatial Audio.": {
+    "default": "Tap four times on either side of the bud to activate Spatial Audio."
+  },
+  "Adaptive ANC": {
+    "default": "Adaptive ANC"
+  },
+  "Tap & hold on the right bud to toggle between ANC modes.": {
+    "default": "Tap & hold on the right bud to toggle between ANC modes."
+  },
+  "Spatial Audio cannot be used with ANC on": {
+    "default": "Spatial Audio cannot be used with ANC on"
+  },
+  "CLUB": {
+    "default": "CLUB"
+  },
+  "ROCK": {
+    "default": "ROCK"
+  },
+  "Equaliser": {
+    "default": "Equaliser",
+    "_todo": "Confirm English copy for iOS key \"Equaliser\" (auto-humanized from slug)."
+  },
+  "Spatial audio can not be use with ANC enabled": {
+    "default": "Spatial audio can not be use with ANC enabled"
+  },
+  "TAP AND HOLD ON THE RIGHT EARBUD TO SWITCH BETWEEN ANC MODES": {
+    "default": "TAP AND HOLD ON THE RIGHT EARBUD TO SWITCH BETWEEN ANC MODES"
+  },
+  "To enable ANC with a single bud, disable in-ear detection": {
+    "default": "To enable ANC with a single bud, disable in-ear detection"
+  },
+  "To enable ANC with a single bud, disable in-ear detection via Controls": {
+    "default": "To enable ANC with a single bud, disable in-ear detection via Controls"
+  },
+  "TAP FOUR TIMES ON EITHER EARPIECE TO ENABLE/DISABLE AUDIO BOOST": {
+    "default": "TAP FOUR TIMES ON EITHER EARPIECE TO ENABLE/DISABLE AUDIO BOOST"
+  },
+  "TAP & HOLD ON EITHER BUD TO ENABLE/DISABLE GAMING MODE": {
+    "default": "TAP & HOLD ON EITHER BUD TO ENABLE/DISABLE GAMING MODE"
+  },
+  "YOUR CURRENT EQ DOESN'T SUPPORT AUDIO BOOST. SWITCH YOUR EQ TO ENABLE.": {
+    "default": "YOUR CURRENT EQ DOESN'T SUPPORT AUDIO BOOST. SWITCH YOUR EQ TO ENABLE."
+  },
+  "AUDIO BOOST IS ENABLED": {
+    "default": "AUDIO BOOST IS ENABLED"
+  },
+  "AUDIO BOOST IS TUNED ONLY FOR THE DEFAULT EQ. PROCEEDING TO CUSTOMISE WILL DISABLE AUDIO BOOST.": {
+    "default": "AUDIO BOOST IS TUNED ONLY FOR THE DEFAULT EQ. PROCEEDING TO CUSTOMISE WILL DISABLE AUDIO BOOST."
+  },
+  "audio boost is tuned for compatibility": {
+    "default": "audio boost is tuned for compatibility"
+  },
+  "BASS BOOST": {
+    "default": "BASS BOOST"
+  },
+  "CLASSICAL": {
+    "default": "CLASSICAL"
+  },
+  "BALANCED": {
+    "default": "BALANCED"
+  },
+  "COMFORT": {
+    "default": "COMFORT"
+  },
+  "STEP INTO ANY ENVIRONMENT, WHETHER IT'S A BUSTLING STREET OR A CROWDED CAFÉ, AND LET THE WORLD FADE AWAY. ADAPTIVE ANC DOES THE WORK SO YOU CAN FOCUS ON WHAT MATTERS.": {
+    "default": "STEP INTO ANY ENVIRONMENT, WHETHER IT'S A BUSTLING STREET OR A CROWDED CAFÉ, AND LET THE WORLD FADE AWAY. ADAPTIVE ANC DOES THE WORK SO YOU CAN FOCUS ON WHAT MATTERS."
+  },
+  "FOCUS MODE IS ENABLED. PLEASE DISABLE IT TO CONTINUE.": {
+    "default": "FOCUS MODE IS ENABLED. PLEASE DISABLE IT TO CONTINUE."
+  },
+  "Gaming Mode": {
+    "default": "Gaming Mode"
+  },
+  "EXPERIENCE SPATIAL AUDIO": {
+    "default": "EXPERIENCE SPATIAL AUDIO"
+  },
+  "TOGGLE SPATIAL AUDIO": {
+    "default": "TOGGLE SPATIAL AUDIO"
+  }
+}

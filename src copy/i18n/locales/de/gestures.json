@@ -1,0 +1,293 @@
+{
+  "press_and_hold_center_button": {
+    "default": "Zentralknopf gedrückt halten"
+  },
+  "Wear Detection": {
+    "default": "Trageerkennung"
+  },
+  "touch_Gestures": {
+    "default": "Touch Gesten"
+  },
+  "SWITCH MODES": {
+    "default": "MODI WECHSELN"
+  },
+  "CHANGE VOLUME": {
+    "default": "LAUTSTÄRKE ÄNDERN"
+  },
+  "PLAY/PAUSE": {
+    "default": "WIEDERGABE/PAUSE"
+  },
+  "CHANGE SONG": {
+    "default": "SONG WECHSELN"
+  },
+  "ANSWER/HANGUP": {
+    "default": "ANRUF BEANTWORTEN/AUFLEGEN"
+  },
+  "DECLINE CALLS": {
+    "default": "ANRUFE ABLEHNEN"
+  },
+  "TAP ONCE TO INCREASE OR DECREASE VOLUME\\nL:VOL. DOWN | R:VOL. UP": {
+    "default": "EINMAL TIPPEN FÜR LAUTER/LEISER L: – | R: +"
+  },
+  "TAP TWICE TO PLAY OR PAUSE THE SONG": {
+    "default": "ZWEIMAL TIPPEN ZUM START/PAUSE"
+  },
+  "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG\\nL:VOL. UP | R:VOL. DOWN": {
+    "default": "DREIMAL TIPPEN FÜR NÄCHSTEN/VORHERIGEN TITEL L: + | R: –"
+  },
+  "TAP TWICE TO ANSWER/HANGUP CALLS": {
+    "default": "ZWEIMAL TIPPEN UM ANRUF ANZUNEHMEN/AUFZULEGEN"
+  },
+  "TAP & HOLD TO REJECT INCOMING CALLS": {
+    "default": "TIPPEN & HALTEN FÜR ANRUFABLEHNUNG"
+  },
+  "VOLUME CONTROL": {
+    "default": "LAUTSTÄRKESTEUERUNG"
+  },
+  "LONG PRESS ON POWER BUTTON TO TURN\\nDEVICE ON/OFF": {
+    "default": "LANGE DRÜCKEN AM POWER KNOPF, UM DAS GERÄT EIN-/AUSZUSCHALTEN"
+  },
+  "TAP AND HOLD THE + AND – BUTTON FOR 5\\nSECONDS SIMULTANEOUSLY TO RESET THE DEVICE": {
+    "default": "DRÜCKE UND HALTE DIE + UND – TASTE FÜR 5 SEKUNDEN GLEICHZEITIG, UM DAS GERÄT ZURÜCKZUSETZEN"
+  },
+  "CUSTOMIZE TOUCH GESTURES FOR\\nEFFORTLESS EARPHONE CONTROL.": {
+    "default": "PASS DIE TOUCHGESTEN FÜR EINFACHE KOPFHÖRERSTEUERUNG AN."
+  },
+  "TOUCH GESTURES\\nCUSTOMISATION": {
+    "default": "ANPASSUNG DER TOUCHGESTEN"
+  },
+  "In-ear detection": {
+    "default": "In-Ear-Erkennung"
+  },
+  "TAP ONCE": {
+    "default": "EINMAL TIPPEN"
+  },
+  "TAP TWICE": {
+    "default": "ZWEIMAL TIPPEN"
+  },
+  "TAP THRICE": {
+    "default": "DREIMAL TIPPEN"
+  },
+  "TAP HOLD": {
+    "default": "TIPPEN UND HALTEN"
+  },
+  "SELECT AN ACTION FOR\\nTAP & HOLD": {
+    "default": "WÄHLE EINE AKTION FÜR TIPPEN UND HALTEN"
+  },
+  "VOLUME DOWN": {
+    "default": "LAUTSTÄRKE VERRINGERN"
+  },
+  "VOLUME UP": {
+    "default": "LAUTSTÄRKE ERHÖHEN"
+  },
+  "CALL ACCEPT": {
+    "default": "ANRUF ANNEHMEN"
+  },
+  "NEXT SONG": {
+    "default": "NÄCHSTER SONG"
+  },
+  "PREVIOUS SONG": {
+    "default": "VORHERIGER SONG"
+  },
+  "REJECT CALLS": {
+    "default": "ANRUFE ABLEHNEN"
+  },
+  "WAKE UP ASSISTANT": {
+    "default": "ASSISTENT AKTIVIEREN"
+  },
+  "VOICE ASSISTANCE": {
+    "default": "SPRACHASSISTENZ"
+  },
+  "SELECT AN ACTION FOR\\nSINGLE TAP": {
+    "default": "EINE AKTION AUSWÄHLEN MIT EINEM EINZIGEN FINGERTIPP"
+  },
+  "SELECT AN ACTION FOR\\nDOUBLE TAP": {
+    "default": "WÄHLE EINE AKTION FÜR DOPPELFINGERTIPP"
+  },
+  "SELECT AN ACTION FOR\\nTRIPLE TAP": {
+    "default": "WÄHLE EINE AKTION FÜR EINEN DREIFACHFINGERTIPP"
+  },
+  "TAP VOLUME + OR - ON THE HEADPHONE TO INCREASE OR DECREASE THE VOLUME": {
+    "default": "TIPPE AUF LAUTSTÄRKE + ODER -, UM DIE LAUTSTÄRKE ZU ERHÖHEN ODER ZU VERRINGERN"
+  },
+  "AUTO ANSWER INCOMING CALL BY PUTTING ON YOUR HEADPHONES": {
+    "default": "EINGEHENDE ANRUFE WERDEN AUTOMATISCH ANGENOMMEN, WENN DU DIE KOPFHÖRER AUFSETZT"
+  },
+  "SINGLE PRESS POWER BUTTON TO PAUSE AND PLAY MUSIC": {
+    "default": "DRÜCKE DEN EIN/AUS KNOPF EINMAL, UM MUSIK ZU PAUSIEREN/ABZUSPIELEN"
+  },
+  "TAILOR YOUR EXPERIENCE. CUSTOMISE TOUCH CONTROLS TO MAKE EVERY ACTION FEEL SEAMLESS—ADJUST VOLUME, SKIP TRACKS, ALL WITH A SIMPLE TOUCH.": {
+    "default": "ERLEBE DEN KLANG IN SEINER VOLLENDUNG. KRISTALLKLARE GESANGSSTIMMEN UND REICHE, DETAILLIERTE INSTRUMENTE BRINGEN JEDE NUANCE ZUR GELTUNG UND LIEFERN TIEFERE BÄSSE, SAUBERERE MITTEN UND WEICHERE HÖHEN FÜR EIN IMMERSIVES AUDIOERLEBNIS."
+  },
+  "Motion\\nControl": {
+    "default": "Bewegungssteuerung"
+  },
+  "Enables music playback & calls through head gestures.": {
+    "default": "Ermöglicht Musikwiedergabe und Anrufe durch Kopfbewegungen."
+  },
+  "QUICK NOD": {
+    "default": "SCHNELLES NICKEN"
+  },
+  "PLAY OR PAUSE MUSIC WITH A QUICK NOD.": {
+    "default": "Spiele oder pausiere Musik mit einem schnellen Nicken."
+  },
+  "RIGHT NOD": {
+    "default": "NICKEN NACH RECHTS"
+  },
+  "PLAY NEXT SONG.": {
+    "default": "Nächsten Titel abspielen."
+  },
+  "ANSWER INCOMING CALLS WITH A QUICK NOD.": {
+    "default": "Beantworte eingehende Anrufe mit einem schnellen Nicken."
+  },
+  "REJECT CALLS WITH A QUICK SHAKE.": {
+    "default": "Lehne Anrufe mit einem schnellen Schütteln ab."
+  },
+  "MEDIA CONTROL": {
+    "default": "Mediensteuerung"
+  },
+  "Motion Control Tips": {
+    "default": "Tipps zur Bewegungssteuerung"
+  },
+  "Extend Sound Volume": {
+    "default": "Lautstärke erweitern"
+  },
+  "Here are some gestures to": {
+    "default": "Hier sind einige Gesten, um"
+  },
+  "Here are some gestures to look for.": {
+    "default": "Hier sind einige Gesten, auf die du achten solltest."
+  },
+  "TOUCH CONTROLS": {
+    "default": "TOUCHBEDIENUNG"
+  },
+  "Customise touch gesture controls of your device for a personalised experience.\\nTouch controls are currently off.": {
+    "default": "Passe die Touch-Gesten Deines Geräts für ein personalisiertes Erlebnis an.Touch-Steuerung ist derzeit deaktiviert."
+  },
+  "Tap Four Times": {
+    "default": "Viermal tippen"
+  },
+  "Motion\\nGestures": {
+    "default": "Bewegungsgesten"
+  },
+  "Customise touch gestures for effortless control": {
+    "default": "Touch-Gesten für mühelose Steuerung anpassen"
+  },
+  "Hear yourself on calls to speak at a natural volume": {
+    "default": "Sprechen Sie bei Telefonaten in einer natürlichen Lautstärke, damit Sie sich selbst gut hören können"
+  },
+  "Move your head to the right and back twice to skip To the next track": {
+    "default": "Bewege den Kopf zweimal nach rechts und zurück, um zum nächsten Titel zu springen"
+  },
+  "Move your head to the left and back twice to return to the previous track": {
+    "default": "Bewege den Kopf zweimal nach links und zurück, um zum vorherigen Titel zu wechseln"
+  },
+  "play/pause your music with a quick nod": {
+    "default": "Musik mit einem kurzen Nicken abspielen/pausieren"
+  },
+  "Answer incoming calls with a quick nod": {
+    "default": "Eingehende Anrufe mit einem kurzen Nicken annehmen"
+  },
+  "Reject incoming calls with a quick double nod": {
+    "default": "Eingehende Anrufe mit einer schnellen Links- Rechts-Kopfbewegung ablehnen"
+  },
+  "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG": {
+    "default": "DREIMAL TIPPEN, UM ZUM NÄCHSTEN ODER VORHERIGEN TITEL ZU WECHSELN"
+  },
+  "TAP TWICE TO INCREASE OR DECREASE VOLUME\\nL: VOL. UP | R: VOL. DOWN": {
+    "default": "ZWEIMAL TIPPEN, UM LAUTSTÄRKE ZU ÄNDERN L: LAUTER | R: LEISER"
+  },
+  "TAP THRICE TO PLAY OR PAUSE THE MUSIC": {
+    "default": "DREIMAL TIPPEN, UM MUSIK ABZUSPIELEN ODER ZU PAUSIEREN"
+  },
+  "TAP & HOLD FOR 3S TO PLAY NEXT OR PREVIOUS TRACK\\nL: PREVIOUS TRACK | R: NEXT TRACK": {
+    "default": "TIPPE & HALTE 3 SEK. L: VORHERIGER TITEL | R: NÄCHSTER TITEL"
+  },
+  "TAP TWICE TO ANSWER CALLS OR END ONGOING CALLS": {
+    "default": "ZWEIMAL TIPPEN, UM ANRUFE ANZUNEHMEN ODER ZU BEENDEN"
+  },
+  "TAP THRICE TO REJECT INCOMING CALLS": {
+    "default": "DREIMAL TIPPEN, UM EINGEHENDE ANRUFE ABZULEHNEN"
+  },
+  "Transcribe your meetings/discussions at single tap": {
+    "default": "Übertrage Meetings und Gespräche mit nur einem Tippen"
+  },
+  "TAP TO SPEAK": {
+    "default": "TIPPE ZUM SPRECHEN"
+  },
+  "Tap & Hold": {
+    "default": "Tippen & Halten"
+  },
+  "Tap Twice": {
+    "default": "Zweimal tippen"
+  },
+  "Tap Thrice": {
+    "default": "Dreimal tippen"
+  },
+  "FOR BUDS - WITH THE BUDS IN THE CASE AND THE LID OPEN, PRESS & HOLD THE CASE BUTTON UNTIL THE LIGHT STARTS BLINKING": {
+    "default": "FÜR EARBUDS – LEG DIE EARBUDS IN DAS CASE, ÖFFNE DEN DECKEL UND HALTE DIE TASTE AM CASE GEDRÜCKT, BIS DAS LICHT BLINKT"
+  },
+  "Customize gestures for effortless control.": {
+    "default": "Gesten für eine mühelose Steuerung anpassen."
+  },
+  "Record your thoughts with a single tap": {
+    "default": "Zeichne Deine Gedanken mit einem Tippen auf"
+  },
+  "QUICK DOUBLE NOD": {
+    "default": "SCHNELLES DOPPELTES NICKEN"
+  },
+  "Long press charging case button to make your device discoverable": {
+    "default": "Halte die Taste am Ladecase gedrückt, um Dein Gerät sichtbar zu machen"
+  },
+  "Long press charging case button to make device discoverable": {
+    "default": "Halte die Taste am Ladecase gedrückt, um das Gerät sichtbar zu machen"
+  },
+  "DO NOT PRESS ANY BUTTONS ON THE HEADPHONES.": {
+    "default": "DRÜCKE KEINE TASTEN AN DEN KOPFHÖRERN."
+  },
+  "Quick double press the power button until the light starts to blink.": {
+    "default": "Drücke schnell zweimal die Ein-/Aus-Taste, bis das Licht zu blinken beginnt."
+  },
+  "Customize button controls for effortless control": {
+    "default": "Schaltflächensteuerung für mühelose Bedienung anpassen"
+  },
+  "BUTTON CONTROLS": {
+    "default": "SCHALTFLÄCHENSTEUERUNG"
+  },
+  "Button Controls": {
+    "default": "Schaltflächensteuerung"
+  },
+  "Double tap and hold": {
+    "default": "Doppeltippen und halten"
+  },
+  "TAP ONCE TO INCREASE OR DECREASE VOLUME. L: VOL. DOWN | R: VOL. UP": {
+    "default": "EINMAL TIPPEN, UM DIE LAUTSTÄRKE ZU ERHÖHEN ODER ZU VERRINGERN. L: LAUTST. – | R: LAUTST. +"
+  },
+  "TAP TWICE TO PLAY OR PAUSE THE MUSIC": {
+    "default": "ZWEIMAL TIPPEN, UM DIE MUSIK WIEDERZUGEBEN ODER ZU PAUSIEREN"
+  },
+  "TAP THRICE TO CHANGE TRACKS. L: PREV. TRACK | R: NEXT TRACK": {
+    "default": "DREIMAL TIPPEN, UM DEN TITEL ZU WECHSELN. L: VORHERIGER TITEL | R: NÄCHSTER TITEL"
+  },
+  "TAP TWICE TO ANSWER INCOMING/HANG UP ONGOING CALLS": {
+    "default": "ZWEIMAL TIPPEN, UM EINGEHENDE ANRUFE ANZUNEHMEN/LAUFENDE ANRUFE ZU BEENDEN"
+  },
+  "VOICE ASSISTANT": {
+    "default": "SPRACHASSISTENT"
+  },
+  "TAP FOUR TIMES ON EITHER BUD TO WAKE YOUR SMARTPHONE'S VOICE ASSISTANT": {
+    "default": "VIERMAL AUF EINEN DER MASTERBUDS TIPPEN, UM DEN SPRACHASSISTENTEN DEINES SMARTPHONES ZU AKTIVIEREN"
+  },
+  "TAP AND HOLD TO INCREASE OR DECREASE VOLUME. L: VOL. DOWN | R: VOL. UP": {
+    "default": "GEDRÜCKT HALTEN, UM DIE LAUTSTÄRKE ZU ERHÖHEN ODER ZU VERRINGERN. L: LAUTST. – | R: LAUTST. +"
+  },
+  "TAP ONCE TO ANSWER INCOMING/HANG UP ONGOING CALLS": {
+    "default": "EINMAL TIPPEN, UM EINGEHENDE ANRUFE ANZUNEHMEN/LAUFENDE ANRUFE ZU BEENDEN"
+  },
+  "TAP TWICE TO REJECT INCOMING CALLS": {
+    "default": "ZWEIMAL TIPPEN, UM EINGEHENDE ANRUFE ABZULEHNEN"
+  },
+  "Motion Controls": {
+    "default": "Bewegungssteuerung"
+  }
+}

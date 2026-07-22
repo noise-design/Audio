@@ -1,0 +1,134 @@
+{
+  "app_ver": {
+    "default": "ऐप वर्शन"
+  },
+  "software_updated_heading": {
+    "default": "सॉफ़्टवेयर अपडेट"
+  },
+  "software_updated_description": {
+    "default": "अब आप वापस जाकर अपने Noise का आनंद ले सकते हैं!"
+  },
+  "whats_new": {
+    "default": "नया क्या है"
+  },
+  "update_firmware": {
+    "default": "फ़र्मवेयर अपडेट करें"
+  },
+  "firmware_update_in_progress": {
+    "default": "फ़र्मवेयर अपडेट जारी है"
+  },
+  "updating_firmware": {
+    "default": "फ़र्मवेयर अपडेट हो रहा है"
+  },
+  "software_updated_done_heading": {
+    "default": "नया सॉफ़्टवेयर\\nअपडेट हो गया"
+  },
+  "update_now": {
+    "default": "अभी अपडेट करें"
+  },
+  "firmware_update_available": {
+    "default": "अपना अनुभव बेहतर बनाने के लिए अभी अपडेट करें"
+  },
+  "APP\\nUPDATE": {
+    "default": "ऐप\\nअपडेट"
+  },
+  "FIRMWARE\\nUPDATE": {
+    "default": "फ़र्मवेयर\\nअपडेट"
+  },
+  "App Ver": {
+    "default": "ऐप वर्शन"
+  },
+  "UPDATE AVAILABLE": {
+    "default": "अपडेट उपलब्ध है"
+  },
+  "VER": {
+    "default": "वर्शन"
+  },
+  "KEEP YOUR HEADPHONES CLOSE TO YOUR PHONE DURING UPDATE": {
+    "default": "अपडेट के दौरान अपने हेडफ़ोन को फ़ोन के पास रखें"
+  },
+  "Check for the latest device update": {
+    "default": "नवीनतम डिवाइस अपडेट की जाँच करें"
+  },
+  "Your app is up to date": {
+    "default": "आपका ऐप अपडेटेड है"
+  },
+  "Firmware\\nUpdate": {
+    "default": "फ़र्मवेयर अपडेट"
+  },
+  "App\\nUpdate": {
+    "default": "ऐप अपडेट"
+  },
+  "SOFTWARE IS UP TO DATE": {
+    "default": "फ़र्मवेयर अपडेटेड है"
+  },
+  "You can initiate up to 5 chats a week. you can however, go to your chat history to access or resume your previous chats.": {
+    "default": "आप एक हफ़्ते में अधिकतम 5 चैट शुरू कर सकते हैं। हालाँकि, अपनी पिछली चैट देखने या जारी रखने के लिए चैट हिस्ट्री पर जा सकते हैं।"
+  },
+  "app_version": {
+    "default": "ऐप वर्शन"
+  },
+  "Current Version": {
+    "default": "वर्तमान वर्शन"
+  },
+  "WHAT'S NEW": {
+    "default": "नया क्या है"
+  },
+  "UPDATE APP": {
+    "default": "ऐप अपडेट करें"
+  },
+  "UPDATE PROFILE": {
+    "default": "प्रोफ़ाइल अपडेट करें"
+  },
+  "UPDATE YOUR BIRTHDAY": {
+    "default": "अपना जन्मदिन अपडेट करें"
+  },
+  "UPDATE": {
+    "default": "अपडेट करें"
+  },
+  "PROFILE UPDATED": {
+    "default": "प्रोफ़ाइल अपडेट हो गई"
+  },
+  "NAME UPDATED": {
+    "default": "नाम अपडेट हो गया"
+  },
+  "DATE OF BIRTH UPDATED": {
+    "default": "जन्म तिथि अपडेट हो गई"
+  },
+  "Update Available": {
+    "default": "अपडेट उपलब्ध है"
+  },
+  "Update Required": {
+    "default": "अपडेट ज़रूरी है"
+  },
+  "Up to date": {
+    "default": "अपडेटेड है"
+  },
+  "TRANSFERRING FIRMWARE": {
+    "default": "फ़र्मवेयर ट्रांसफर हो रहा है"
+  },
+  "PROFILE IMAGE UPDATED": {
+    "default": "प्रोफ़ाइल इमेज अपडेट हो गई"
+  },
+  "Helps discover and pair with nearby devices and to stream audio from your device to your product": {
+    "default": "आसपास के डिवाइस खोजने और पेयर करने तथा आपके डिवाइस से प्रोडक्ट पर ऑडियो स्ट्रीम करने में मदद करता है।"
+  },
+  "Helps discover, pair, and sync your audio device with the app.": {
+    "default": "ऐप के साथ आपके ऑडियो डिवाइस को खोजने, पेयर करने और सिंक करने में मदद करता है।"
+  },
+  "Stay informed about important firmware and app updates.": {
+    "default": "ज़रूरी फ़र्मवेयर और ऐप अपडेट के बारे में जानकारी पाते रहें।"
+  },
+  "MAY TAKE 1–2 MINS. DO NOT EXIT THIS PAGE": {
+    "default": "1-2 मिनट लग सकते हैं। इस पेज से बाहर न जाएं"
+  },
+  "INSTALLING FIRMWARE": {
+    "default": "फ़र्मवेयर इंस्टॉल हो रहा है"
+  },
+  "Downloading": {
+    "default": "डाउनलोड हो रहा है"
+  },
+  "You'll be redirected to the App Store. Once updated, return here to continue.": {
+    "default": "आपको ऐप स्टोर पर भेजा जाएगा। अपडेट के बाद यहाँ वापस आएं।"
+  }
+}

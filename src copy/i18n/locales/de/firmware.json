@@ -1,0 +1,143 @@
+{
+  "app_ver": {
+    "default": "App-Version"
+  },
+  "software_updated_heading": {
+    "default": "SOFTWAREUPDATE"
+  },
+  "software_updated_description": {
+    "default": "JETZT KANNST DU NOISE TWS WIEDER GENIESSEN!"
+  },
+  "whats_new": {
+    "default": "Was ist neu"
+  },
+  "update_firmware": {
+    "default": "Firmware aktualisieren"
+  },
+  "firmware_update_in_progress": {
+    "default": "Firmwareaktualisierung läuft"
+  },
+  "updating_firmware": {
+    "default": "Firmware wird aktualisiert"
+  },
+  "software_updated_done_heading": {
+    "default": "NEUE SOFTWARE WURDE INSTALLIERT"
+  },
+  "update_now": {
+    "default": "Jetzt aktualisieren"
+  },
+  "firmware_update_available": {
+    "default": "Jetzt aktualisieren, um Deine Expierence zu verbessern"
+  },
+  "APP\\nUPDATE": {
+    "default": "APPUPDATE"
+  },
+  "FIRMWARE\\nUPDATE": {
+    "default": "FIRMWAREUPDATE"
+  },
+  "App Ver": {
+    "default": "App-Version"
+  },
+  "UPDATE AVAILABLE": {
+    "default": "Update verfügbar"
+  },
+  "VER": {
+    "default": "Ansehen"
+  },
+  "KEEP YOUR HEADPHONES CLOSE TO YOUR PHONE DURING UPDATE": {
+    "default": "HALTE DEINE KOPFHÖRER WÄHREND DES UPDATES IN DER NÄHE DEINES TELEFONS"
+  },
+  "Check for the latest device update": {
+    "default": "Nach dem neuesten Geräte-Update suchen"
+  },
+  "Your app is up to date": {
+    "default": "Deine App ist auf dem neuesten Stand"
+  },
+  "Firmware\\nUpdate": {
+    "default": "Firmware-Update"
+  },
+  "App\\nUpdate": {
+    "default": "App-Update"
+  },
+  "SOFTWARE IS UP TO DATE": {
+    "default": "FIRMWARE IST AUF DEM NEUESTEN STAND"
+  },
+  "You can initiate up to 5 chats a week. you can however, go to your chat history to access or resume your previous chats.": {
+    "default": "Du kannst bis zu 5 Chats pro Woche starten. Du kannst jedoch Deinen Chatverlauf öffnen, um frühere Chats aufzurufen oder fortzusetzen."
+  },
+  "app_version": {
+    "default": "App-Version"
+  },
+  "Current Version": {
+    "default": "Aktuelle Version"
+  },
+  "WHAT'S NEW": {
+    "default": "WAS IST NEU"
+  },
+  "UPDATE APP": {
+    "default": "APP AKTUALISIEREN"
+  },
+  "You’ll be redirected to the App Store. Once updated, return here to continue.": {
+    "default": "Du wirst zum App Store weitergeleitet. Kehre nach dem Update hierher zurück, um fortzufahren."
+  },
+  "UPDATE PROFILE": {
+    "default": "PROFIL AKTUALISIEREN"
+  },
+  "UPDATE YOUR BIRTHDAY": {
+    "default": "AKTUALISIERE DEIN GEBURTSDATUM"
+  },
+  "UPDATE": {
+    "default": "AKTUALISIEREN"
+  },
+  "PROFILE UPDATED": {
+    "default": "PROFIL AKTUALISIERT"
+  },
+  "NAME UPDATED": {
+    "default": "NAME AKTUALISIERT"
+  },
+  "DATE OF BIRTH UPDATED": {
+    "default": "GEBURTSDATUM AKTUALISIERT"
+  },
+  "Update Available": {
+    "default": "Update verfügbar"
+  },
+  "Update Required": {
+    "default": "Update erforderlich"
+  },
+  "Up to date": {
+    "default": "Auf dem neuesten Stand"
+  },
+  "TRANSFERRING FIRMWARE": {
+    "default": "FIRMWARE WIRD ÜBERTRAGEN"
+  },
+  "PROFILE IMAGE UPDATED": {
+    "default": "PROFILBILD AKTUALISIERT"
+  },
+  "Helps discover and pair with nearby devices and to stream audio from your device to your product": {
+    "default": "Hilft, Geräte in der Nähe zu finden und zu koppeln sowie Audio von Deinem Gerät auf Dein Produkt zu streamen."
+  },
+  "Helps discover, pair, and sync your audio device with the app and your phone's system.": {
+    "default": "Hilft dabei, Dein Audiogerät mit der App und dem System Deines Telefons zu entdecken, zu koppeln und zu synchronisieren."
+  },
+  "Helps discover, pair, and sync your audio device with the app.": {
+    "default": "Hilft dabei, Dein Audiogerät mit der App zu entdecken, zu koppeln und zu synchronisieren."
+  },
+  "Stay informed about important firmware and app updates.": {
+    "default": "Bleibe über wichtige Firmware- und Appupdates informiert."
+  },
+  "DO NOT CLOSE THE LID DURING THE UPDATE.": {
+    "default": "SCHLIEßE DEN DECKEL WÄHREND DES UPDATES NICHT."
+  },
+  "POWER OFF AND POWER ON YOUR HEADPHONES TO VERIFY FIRMWARE UPDATE": {
+    "default": "SCHALTE DEINE KOPFHÖRER AUS UND WIEDER EIN, UM DAS FIRMWAREUPDATE ZU ÜBERPRÜFEN"
+  },
+  "ASSETS": {
+    "default": "MEDIEN"
+  },
+  "DOWNLOADING-": {
+    "default": "WIRD HERUNTERGELADEN-"
+  },
+  "ASSET DOWNLOAD": {
+    "default": "MEDIEN-DOWNLOAD"
+  }
+}

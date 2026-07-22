@@ -1,0 +1,155 @@
+{
+  "all_device_settings": {
+    "default": "सभी डिवाइस\\nसेटिंग्स"
+  },
+  "Low": {
+    "default": "कम"
+  },
+  "PRODUCT TIPS": {
+    "default": "प्रोडक्ट टिप्स"
+  },
+  "POWER\\nCONTROLS": {
+    "default": "पावर\\nकंट्रोल"
+  },
+  "CUSTOMISABLE\\nPRODUCT CONTROLS": {
+    "default": "कस्टमाइज़ेबल\\nप्रोडक्ट कंट्रोल"
+  },
+  "ZERO\\nEFFORT\\nCONTROL": {
+    "default": "ज़ीरो\\nएफ़र्ट\\nकंट्रोल"
+  },
+  "PRODUCT\\nGUIDE": {
+    "default": "प्रोडक्ट\\nगाइड"
+  },
+  "APP\\nLANGUAGE": {
+    "default": "ऐप भाषा"
+  },
+  "CHANGE": {
+    "default": "बदलें"
+  },
+  "SAVE CHANGES": {
+    "default": "बदलाव सेव करें"
+  },
+  "SAVE ADJUSTMENTS": {
+    "default": "बदलाव सेव करें"
+  },
+  "SETTINGS": {
+    "default": "सेटिंग्स"
+  },
+  "Share Log": {
+    "default": "लॉग शेयर करें"
+  },
+  "Locks controls for focused, uninterrupted listening": {
+    "default": "ध्यान केंद्रित और निर्बाध सुनने के लिए कंट्रोल लॉक करता है"
+  },
+  "REFRESH": {
+    "default": "रिफ्रेश करें"
+  },
+  "CALL CONTROL": {
+    "default": "कॉल\\nकंट्रोल"
+  },
+  "High": {
+    "default": "उच्च"
+  },
+  "Medium": {
+    "default": "मध्यम"
+  },
+  "Controls": {
+    "default": "कंट्रोल"
+  },
+  "Register your device for warranty coverage": {
+    "default": "वारंटी कवरेज के लिए अपना डिवाइस रजिस्टर करें"
+  },
+  "Set your preferred language for the app": {
+    "default": "ऐप के लिए अपनी पसंदीदा भाषा सेट करें"
+  },
+  "Learn more about your device": {
+    "default": "अपने डिवाइस के बारे में और जानें"
+  },
+  "ABOUT\\nYOUR DEVICE": {
+    "default": "आपके डिवाइस\\nके बारे में"
+  },
+  "Product tips": {
+    "default": "प्रोडक्ट टिप्स"
+  },
+  "Settings": {
+    "default": "सेटिंग्स"
+  },
+  "SERIAL NUMBER": {
+    "default": "सीरियल नंबर"
+  },
+  "LOOK AT THE BACK OF THE BOX TO FIND THE SERIAL\\nNUMBER, SHOWN IN THE ABOVE FORMAT": {
+    "default": "ऊपर दिए गए फ़ॉर्मेट में सीरियल नंबर खोजने के लिए\\nबॉक्स के पीछे देखें"
+  },
+  "WARRANTY": {
+    "default": "वारंटी"
+  },
+  "Incorrect Serial Number": {
+    "default": "गलत सीरियल नंबर"
+  },
+  "register warranty": {
+    "default": "वारंटी रजिस्टर करें"
+  },
+  "REGISTER WARRANTY": {
+    "default": "वारंटी रजिस्टर करें"
+  },
+  "In Warranty": {
+    "default": "वारंटी में"
+  },
+  "Customise your device\\ncontrols": {
+    "default": "अपने डिवाइस\\nकंट्रोल कस्टमाइज़ करें"
+  },
+  "Control your device hands-free": {
+    "default": "अपने डिवाइस को हैंड्स-फ्री कंट्रोल करें"
+  },
+  "Low latency audio for the\\ngamer in you": {
+    "default": "आपके अंदर के\\nगेमर के लिए लो-लेटेंसी ऑडियो"
+  },
+  "Lowest amplification. Recommended for low noise environments": {
+    "default": "सबसे कम एम्प्लीफिकेशन। कम शोर वाले माहौल के लिए अनुशंसित"
+  },
+  "Access this feature from the Sound settings on the Home screen.": {
+    "default": "होम स्क्रीन पर साउंड\\nसेटिंग्स से इस फ़ीचर तक पहुँचें।"
+  },
+  "Take action on your media and call controls by simply moving your head": {
+    "default": "केवल सिर हिलाकर अपने मीडिया और कॉल कंट्रोल पर एक्शन लें"
+  },
+  "Try the different settings below": {
+    "default": "नीचे दी गई अलग-अलग सेटिंग्स आज़माएं"
+  },
+  "Product\\nGuide": {
+    "default": "प्रोडक्ट गाइड"
+  },
+  "App\\nLanguage": {
+    "default": "ऐप भाषा"
+  },
+  "Warranty": {
+    "default": "वारंटी"
+  },
+  "DEVICE\\nWARRANTY": {
+    "default": "डिवाइस\\nवारंटी"
+  },
+  "CONTROLS": {
+    "default": "कंट्रोल"
+  },
+  "Locks controls for focused listening": {
+    "default": "ध्यान केंद्रित करके सुनने के लिए कंट्रोल लॉक करता है"
+  },
+  "Wear Buds to unlock full controls": {
+    "default": "पूरे कंट्रोल अनलॉक करने के लिए बड्स पहनें"
+  },
+  "Battery low. Please charge to at least 20%": {
+    "default": "बैटरी कम है। कृपया कम से कम 20% चार्ज करें"
+  },
+  "Warranty Status": {
+    "default": "वारंटी स्टेटस"
+  },
+  "GO TO SETTINGS": {
+    "default": "सेटिंग्स पर जाएं"
+  },
+  "MUSIC\\nCONTROL": {
+    "default": "म्यूज़िक\\nकंट्रोल"
+  },
+  "Music Control": {
+    "default": "म्यूज़िक कंट्रोल"
+  }
+}

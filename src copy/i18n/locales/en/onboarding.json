@@ -1,0 +1,318 @@
+{
+  "contine": {
+    "default": "Contine",
+    "_todo": "Confirm English copy for iOS key \"contine\" (auto-humanized from slug)."
+  },
+  "enter_email_address": {
+    "default": "Enter email address",
+    "_todo": "Confirm English copy for iOS key \"enter_email_address\" (auto-humanized from slug)."
+  },
+  "skip": {
+    "default": "Skip",
+    "_todo": "Confirm English copy for iOS key \"skip\" (auto-humanized from slug)."
+  },
+  "create_account_using_email": {
+    "default": "Create account using email",
+    "_todo": "Confirm English copy for iOS key \"create_account_using_email\" (auto-humanized from slug)."
+  },
+  "tos": {
+    "default": "Tos",
+    "_todo": "Confirm English copy for iOS key \"tos\" (auto-humanized from slug)."
+  },
+  "privacy_policy": {
+    "default": "Privacy policy",
+    "_todo": "Confirm English copy for iOS key \"privacy_policy\" (auto-humanized from slug)."
+  },
+  "continue_with_email": {
+    "default": "Continue with email",
+    "_todo": "Confirm English copy for iOS key \"continue_with_email\" (auto-humanized from slug)."
+  },
+  "continue_with_phone": {
+    "default": "Continue with phone",
+    "_todo": "Confirm English copy for iOS key \"continue_with_phone\" (auto-humanized from slug)."
+  },
+  "enter_phone": {
+    "default": "Enter phone",
+    "_todo": "Confirm English copy for iOS key \"enter_phone\" (auto-humanized from slug)."
+  },
+  "allow_access": {
+    "default": "Allow access",
+    "_todo": "Confirm English copy for iOS key \"allow_access\" (auto-humanized from slug)."
+  },
+  "dob": {
+    "default": "Dob",
+    "_todo": "Confirm English copy for iOS key \"dob\" (auto-humanized from slug)."
+  },
+  "date_of_birth": {
+    "default": "Date of birth",
+    "_todo": "Confirm English copy for iOS key \"date_of_birth\" (auto-humanized from slug)."
+  },
+  "logout": {
+    "default": "Logout",
+    "_todo": "Confirm English copy for iOS key \"logout\" (auto-humanized from slug)."
+  },
+  "terms_policies": {
+    "default": "Terms policies",
+    "_todo": "Confirm English copy for iOS key \"terms_policies\" (auto-humanized from slug)."
+  },
+  "privacy_policy_accept": {
+    "default": "Privacy policy accept",
+    "_todo": "Confirm English copy for iOS key \"privacy_policy_accept\" (auto-humanized from slug)."
+  },
+  "find_my_headphones": {
+    "default": "Find my headphones",
+    "_todo": "Confirm English copy for iOS key \"find_my_headphones\" (auto-humanized from slug)."
+  },
+  "activate_this_feature_by_allowing_permissions": {
+    "default": "Activate this feature by allowing permissions",
+    "_todo": "Confirm English copy for iOS key \"activate_this_feature_by_allowing_permissions\" (auto-humanized from slug)."
+  },
+  "PHONE\\nCALLS": {
+    "default": "PHONE\\nCALLS"
+  },
+  "SKIP": {
+    "default": "SKIP"
+  },
+  "TERMS &\\nPOLICIES": {
+    "default": "TERMS &\\nPOLICIES"
+  },
+  "Logout": {
+    "default": "Logout",
+    "_todo": "Confirm English copy for iOS key \"Logout\" (auto-humanized from slug)."
+  },
+  "Are you sure to logout from your account?": {
+    "default": "Are you sure to logout from your account?"
+  },
+  "Delete Account": {
+    "default": "Delete Account"
+  },
+  "Are you sure to Delete from your account?": {
+    "default": "Are you sure to Delete from your account?"
+  },
+  "TWS EARPHONES": {
+    "default": "TWS EARPHONES"
+  },
+  "CONTINUE": {
+    "default": "CONTINUE"
+  },
+  "find_my_Headphones_description": {
+    "default": "Find my Headphones description",
+    "_todo": "Confirm English copy for iOS key \"find_my_Headphones_description\" (auto-humanized from slug)."
+  },
+  "headphone_press_and_hold_center_button": {
+    "default": "Headphone press and hold center button",
+    "_todo": "Confirm English copy for iOS key \"headphone_press_and_hold_center_button\" (auto-humanized from slug)."
+  },
+  "headphone_ready_to_pair_heading": {
+    "default": "Headphone ready to pair heading",
+    "_todo": "Confirm English copy for iOS key \"headphone_ready_to_pair_heading\" (auto-humanized from slug)."
+  },
+  "verify_identity": {
+    "default": "Verify identity",
+    "_todo": "Confirm English copy for iOS key \"verify_identity\" (auto-humanized from slug)."
+  },
+  "sent_code_to": {
+    "default": "Sent code to",
+    "_todo": "Confirm English copy for iOS key \"sent_code_to\" (auto-humanized from slug)."
+  },
+  "one_last_thing": {
+    "default": "One last thing",
+    "_todo": "Confirm English copy for iOS key \"one_last_thing\" (auto-humanized from slug)."
+  },
+  "enter_name": {
+    "default": "Enter name",
+    "_todo": "Confirm English copy for iOS key \"enter_name\" (auto-humanized from slug)."
+  },
+  "your_name": {
+    "default": "Your name",
+    "_todo": "Confirm English copy for iOS key \"your_name\" (auto-humanized from slug)."
+  },
+  "your_email": {
+    "default": "Your email",
+    "_todo": "Confirm English copy for iOS key \"your_email\" (auto-humanized from slug)."
+  },
+  "headphone_ready_to_pair_instruction": {
+    "default": "Headphone ready to pair instruction",
+    "_todo": "Confirm English copy for iOS key \"headphone_ready_to_pair_instruction\" (auto-humanized from slug)."
+  },
+  "Review & Earn": {
+    "default": "Review & Earn"
+  },
+  "REVIEW & EARN": {
+    "default": "REVIEW & EARN"
+  },
+  "Your feedback unlocks perks!": {
+    "default": "Your feedback unlocks perks!"
+  },
+  "REDEEM OFFER": {
+    "default": "REDEEM OFFER"
+  },
+  "Use the code below to redeem the offer value": {
+    "default": "Use the code below to redeem the offer value"
+  },
+  "SKIP TRACKS BY DOUBLE SHAKING YOUR HEAD.": {
+    "default": "SKIP TRACKS BY DOUBLE SHAKING YOUR HEAD."
+  },
+  "Enter email": {
+    "default": "Enter email"
+  },
+  "Only alphabets allowed.": {
+    "default": "Only alphabets allowed."
+  },
+  "Email is required.": {
+    "default": "Email is required."
+  },
+  "Enter valid email address.": {
+    "default": "Enter valid email address."
+  },
+  "By proceeding, you agree to log out of guest mode. Note that you will need to log in again to access the app.": {
+    "default": "By proceeding, you agree to log out of guest mode. Note that you will need to log in again to access the app."
+  },
+  "Privacy Policy": {
+    "default": "Privacy Policy"
+  },
+  "Terms & Conditions": {
+    "default": "Terms & Conditions"
+  },
+  "Welcome to your": {
+    "default": "Welcome to your"
+  },
+  "Headphones on? Let’s try": {
+    "default": "Headphones on? Let’s try"
+  },
+  "YOUR NAME": {
+    "default": "YOUR NAME"
+  },
+  "LOGIN TO REGISTER": {
+    "default": "LOGIN TO REGISTER"
+  },
+  "UPLOAD INVOICE": {
+    "default": "UPLOAD INVOICE"
+  },
+  "Don’t have an invoice?": {
+    "default": "Don’t have an invoice?"
+  },
+  "Only PDF/JPG/PNG allowed": {
+    "default": "Only PDF/JPG/PNG allowed"
+  },
+  "Upload invoice instead": {
+    "default": "Upload invoice instead"
+  },
+  "Could not prepare invoice file": {
+    "default": "Could not prepare invoice file"
+  },
+  "Please upload invoice": {
+    "default": "Please upload invoice"
+  },
+  "LOGIN TO CONTINUE": {
+    "default": "LOGIN TO CONTINUE"
+  },
+  "1. Ensure your headphones are sufficiently charged, powered on, and within 9 meters of your mobile device.": {
+    "default": "1. Ensure your headphones are sufficiently charged, powered on, and within 9 meters of your mobile device."
+  },
+  "or_login_using": {
+    "default": "Or login using",
+    "_todo": "Confirm English copy for iOS key \"or_login_using\" (auto-humanized from slug)."
+  },
+  "CONTINUE AS GUEST": {
+    "default": "CONTINUE AS GUEST"
+  },
+  "privacy_policy_login": {
+    "default": "Privacy policy login",
+    "_todo": "Confirm English copy for iOS key \"privacy_policy_login\" (auto-humanized from slug)."
+  },
+  "DELETE ACCOUNT": {
+    "default": "DELETE ACCOUNT"
+  },
+  "SIGN OUT": {
+    "default": "SIGN OUT"
+  },
+  "EMAIL ADDRESS": {
+    "default": "EMAIL ADDRESS"
+  },
+  "ENTER YOUR EMAIL": {
+    "default": "ENTER YOUR EMAIL"
+  },
+  "VERIFY\\nWITH OTP": {
+    "default": "VERIFY\\nWITH OTP"
+  },
+  "PLEASE ENTER THE 4-DIGIT OTP SENT TO": {
+    "default": "PLEASE ENTER THE 4-DIGIT OTP SENT TO"
+  },
+  "Incorrect OTP entered.": {
+    "default": "Incorrect OTP entered."
+  },
+  "ARE YOU SURE YOU WANT TO DELETE YOUR ACCOUNT?": {
+    "default": "ARE YOU SURE YOU WANT TO DELETE YOUR ACCOUNT?"
+  },
+  "DELETING YOUR ACCOUNT WILL DISCONNECT YOUR DEVICE FROM THE APP AND ALL THE DATA AND SETTINGS WILL BE RESET.": {
+    "default": "DELETING YOUR ACCOUNT WILL DISCONNECT YOUR DEVICE FROM THE APP AND ALL THE DATA AND SETTINGS WILL BE RESET."
+  },
+  "ARE YOU SURE YOU TO SIGNOUT FROM YOUR ACCOUNT?": {
+    "default": "ARE YOU SURE YOU TO SIGNOUT FROM YOUR ACCOUNT?"
+  },
+  "To continue, please accept our": {
+    "default": "To continue, please accept our"
+  },
+  "Sign In / Create Account": {
+    "default": "Sign In / Create Account"
+  },
+  "ARE YOU SURE TO SIGN OUT FROM YOUR ACCOUNT?": {
+    "default": "ARE YOU SURE TO SIGN OUT FROM YOUR ACCOUNT?"
+  },
+  "Are you sure you\\nwant to sign out?": {
+    "default": "Are you sure you\\nwant to sign out?"
+  },
+  "Signing out will log you in as a guest": {
+    "default": "Signing out will log you in as a guest"
+  },
+  "Manage Permissions": {
+    "default": "Manage Permissions"
+  },
+  "Microphone": {
+    "default": "Microphone",
+    "_todo": "Confirm English copy for iOS key \"Microphone\" (auto-humanized from slug)."
+  },
+  "Please grant the necessary permissions to continue using the app.": {
+    "default": "Please grant the necessary permissions to continue using the app."
+  },
+  "Please enable Location to continue": {
+    "default": "Please enable Location to continue"
+  },
+  "ALLOW ACCESS": {
+    "default": "ALLOW ACCESS"
+  },
+  "Set live profile picture and share invoice for warranty.": {
+    "default": "Set live profile picture and share invoice for warranty."
+  },
+  "Allows you to control music playback directly from the app.": {
+    "default": "Allows you to control music playback directly from the app."
+  },
+  "Customize profile picture and share invoice for warranty.": {
+    "default": "Customize profile picture and share invoice for warranty."
+  },
+  "Signal Strength": {
+    "default": "Signal Strength"
+  },
+  "AVAILABLE REWARDS": {
+    "default": "AVAILABLE REWARDS"
+  },
+  "Make sure your headphones are charged, turned on and within 9m of this device.": {
+    "default": "Make sure your headphones are charged, turned on and within 9m of this device."
+  },
+  "ALLOW": {
+    "default": "ALLOW"
+  },
+  "PERMISSIONS REQUIRED": {
+    "default": "PERMISSIONS REQUIRED"
+  },
+  "Headphones on? Let's try": {
+    "default": "Headphones on? Let's try"
+  },
+  "Phone Calls": {
+    "default": "Phone Calls"
+  },
+  "Don't have an invoice?": {
+    "default": "Don't have an invoice?"
+  }
+}

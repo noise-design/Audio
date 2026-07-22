@@ -1,0 +1,266 @@
+{
+  "contine": {
+    "default": "जारी रखें"
+  },
+  "enter_email_address": {
+    "default": "अपना ईमेल पता दर्ज करें"
+  },
+  "skip": {
+    "default": "छोड़ें"
+  },
+  "create_account_using_email": {
+    "default": "अनुभव करें\\nशुद्ध ऑडियो,\\nअपने तरीके से"
+  },
+  "tos": {
+    "default": "सेवा की शर्तें"
+  },
+  "privacy_policy": {
+    "default": "गोपनीयता नीति"
+  },
+  "continue_with_email": {
+    "default": "\\nईमेल के साथ जारी रखें"
+  },
+  "continue_with_phone": {
+    "default": "फ़ोन नंबर के साथ जारी रखें"
+  },
+  "enter_phone": {
+    "default": "अपना फ़ोन नंबर दर्ज करें"
+  },
+  "allow_access": {
+    "default": "अनुमति दें"
+  },
+  "dob": {
+    "default": "जन्म तिथि"
+  },
+  "date_of_birth": {
+    "default": "जन्म तिथि"
+  },
+  "logout": {
+    "default": "लॉग आउट"
+  },
+  "terms_policies": {
+    "default": "शर्तें एवं नीतियाँ"
+  },
+  "privacy_policy_accept": {
+    "default": "कृपया आगे बढ़ने के लिए नियम एवं शर्तें और गोपनीयता नोटिस स्वीकार करें"
+  },
+  "find_my_headphones": {
+    "default": "मेरे हेडफ़ोन ढूंढें"
+  },
+  "activate_this_feature_by_allowing_permissions": {
+    "default": "अनुमतियाँ देकर इस फ़ीचर को सक्रिय करें"
+  },
+  "PHONE\\nCALLS": {
+    "default": "फ़ोन\\nकॉल"
+  },
+  "SKIP": {
+    "default": "छोड़ें"
+  },
+  "TERMS &\\nPOLICIES": {
+    "default": "शर्तें &\\nनीतियाँ"
+  },
+  "Logout": {
+    "default": "लॉग आउट"
+  },
+  "Are you sure to logout from your account?": {
+    "default": "क्या आप अपने अकाउंट से लॉग आउट करना चाहते हैं?"
+  },
+  "Delete Account": {
+    "default": "अकाउंट हटाएं"
+  },
+  "Are you sure to Delete from your account?": {
+    "default": "क्या आप अपने अकाउंट से डेटा हटाना चाहते हैं?"
+  },
+  "TWS EARPHONES": {
+    "default": "TWS ईयरफ़ोन"
+  },
+  "CONTINUE": {
+    "default": "जारी रखें"
+  },
+  "find_my_Headphones_description": {
+    "default": "अपने हेडफ़ोन का पता लगाने के लिए प्ले बटन पर क्लिक करें"
+  },
+  "headphone_press_and_hold_center_button": {
+    "default": "ऑन/ऑफ बटन को दबाकर रखें"
+  },
+  "headphone_ready_to_pair_heading": {
+    "default": "अपने हेडफ़ोन को पेयर करने के लिए तैयार रखें"
+  },
+  "verify_identity": {
+    "default": "अपनी पहचान वेरीफाई करें"
+  },
+  "sent_code_to": {
+    "default": "हमने एक कोड भेजा है"
+  },
+  "one_last_thing": {
+    "default": "एक आखिरी बात..."
+  },
+  "enter_name": {
+    "default": "अपना नाम दर्ज करें"
+  },
+  "your_name": {
+    "default": "आपका नाम"
+  },
+  "your_email": {
+    "default": "आपका ईमेल"
+  },
+  "headphone_ready_to_pair_instruction": {
+    "default": "डिवाइस को डिस्कवरेबल बनाने के लिए पावर बटन को दो बार दबाएं"
+  },
+  "Review & Earn": {
+    "default": "रिव्यू करें और कमाएँ"
+  },
+  "REVIEW & EARN": {
+    "default": "रिव्यू करें और कमाएँ"
+  },
+  "Your feedback unlocks perks!": {
+    "default": "आपके फ़ीडबैक से रिवॉर्ड मिलते हैं!"
+  },
+  "REDEEM OFFER": {
+    "default": "ऑफ़र रिडीम करें"
+  },
+  "Use the code below to redeem the offer value": {
+    "default": "ऑफ़र रिडीम करने के लिए नीचे दिए गए कोड का उपयोग करें"
+  },
+  "SKIP TRACKS BY DOUBLE SHAKING YOUR HEAD.": {
+    "default": "सिर को दो बार हिलाकर ट्रैक स्किप करें।"
+  },
+  "Enter email": {
+    "default": "ईमेल दर्ज करें"
+  },
+  "Only alphabets allowed.": {
+    "default": "केवल अक्षर ही मान्य हैं।"
+  },
+  "Email is required.": {
+    "default": "ईमेल ज़रूरी है।"
+  },
+  "Enter valid email address.": {
+    "default": "वैध ईमेल पता दर्ज करें।"
+  },
+  "By proceeding, you agree to log out of guest mode. Note that you will need to log in again to access the app.": {
+    "default": "आगे बढ़ने पर आप गेस्ट मोड से लॉग आउट करने के लिए सहमत होते हैं। ध्यान दें कि ऐप एक्सेस करने के लिए आपको दोबारा लॉगिन करना होगा।"
+  },
+  "Privacy Policy": {
+    "default": "गोपनीयता नीति"
+  },
+  "Terms & Conditions": {
+    "default": "नियम एवं शर्तें"
+  },
+  "Welcome to your": {
+    "default": "आपका स्वागत है"
+  },
+  "YOUR NAME": {
+    "default": "आपका नाम"
+  },
+  "LOGIN TO REGISTER": {
+    "default": "रजिस्टर करने के लिए लॉगिन करें"
+  },
+  "UPLOAD INVOICE": {
+    "default": "इनवॉइस अपलोड करें"
+  },
+  "Only PDF/JPG/PNG allowed": {
+    "default": "केवल PDF/JPG/PNG की अनुमति है"
+  },
+  "Upload invoice instead": {
+    "default": "इसके बजाय इनवॉइस अपलोड करें"
+  },
+  "Could not prepare invoice file": {
+    "default": "इनवॉइस फ़ाइल तैयार नहीं हो सकी"
+  },
+  "Please upload invoice": {
+    "default": "कृपया इनवॉइस अपलोड करें"
+  },
+  "LOGIN TO CONTINUE": {
+    "default": "जारी रखने के लिए लॉगिन करें"
+  },
+  "1. Ensure your headphones are sufficiently charged, powered on, and within 9 meters of your mobile device.": {
+    "default": "1. सुनिश्चित करें कि आपके हेडफ़ोन पर्याप्त चार्ज हैं, चालू हैं और आपके मोबाइल डिवाइस से 9 मीटर के भीतर हैं।"
+  },
+  "or_login_using": {
+    "default": "इससे लॉगिन करें"
+  },
+  "CONTINUE AS GUEST": {
+    "default": "गेस्ट के रूप में जारी रखें"
+  },
+  "privacy_policy_login": {
+    "default": "गोपनीयता नीति"
+  },
+  "DELETE ACCOUNT": {
+    "default": "अकाउंट हटाएं"
+  },
+  "SIGN OUT": {
+    "default": "साइन आउट"
+  },
+  "EMAIL ADDRESS": {
+    "default": "ईमेल पता"
+  },
+  "ENTER YOUR EMAIL": {
+    "default": "अपना ईमेल दर्ज करें"
+  },
+  "VERIFY\\nWITH OTP": {
+    "default": "OTP से\\nवेरीफाई करें"
+  },
+  "PLEASE ENTER THE 4-DIGIT OTP SENT TO": {
+    "default": "कृपया भेजा गया 4-अंकीय OTP दर्ज करें"
+  },
+  "Incorrect OTP entered.": {
+    "default": "गलत OTP दर्ज किया गया।"
+  },
+  "ARE YOU SURE YOU WANT TO DELETE YOUR ACCOUNT?": {
+    "default": "क्या आप वाकई अपना अकाउंट हटाना चाहते हैं?"
+  },
+  "DELETING YOUR ACCOUNT WILL DISCONNECT YOUR DEVICE FROM THE APP AND ALL THE DATA AND SETTINGS WILL BE RESET.": {
+    "default": "अकाउंट हटाने पर आपका डिवाइस ऐप से डिस्कनेक्ट हो जाएगा और सभी डेटा और सेटिंग्स रीसेट हो जाएंगी।"
+  },
+  "ARE YOU SURE YOU TO SIGNOUT FROM YOUR ACCOUNT?": {
+    "default": "क्या आप वाकई अपने अकाउंट से साइन आउट करना चाहते हैं?"
+  },
+  "To continue, please accept our": {
+    "default": "जारी रखने के लिए कृपया हमारी"
+  },
+  "Sign In / Create Account": {
+    "default": "साइन इन करें / अकाउंट बनाएं"
+  },
+  "ARE YOU SURE TO SIGN OUT FROM YOUR ACCOUNT?": {
+    "default": "क्या आप वाकई अपने अकाउंट से साइन आउट करना चाहते हैं?"
+  },
+  "Are you sure you\\nwant to sign out?": {
+    "default": "क्या आप वाकई\\nसाइन आउट करना चाहते हैं?"
+  },
+  "Signing out will log you in as a guest": {
+    "default": "साइन आउट करने पर आप गेस्ट के रूप में लॉग इन होंगे"
+  },
+  "Manage Permissions": {
+    "default": "अनुमतियाँ मैनेज करें"
+  },
+  "Microphone": {
+    "default": "माइक्रोफ़ोन"
+  },
+  "Please grant the necessary permissions to continue using the app.": {
+    "default": "ऐप का उपयोग जारी रखने के लिए कृपया ज़रूरी अनुमतियाँ दें।"
+  },
+  "Please enable Location to continue": {
+    "default": "जारी रखने के लिए कृपया लोकेशन चालू करें।"
+  },
+  "ALLOW ACCESS": {
+    "default": "अनुमति दें"
+  },
+  "Set live profile picture and share invoice for warranty.": {
+    "default": "लाइव प्रोफ़ाइल पिक्चर सेट करें और वारंटी के लिए इनवॉइस शेयर करें।"
+  },
+  "Allows you to control music playback directly from the app.": {
+    "default": "ऐप से सीधे म्यूज़िक प्लेबैक कंट्रोल करने की अनुमति देता है।"
+  },
+  "Customize profile picture and share invoice for warranty.": {
+    "default": "प्रोफ़ाइल पिक्चर कस्टमाइज़ करें और वारंटी के लिए इनवॉइस शेयर करें।"
+  },
+  "Headphones on? Let's try": {
+    "default": "हेडफ़ोन पहने हैं? कोशिश करते हैं"
+  },
+  "Phone Calls": {
+    "default": "फ़ोन कॉल"
+  },
+  "Don't have an invoice?": {
+    "default": "क्या आपके पास इनवॉइस नहीं है?"
+  }
+}

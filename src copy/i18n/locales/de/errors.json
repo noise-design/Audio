@@ -1,0 +1,113 @@
+{
+  "invalid_code": {
+    "default": "Der Code ist ungültig. Bitte versuch es erneut!"
+  },
+  "mobile_number_validation_msg": {
+    "default": "Bitte gib eine gültige Telefonnummer ein"
+  },
+  "noInternet": {
+    "default": "Keine Internetverbindung. Bitte versuch es später erneut."
+  },
+  "left_bud_is_critically_low": {
+    "default": "Linker Masterbud hat kritischen Akkustand"
+  },
+  "right_bud_is_critically_low": {
+    "default": "Rechter Masterbud hat kritischen Akkustand"
+  },
+  "buds_are_critically_low": {
+    "default": "Masterbuds haben kritischen Akkustand"
+  },
+  "box_is_critically_low": {
+    "default": "Dein Gerät hat einen niedrigen Akkustand."
+  },
+  "headphone_is_critically_low": {
+    "default": "Kopfhörer hat kritischen Akkustand."
+  },
+  "FIRMWARE UPDATE\\nFAILED": {
+    "default": "FIRMWAREUPDATE FEHLGESCHLAGEN"
+  },
+  "NO UPDATE AVAILABLE": {
+    "default": "Kein Update verfügbar"
+  },
+  "UNABLE TO CONNECT DEVICE": {
+    "default": "GERÄT KANN NICHT VERBUNDEN WERDEN"
+  },
+  "DEVICE IS NOT PAIRED": {
+    "default": "GERÄT IST NICHT GEKOPPELT"
+  },
+  "PLEASE WAIT FOR THE TIMER TO RESET": {
+    "default": "BITTE WARTE, BIS DER TIMER ZURÜCKGESETZT WIRD"
+  },
+  "Registration Failed": {
+    "default": "Registrierung fehlgeschlagen"
+  },
+  "API response failed": {
+    "default": "API-Antwort fehlgeschlagen"
+  },
+  "REQUEST FAILED": {
+    "default": "ANFRAGE FEHLGESCHLAGEN"
+  },
+  "Uh Oh! Looks like we have an API response failure!": {
+    "default": "Oh oh! Es scheint, als wäre die API-Antwort fehlgeschlagen!"
+  },
+  "Weekly Limit\\nReached": {
+    "default": "Wöchentliches Limit erreicht"
+  },
+  "Something went wrong": {
+    "default": "Etwas ist schiefgelaufen"
+  },
+  "Device failed to connect": {
+    "default": "Gerät konnte nicht verbunden werden"
+  },
+  "TRY AGAIN": {
+    "default": "ERNEUT VERSUCHEN"
+  },
+  "Maintenance": {
+    "default": "Wartung"
+  },
+  "Failed to submit report. Please try again.": {
+    "default": "Meldung konnte nicht gesendet werden. Bitte versuche es erneut."
+  },
+  "case_battery_critically_low_charge_now": {
+    "default": "Akku des Ladecases ist kritisch niedrig. Jetzt aufladen."
+  },
+  "BT is disabled on your device. Enable to proceed": {
+    "default": "BT ist auf Deinem Gerät deaktiviert. Aktiviere es, um fortzufahren."
+  },
+  "Location is disabled on your device. Enable to proceed": {
+    "default": "Der Standort ist auf Deinem Gerät deaktiviert. Aktiviere ihn, um fortzufahren."
+  },
+  "Connection Failed": {
+    "default": "Verbindung fehlgeschlagen"
+  },
+  "Unable to find your device?": {
+    "default": "Gerät nicht gefunden?"
+  },
+  "UNABLE TO FIND YOUR DEVICE": {
+    "default": "GERÄT NICHT GEFUNDEN"
+  },
+  "DEVICE FAILED\\nTO PAIR": {
+    "default": "KOPPLUNG DES GERÄTS FEHLGESCHLAGEN"
+  },
+  "DEVICE FAILED TO CONNECT": {
+    "default": "GERÄT KONNTE NICHT VERBUNDEN WERDEN"
+  },
+  "File still too large — try a shorter clip": {
+    "default": "Die Datei ist immer noch zu groß — versuche einen kürzeren Clip"
+  },
+  "ASSET DOWNLOAD\\nFAILED": {
+    "default": "ASSETDOWNLOAD FEHLGESCHLAGEN"
+  },
+  "NO INTERNET CONNECTION": {
+    "default": "KEINE INTERNETVERBINDUNG"
+  },
+  "COULDN'T UPDATE SETTINGS. PLEASE TRY AGAIN.": {
+    "default": "EINSTELLUNGEN KONNTEN NICHT AKTUALISIERT WERDEN. BITTE VERSUCHE ES ERNEUT."
+  },
+  "AUDIO BOOST WAS TURNED OFF, BUT THE EQ CHANGE DIDN'T APPLY. PLEASE TRY AGAIN.": {
+    "default": "DIE AUDIOVERSTÄRKUNG WURDE DEAKTIVIERT, ABER DIE EQ-ÄNDERUNG WURDE NICHT ÜBERNOMMEN. BITTE VERSUCHE ES ERNEUT."
+  },
+  "FAILED": {
+    "default": "FEHLGESCHLAGEN"
+  }
+}

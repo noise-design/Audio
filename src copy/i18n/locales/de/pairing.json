@@ -1,0 +1,212 @@
+{
+  "scan_again": {
+    "default": "ERNEUT SCANNEN"
+  },
+  "setup_this_device": {
+    "default": "Dieses Gerät einrichten"
+  },
+  "faster_discovery": {
+    "default": "schnellere Erkennung"
+  },
+  "scan_device_description": {
+    "default": "DRÜCKE DIE EIN-/AUS-TASTE DOPPELT, UM DAS GERÄT SICHTBAR ZU MACHEN"
+  },
+  "Connect_2_time": {
+    "default": "Mit 2 Geräten gleichzeitig verbinden."
+  },
+  "RECONNECT": {
+    "default": "WIEDERVERBINDEN"
+  },
+  "RECONNECTING...": {
+    "default": "VERBINDE WIEDER…"
+  },
+  "Connect_with_2_devices_at_the_same_time.": {
+    "default": "Mit 2 Geräten gleichzeitig verbinden."
+  },
+  "PLACE THE EARBUDS IN THE CASE AND CLOSE THE LID.": {
+    "default": "LEGE DIE MASTERBUDS INS CASE UND SCHLIESSE DEN DECKEL."
+  },
+  "WHEN CHARGING THE CASE LIGHT GLOWS ORANGE &\\nTURNS WHITE WHEN FULLY CHARGED": {
+    "default": "WÄHREND DES LADENS LEUCHTET DIE LED ORANGE UND WIRD WEIß WENN VOLLSTÄNDIG GELADEN"
+  },
+  "KEEP EARBUDS IN CASE WITH LID OPEN": {
+    "default": "Bewahre die Masterbuds mit offenem Deckel im Etui auf"
+  },
+  "AUTO-PAUSES MUSIC WHEN YOU\\nTAKE OFF YOUR HEADPHONES": {
+    "default": "MUSIK WIRD AUTOMATISCH PAUSIERT, WENN DU DEINE KOPFHÖRER ABNIMMST"
+  },
+  "SEAMLESSLY CONNECT WITH\\nTWO DEVICES AT A TIME": {
+    "default": "NAHTLOSES VERBINDEN MIT ZWEI GERÄTEN GLEICHZEITIG"
+  },
+  "FORGET DEVICE": {
+    "default": "GERÄT ENTFERNEN"
+  },
+  "CONNECTED": {
+    "default": "VERBUNDEN"
+  },
+  "YES, FORGET DEVICE": {
+    "default": "JA, GERÄT ENTFERNEN"
+  },
+  "DEVICE FOUND": {
+    "default": "GERÄT GEFUNDEN"
+  },
+  "SELECT DEVICE": {
+    "default": "GERÄT AUSWÄHLEN"
+  },
+  "ARE YOU SURE YOU\\nWANT TO REMOVE THIS\\nDEVICE?": {
+    "default": "BIST DU SICHER, DASS DU DIESES GERÄT ENTFERNEN MÖCHTEN?"
+  },
+  "CONNECT TO DEVICE": {
+    "default": "MIT GERÄT VERBINDEN"
+  },
+  "TAKE ME TO APP STORE": {
+    "default": "Bring mich zum App Store"
+  },
+  "KEEP THE BUD ON CHARGE": {
+    "default": "Lass die Masterbuds laden"
+  },
+  "MEET": {
+    "default": "FINDEN"
+  },
+  "scanning": {
+    "default": "SCANNEN"
+  },
+  "Connect with two\\ndevices at a time": {
+    "default": "Mit zwei Geräten gleichzeitig verbinden"
+  },
+  "Auto-pause music when you take off your device": {
+    "default": "Musik pausiert automatisch beim Abnehmen"
+  },
+  "Audio stays in place. Best suited when you are sitting down": {
+    "default": "Audio bleibt an Ort und Stelle. Ideal im Sitzen"
+  },
+  "THE CASE LIGHT TURNS ORANGE WHEN CHARGING AND TURNS TO WHITE WHEN FULLY CHARGED": {
+    "default": "DAS LADECASE LEUCHTET ORANGE BEIM LADEN UND WEISS, WENN ES VOLLSTÄNDIG GELADEN IST"
+  },
+  "ADDITIONALLY PLEASE REMOVE THE DEVICE\\nFROM YOUR BLUETOOTH SETTINGS": {
+    "default": "Bitte entferne das Gerät zusätzlich aus Deinen Bluetooth-Einstellungen"
+  },
+  "TURN IT BACK ON FROM THE BLUETOOTH SECTION IN YOUR DEVICE SETTINGS": {
+    "default": "SCHALTE ES IN DEN BLUETOOTH-EINSTELLUNGEN DEINES GERÄTS WIEDER EIN"
+  },
+  "Enable BT": {
+    "default": "Bluetooth aktivieren"
+  },
+  "Only left bud connected": {
+    "default": "Nur der linke Masterbud verbunden"
+  },
+  "Only right bud connected": {
+    "default": "Nur der rechte Masterbud verbunden"
+  },
+  "2. Open the charging case while keeping the earbuds inside.": {
+    "default": "2. Öffne das Ladecase, während sich die Masterbuds darin befinden."
+  },
+  "3. Make sure the earbuds are not connected to any other nearby device or application. The earbuds can connect to only one device at a time.": {
+    "default": "3. Stell sicher, dass die Masterbuds nicht mit einem anderen Gerät oder einer App verbunden sind. Die Masterbuds können jeweils nur mit einem Gerät gleichzeitig verbunden sein."
+  },
+  "2. Make sure the headphones are not connected to any other nearby device or application.": {
+    "default": "2. Stell sicher, dass die Kopfhörer nicht mit einem anderen Gerät oder einer App verbunden sind."
+  },
+  "CONNECTED DEVICES": {
+    "default": "VERBUNDENE GERÄTE"
+  },
+  "Discoverability": {
+    "default": "Sichtbarkeit"
+  },
+  "Your device will be discoverable to nearby BT devices": {
+    "default": "Dein Gerät ist für nahegelegene Bluetooth-Geräte sichtbar"
+  },
+  "Device Not Connected": {
+    "default": "Gerät nicht verbunden"
+  },
+  "Bluetooth": {
+    "default": "Bluetooth"
+  },
+  "BT": {
+    "default": "BT"
+  },
+  "Access needed for device discovery and your device to products in your vicinity": {
+    "default": "Zugriff wird für die Geräteerkennung und die Verbindung Deines Geräts mit Produkten in Deiner Nähe benötigt."
+  },
+  "Please enable Bluetooth to continue": {
+    "default": "Bitte aktiviere Bluetooth, um fortzufahren."
+  },
+  "Your headphone can connect to 2 devices at a time.": {
+    "default": "Dein Kopfhörer kann sich mit 2 Geräten gleichzeitig verbinden."
+  },
+  "Your buds can connect to 2 devices at a time.": {
+    "default": "Deine Buds können sich mit 2 Geräten gleichzeitig verbinden."
+  },
+  "Enable to allow connection to 2 devices at a time.": {
+    "default": "Aktivieren, um die Verbindung mit 2 Geräten gleichzeitig zu ermöglichen."
+  },
+  "Enable discovery of nearby devices.": {
+    "default": "Aktiviert die Erkennung nahegelegener Geräte."
+  },
+  "CONNECT": {
+    "default": "VERBINDEN"
+  },
+  "Connected via BT": {
+    "default": "Über BT verbunden"
+  },
+  "Connect via BT": {
+    "default": "Über BT verbinden"
+  },
+  "NO DEVICE FOUND": {
+    "default": "KEIN GERÄT GEFUNDEN"
+  },
+  "CHECK CURRENTLY BT CONNECTED DEVICES": {
+    "default": "AKTUELL ÜBER BT VERBUNDENE GERÄTE PRÜFEN"
+  },
+  "CURRENTLY CONNECTED": {
+    "default": "DERZEIT VERBUNDEN"
+  },
+  "Keep your device nearby your phone.": {
+    "default": "Halte Dein Gerät in der Nähe Deines Telefons."
+  },
+  "Keep the buds in the case with lid open.": {
+    "default": "Lass die Masterbuds im Etui mit geöffnetem Deckel."
+  },
+  "1 device found": {
+    "default": "1 Gerät gefunden"
+  },
+  "SCANNING...": {
+    "default": "SUCHE..."
+  },
+  "PAIR": {
+    "default": "KOPPELN"
+  },
+  "CONNECTING": {
+    "default": "VERBINDEN"
+  },
+  "CONNECTING...": {
+    "default": "VERBINDEN..."
+  },
+  "RETRY CONNECTING": {
+    "default": "VERBINDUNG ERNEUT VERSUCHEN"
+  },
+  "SCAN AGAIN": {
+    "default": "ERNEUT SCANNEN"
+  },
+  "Make sure Bluetooth is enabled on your device.": {
+    "default": "Stelle sicher, dass Bluetooth auf deinem Gerät aktiviert ist."
+  },
+  "Keep the buds in the case with the lid open.": {
+    "default": "Lasse die Masterbuds im Etui mit geöffnetem Deckel."
+  },
+  "Make sure your headphones don’t disconnect from your mobile BT while connecting.": {
+    "default": "Stelle sicher, dass sich deine Kopfhörer während der Verbindung nicht vom mobilen Bluetooth trennen."
+  },
+  "Make sure your buds don’t disconnect from your mobile BT while connecting": {
+    "default": "Stelle sicher, dass sich deine Ohrhörer während der Verbindung nicht vom mobilen Bluetooth trennen"
+  },
+  "We need permissions to use your mobile’s Bluetooth and location so nearby products can be discovered": {
+    "default": "Wir benötigen Berechtigungen zur Nutzung von Bluetooth und Standort Deines Mobilgeräts, damit Produkte in der Nähe entdeckt werden können"
+  },
+  "PLACE THE EARPIECES IN THE CASE AND CLOSE THE LID. CONNECT THE CASE TO A CHARGER USING THE IN-BOX TYPE-C CABLE": {
+    "default": "LEGE DIE MASTERBUDS IN DAS CASE UND SCHLIESSE DEN DECKEL. VERBINDE DAS CASE MIT EINEM LADEGERÄT ÜBER DAS MITGELIEFERTE TYPE-C-KABEL"
+  },
+  "CHARGE YOUR DEVICE": {
+    "default": "GERÄT AUFLADEN"
+  }
+}

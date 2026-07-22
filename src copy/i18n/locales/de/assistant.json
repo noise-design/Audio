@@ -1,0 +1,62 @@
+{
+  "AI": {
+    "default": "AI"
+  },
+  "Ensure the app stays open in\\nthe background to activate AI": {
+    "default": "Stell sicher, dass die App im Hintergrund geöffnet bleibt, um die KI zu aktivieren."
+  },
+  "AI Companion": {
+    "default": "KI-Begleiter"
+  },
+  "Your own AI buddy to answer your questions": {
+    "default": "Dein persönlicher KI-Begleiter zur Beantwortung Deiner Fragen"
+  },
+  "AI Transcription": {
+    "default": "KI-Transkription"
+  },
+  "On Device AI": {
+    "default": "KI auf dem Gerät"
+  },
+  "Learn how to activate voice AI from your device": {
+    "default": "Erfahre, wie Du die Sprach-KI auf Deinem Gerät aktivierst"
+  },
+  "AI Assistant": {
+    "default": "KI-Assistent"
+  },
+  "Noise AI – your personal AI companion to assist you through the day.": {
+    "default": "Noise AI – Dein persönlicher KI-Begleiter für den ganzen Tag."
+  },
+  "Tap and hold on the left bud to activate Noise AI assistant. App needs to be open in foreground.": {
+    "default": "Tippe und halte den linken Earbud, um den Noise KI-Assistenten zu aktivieren. Die App muss im Vordergrund geöffnet sein."
+  },
+  "Noise AI": {
+    "default": "Noise AI"
+  },
+  "Learn how to activate AI on your device": {
+    "default": "Erfahre, wie die KI auf Deinem Gerät aktiviert wird"
+  },
+  "USE NOISE AI": {
+    "default": "NOISE AI VERWENDEN"
+  },
+  "Noise AI uses your inputs to power responses and store chat history. Interactions may be securely analysed to improve performance.": {
+    "default": "Noise AI verwendet Deine Eingaben, um Antworten zu generieren und den Chatverlauf zu speichern. Interaktionen können zur Leistungsverbesserung sicher analysiert werden."
+  },
+  "AI Help Assistant": {
+    "default": "KI-HILFEASSISTENT"
+  },
+  "Required to scan for nearby Noise devices and enable Noise AI for personalized recommendations.": {
+    "default": "Erforderlich, um nach Noise-Geräten in der Nähe zu suchen und Noise AI für personalisierte Empfehlungen zu aktivieren."
+  },
+  "Allows you to interact with Noise AI voice assistant.": {
+    "default": "Ermöglicht die Interaktion mit dem Noise AI-Sprachassistenten."
+  },
+  "Briefly Explain Your Problem": {
+    "default": "Beschreibe kurz Dein Problem"
+  },
+  "Chat limit reached": {
+    "default": "Chat-Limit erreicht"
+  },
+  "Ask Anything...": {
+    "default": "Frag alles..."
+  }
+}

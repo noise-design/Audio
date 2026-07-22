@@ -1,0 +1,257 @@
+{
+  "press_and_hold_center_button": {
+    "default": "सेंटर बटन दबाकर रखें"
+  },
+  "Wear Detection": {
+    "default": "वेयर डिटेक्शन"
+  },
+  "touch_Gestures": {
+    "default": "टच जेस्चर"
+  },
+  "SWITCH MODES": {
+    "default": "मोड बदलें"
+  },
+  "CHANGE VOLUME": {
+    "default": "वॉल्यूम बदलें"
+  },
+  "PLAY/PAUSE": {
+    "default": "चलाएं/रोकें"
+  },
+  "CHANGE SONG": {
+    "default": "गाना बदलें"
+  },
+  "ANSWER/HANGUP": {
+    "default": "उठाएं/काटें"
+  },
+  "DECLINE CALLS": {
+    "default": "कॉल अस्वीकार करें"
+  },
+  "TAP ONCE TO INCREASE OR DECREASE VOLUME\\nL:VOL. DOWN | R:VOL. UP": {
+    "default": "वॉल्यूम बढ़ाने या घटाने के लिए एक बार टैप करें\\nL: वॉल्यूम डाउन | R: वॉल्यूम अप"
+  },
+  "TAP TWICE TO PLAY OR PAUSE THE SONG": {
+    "default": "गाना चलाने या रोकने के लिए दो बार टैप करें"
+  },
+  "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG\\nL:VOL. UP | R:VOL. DOWN": {
+    "default": "अगला या पिछला गाना चलाने के लिए तीन बार टैप करें\\nL: वॉल्यूम अप | R: वॉल्यूम डाउन"
+  },
+  "TAP TWICE TO ANSWER/HANGUP CALLS": {
+    "default": "कॉल उठाने/काटने के लिए दो बार टैप करें"
+  },
+  "TAP & HOLD TO REJECT INCOMING CALLS": {
+    "default": "इनकमिंग कॉल अस्वीकार करने के लिए टैप करके रखें"
+  },
+  "VOLUME CONTROL": {
+    "default": "वॉल्यूम कंट्रोल"
+  },
+  "LONG PRESS ON POWER BUTTON TO TURN\\nDEVICE ON/OFF": {
+    "default": "डिवाइस चालू/बंद करने के लिए पावर बटन को\\nदेर तक दबाएं"
+  },
+  "TAP AND HOLD THE + AND – BUTTON FOR 5\\nSECONDS SIMULTANEOUSLY TO RESET THE DEVICE": {
+    "default": "डिवाइस रीसेट करने के लिए + और – बटन को एक साथ\\n5 सेकंड तक दबाकर रखें"
+  },
+  "TOUCH GESTURES\\nCUSTOMISATION": {
+    "default": "टच जेस्चर\\nकस्टमाइज़ेशन"
+  },
+  "In-ear detection": {
+    "default": "इन-ईयर डिटेक्शन"
+  },
+  "TAP ONCE": {
+    "default": "एक बार टैप करें"
+  },
+  "TAP TWICE": {
+    "default": "दो बार टैप करें"
+  },
+  "TAP THRICE": {
+    "default": "तीन बार टैप करें"
+  },
+  "TAP HOLD": {
+    "default": "टैप करके रखें"
+  },
+  "SELECT AN ACTION FOR\\nTAP & HOLD": {
+    "default": "\\nटैप एंड होल्ड के लिए एक एक्शन चुनें"
+  },
+  "VOLUME DOWN": {
+    "default": "वॉल्यूम डाउन"
+  },
+  "VOLUME UP": {
+    "default": "वॉल्यूम अप"
+  },
+  "CALL ACCEPT": {
+    "default": "कॉल स्वीकार करें"
+  },
+  "NEXT SONG": {
+    "default": "अगला गाना"
+  },
+  "PREVIOUS SONG": {
+    "default": "पिछला गाना"
+  },
+  "REJECT CALLS": {
+    "default": "कॉल अस्वीकार करें"
+  },
+  "WAKE UP ASSISTANT": {
+    "default": "असिस्टेंट जगाएं"
+  },
+  "VOICE ASSISTANCE": {
+    "default": "वॉइस असिस्टेंस"
+  },
+  "SELECT AN ACTION FOR\\nSINGLE TAP": {
+    "default": "\\nसिंगल टैप के लिए एक एक्शन चुनें"
+  },
+  "SELECT AN ACTION FOR\\nDOUBLE TAP": {
+    "default": "\\nडबल टैप के लिए एक एक्शन चुनें"
+  },
+  "SELECT AN ACTION FOR\\nTRIPLE TAP": {
+    "default": "\\nट्रिपल टैप के लिए एक एक्शन चुनें"
+  },
+  "TAP VOLUME + OR - ON THE HEADPHONE TO INCREASE OR DECREASE THE VOLUME": {
+    "default": "वॉल्यूम बढ़ाने या घटाने के लिए हेडफ़ोन पर\\nवॉल्यूम + या - टैप करें"
+  },
+  "AUTO ANSWER INCOMING CALL BY PUTTING ON YOUR HEADPHONES": {
+    "default": "हेडफ़ोन पहनने पर इनकमिंग कॉल अपने आप उठा लें"
+  },
+  "SINGLE PRESS POWER BUTTON TO PAUSE AND PLAY MUSIC": {
+    "default": "म्यूज़िक चलाने/रोकने के लिए हेडफ़ोन का पावर बटन एक बार दबाएं"
+  },
+  "TAILOR YOUR EXPERIENCE. CUSTOMISE TOUCH CONTROLS TO MAKE EVERY ACTION FEEL SEAMLESS—ADJUST VOLUME, SKIP TRACKS, ALL WITH A SIMPLE TOUCH.": {
+    "default": "इसकी बेहतरीन साउंड सुनें। क्रिस्टल-क्लियर वोकल्स और रिच, डिटेल्ड इंस्ट्रूमेंटल्स हर बारीकियाँ सामने लाते हैं — गहरा बास, क्लीनर मिड्स और सॉफ़्टर हाई के साथ एक इमर्सिव ऑडियो अनुभव।"
+  },
+  "Motion\\nControl": {
+    "default": "मोशन\\nकंट्रोल"
+  },
+  "Enables music playback & calls through head gestures.": {
+    "default": "सिर के जेस्चर से म्यूज़िक प्लेबैक और कॉल सक्षम करता है।"
+  },
+  "QUICK NOD": {
+    "default": "जल्दी सिर हिलाएं"
+  },
+  "RIGHT NOD": {
+    "default": "दाईं ओर सिर हिलाएं"
+  },
+  "PLAY NEXT SONG.": {
+    "default": "अगला गाना चलाएं।"
+  },
+  "ANSWER INCOMING CALLS WITH A QUICK NOD.": {
+    "default": "जल्दी से सिर हिलाकर इनकमिंग कॉल उठाएं।"
+  },
+  "REJECT CALLS WITH A QUICK SHAKE.": {
+    "default": "तेज़ शेक से कॉल अस्वीकार करें।"
+  },
+  "MEDIA CONTROL": {
+    "default": "मीडिया\\nकंट्रोल"
+  },
+  "Motion Control Tips": {
+    "default": "मोशन कंट्रोल टिप्स"
+  },
+  "Extend Sound Volume": {
+    "default": "साउंड वॉल्यूम बढ़ाएं"
+  },
+  "Here are some gestures to": {
+    "default": "यहाँ कुछ जेस्चर हैं"
+  },
+  "Here are some gestures to look for.": {
+    "default": "यहाँ कुछ जेस्चर देखें।"
+  },
+  "TOUCH CONTROLS": {
+    "default": "टच\\nकंट्रोल"
+  },
+  "Customise touch gesture controls of your device for a personalised experience.\\nTouch controls are currently off.": {
+    "default": "पर्सनलाइज़्ड अनुभव के लिए अपने डिवाइस के टच जेस्चर कंट्रोल कस्टमाइज़ करें।\\nटच कंट्रोल अभी बंद हैं।"
+  },
+  "Tap Four Times": {
+    "default": "चार बार टैप करें"
+  },
+  "Motion\\nGestures": {
+    "default": "मोशन\\nजेस्चर"
+  },
+  "Customise touch gestures for effortless control": {
+    "default": "आसान कंट्रोल के लिए टच जेस्चर कस्टमाइज़ करें"
+  },
+  "Hear yourself on calls to speak at a natural volume": {
+    "default": "कॉल पर खुद को सुनें और स्वाभाविक वॉल्यूम में बोलें"
+  },
+  "Move your head to the right and back twice to skip To the next track": {
+    "default": "अगले ट्रैक पर जाने के लिए सिर को दाईं ओर और पीछे दो बार ले जाएं"
+  },
+  "Move your head to the left and back twice to return to the previous track": {
+    "default": "पिछले ट्रैक पर जाने के लिए सिर को बाईं ओर और पीछे दो बार ले जाएं"
+  },
+  "play/pause your music with a quick nod": {
+    "default": "जल्दी सिर हिलाकर म्यूज़िक चलाएं/रोकें"
+  },
+  "Answer incoming calls with a quick nod": {
+    "default": "\\nजल्दी सिर हिलाकर इनकमिंग कॉल उठाएं"
+  },
+  "Reject incoming calls with a quick double nod": {
+    "default": "जल्दी\\nबाएं-दाएं सिर हिलाकर इनकमिंग कॉल अस्वीकार करें"
+  },
+  "TAP THRICE TO PLAY NEXT OR PREVIOUS SONG": {
+    "default": "अगला या पिछला गाना चलाने के लिए तीन बार टैप करें"
+  },
+  "TAP TWICE TO INCREASE OR DECREASE VOLUME\\nL: VOL. UP | R: VOL. DOWN": {
+    "default": "वॉल्यूम बढ़ाने या घटाने के लिए दो बार टैप करें\\nL: वॉल्यूम अप | R: वॉल्यूम डाउन"
+  },
+  "TAP THRICE TO PLAY OR PAUSE THE MUSIC": {
+    "default": "म्यूज़िक चलाने या रोकने के लिए तीन बार टैप करें"
+  },
+  "TAP & HOLD FOR 3S TO PLAY NEXT OR PREVIOUS TRACK\\nL: PREVIOUS TRACK | R: NEXT TRACK": {
+    "default": "अगला या पिछला ट्रैक चलाने के लिए 3 सेकंड टैप करके रखें\\nL: पिछला ट्रैक | R: अगला ट्रैक"
+  },
+  "TAP TWICE TO ANSWER CALLS OR END ONGOING CALLS": {
+    "default": "कॉल उठाने या चल रही कॉल समाप्त करने के लिए दो बार टैप करें"
+  },
+  "TAP THRICE TO REJECT INCOMING CALLS": {
+    "default": "इनकमिंग कॉल अस्वीकार करने के लिए तीन बार टैप करें"
+  },
+  "Transcribe your meetings/discussions at single tap": {
+    "default": "एक टैप में अपनी मीटिंग/चर्चा ट्रांसक्राइब करें"
+  },
+  "TAP TO SPEAK": {
+    "default": "बोलने के लिए टैप करें"
+  },
+  "Tap & Hold": {
+    "default": "टैप करके रखें"
+  },
+  "Tap Twice": {
+    "default": "दो बार टैप करें"
+  },
+  "Tap Thrice": {
+    "default": "तीन बार टैप करें"
+  },
+  "FOR BUDS - WITH THE BUDS IN THE CASE AND THE LID OPEN, PRESS & HOLD THE CASE BUTTON UNTIL THE LIGHT STARTS BLINKING": {
+    "default": "बड्स के लिए — केस में बड्स रखें और ढक्कन खुला रखें, केस बटन तब तक दबाकर रखें जब तक लाइट झपकने न लगे"
+  },
+  "Customize gestures for effortless control.": {
+    "default": "आसान कंट्रोल के लिए जेस्चर कस्टमाइज़ करें।"
+  },
+  "Record your thoughts with a single tap": {
+    "default": "एक टैप से अपने विचार रिकॉर्ड करें"
+  },
+  "QUICK DOUBLE NOD": {
+    "default": "जल्दी दो बार सिर हिलाएं"
+  },
+  "SHAKE YOUR HEAD TO THE RIGHT AND BACK TWICE TO SKIP TO THE NEXT TRACK.": {
+    "default": "अगले ट्रैक पर जाने के लिए सिर को दाईं ओर और पीछे दो बार हिलाएं।"
+  },
+  "SHAKE YOUR HEAD TO THE LEFT AND BACK TWICE TO RETURN TO THE PREVIOUS TRACK.": {
+    "default": "पिछले ट्रैक पर जाने के लिए सिर को बाईं ओर और पीछे दो बार हिलाएं।"
+  },
+  "PLAY PAUSE YOUR FAVORITE MUSIC WITH A QUICK NOD.": {
+    "default": "जल्दी सिर हिलाकर अपना पसंदीदा म्यूज़िक चलाएं/रोकें।"
+  },
+  "REJECT INCOMING CALLS WITH A QUICK DOUBLE NOD.": {
+    "default": "जल्दी से दो बार सिर हिलाकर इनकमिंग कॉल अस्वीकार करें।"
+  },
+  "In Ear Detection": {
+    "default": "इन-ईयर डिटेक्शन"
+  },
+  "Single Tap": {
+    "default": "सिंगल टैप"
+  },
+  "CALL REJECT": {
+    "default": "कॉल अस्वीकार करें"
+  },
+  "CALL MUTE": {
+    "default": "कॉल म्यूट करें"
+  }
+}

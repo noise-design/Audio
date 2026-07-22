@@ -1,0 +1,60 @@
+{
+  "$schema": "internal://noise-audio/i18n/strings.schema",
+  "$comment": "Canonical key-structure + resolution spec for all Noise Audio locale files. This file wins over any markdown mirror.",
+  "parentLocale": "en",
+  "locales": [
+    "en",
+    "de",
+    "hi"
+  ],
+  "localeNames": {
+    "en": "English",
+    "de": "Deutsch (German)",
+    "hi": "हिन्दी (Hindi)"
+  },
+  "domains": [
+    "common",
+    "onboarding",
+    "pairing",
+    "firmware",
+    "soundControl",
+    "gestures",
+    "findMy",
+    "profile",
+    "settings",
+    "marketing",
+    "assistant",
+    "errors"
+  ],
+  "fileLayout": "src/i18n/locales/<locale>/<domain>.json",
+  "keyFormat": {
+    "current": "Legacy iOS keys are preserved verbatim as stable IDs (mix of snake_case, camelCase, and literal-English UI labels) so the shipping app keeps resolving. DO NOT rename an existing key without a migration.",
+    "goingForward": "<domain>.<screen-or-element>.<variant?> — e.g. onboarding.email.title. New strings SHOULD use this dotted form."
+  },
+  "valueShape": {
+    "rule": "Every key maps to an object with a required `default` and optional per-persona overrides keyed by persona ID (P1, P2, ...).",
+    "example": {
+      "default": "Continue with email",
+      "P1": "Let's use your email 👋",
+      "P2": "Continue with email"
+    }
+  },
+  "resolutionOrder": [
+    "locale -> key",
+    "-> persona variant (if a persona is active and the variant exists)",
+    "-> key.default (same locale)",
+    "-> en.<domain>.<key>.<persona|default>  (parent-locale fallback)",
+    "-> key itself as last-resort literal (logged as a missing-string error)"
+  ],
+  "parentIsSourceOfTruth": "en is the parent. A key MUST exist in en before it can exist in any other locale. Non-parent locales omit untranslated keys and fall back to en at runtime.",
+  "addingALocale": "Create src/i18n/locales/<new>/ , copy the en/*.json filenames, translate `default` values. Register the code + display name here under `locales`/`localeNames`. Missing keys fall back to en automatically.",
+  "addingAString": "Add the key to the correct domain file in en/ FIRST (this defines it), then add translations to other locales as they are localized. Run scripts/i18n-check.py before committing.",
+  "escapes": "\\n is a hard line break inside a UI label; keep it. Acronyms (ANC, EQ, BT, OTP, TWS, IPX5, AI) stay in Roman script across all locales.",
+  "gate": "No hardcoded user-facing strings in components — every string ships through a key in these files. Greppable in CI.",
+  "generatedFrom": {
+    "de": "german_65_.rtf snapshot",
+    "hi": "full_hindi_strings.txt snapshot",
+    "date": "2026-07-20",
+    "note": "English derived: literal-English keys used verbatim; slug keys auto-humanized and flagged with _todo for owner confirmation."
+  }
+}

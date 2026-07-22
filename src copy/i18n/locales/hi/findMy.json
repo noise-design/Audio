@@ -1,0 +1,62 @@
+{
+  "pairing": {
+    "default": "पेयरिंग"
+  },
+  "found_it": {
+    "default": "मिल गया"
+  },
+  "Dual Pairing": {
+    "default": "डुअल पेयरिंग"
+  },
+  "dual_pairing": {
+    "default": "डुअल पेयरिंग"
+  },
+  "FIND MY\\nEARBUDS": {
+    "default": "मेरे\\nईयरबड्स ढूंढें"
+  },
+  "DUAL\\nPAIRING": {
+    "default": "डुअल पेयरिंग"
+  },
+  "LOCATE YOUR LOST HEADPHONES\\nIN SECONDS": {
+    "default": "अपने खोए हुए हेडफ़ोन को\\nसेकंडों में ढूंढें"
+  },
+  "FIND MY\\nHEADPHONES": {
+    "default": "मेरे\\nहेडफ़ोन ढूंढें"
+  },
+  "LOCATE YOUR LOST EARBUDS\\nIN SECONDS": {
+    "default": "अपने खोए हुए ईयरबड्स को\\nसेकंडों में ढूंढें"
+  },
+  "LISTEN TO SOUND AT ITS FINEST. CRYSTAL-CLEAR VOCALS AND RICH, DETAILED INSTRUMENTALS BRING OUT EVERY NUANCE, DELIVERING DEEPER BASS, CLEANER MIDS, AND SOFTER HIGHS FOR AN IMMERSIVE AUDIO EXPERIENCE.": {
+    "default": "संगीत जो आपके हर मूड के साथ चले। बेहतर प्लेटाइम और कस्टम टच कंट्रोल हर एक्टिविटी को आसान बनाते हैं।"
+  },
+  "FIND MY\\nDEVICE": {
+    "default": "मेरा डिवाइस ढूंढें"
+  },
+  "Find My\\nDevice": {
+    "default": "मेरा डिवाइस ढूंढें"
+  },
+  "Locate your lost device in seconds": {
+    "default": "अपना खोया हुआ डिवाइस सेकंडों में ढूंढें"
+  },
+  "Auto-answer incoming calls by wearing your device": {
+    "default": "डिवाइस पहनने पर इनकमिंग कॉल अपने आप उठ जाती है"
+  },
+  "FOR HEADPHONES - DOUBLE PRESS POWER BUTTON TO ENABLE PAIRING MODE": {
+    "default": "हेडफ़ोन के लिए — पेयरिंग मोड सक्षम करने के लिए पावर बटन दो बार दबाएं"
+  },
+  "4. If the issue persists, enable pairing mode: Press and hold the pairing button on the charging case for 3 seconds, until the indicator light starts blinking.": {
+    "default": "4. अगर समस्या बनी रहे तो पेयरिंग मोड सक्षम करें: चार्जिंग केस पर पेयरिंग बटन को 3 सेकंड दबाकर रखें जब तक इंडिकेटर लाइट झपकने न लगे।"
+  },
+  "3. If the issue persists, enable pairing mode: Press the power button twice in quick succession.": {
+    "default": "3. अगर समस्या बनी रहे तो पेयरिंग मोड सक्षम करें: पावर बटन को जल्दी से दो बार दबाएं।"
+  },
+  "Order date cannot be after first pairing date": {
+    "default": "ऑर्डर की तारीख पहली पेयरिंग तारीख के बाद की नहीं हो सकती"
+  },
+  "purchase date cannot be later than your pairing date": {
+    "default": "खरीदारी की तारीख आपकी पेयरिंग तारीख के बाद की नहीं हो सकती"
+  },
+  "FIND MY BUDS CAN ONLY LOCATE EARBUDS WHEN THEY'RE NOT IN USE.": {
+    "default": "Find My Buds केवल तभी ईयरबड्स ढूंढ सकता है जब वे उपयोग में न हों।"
+  }
+}

@@ -1,0 +1,869 @@
+{
+  "start_typing": {
+    "default": "Start typing",
+    "_todo": "Confirm English copy for iOS key \"start_typing\" (auto-humanized from slug)."
+  },
+  "cancel": {
+    "default": "Cancel",
+    "_todo": "Confirm English copy for iOS key \"cancel\" (auto-humanized from slug)."
+  },
+  "enter_otp": {
+    "default": "Enter otp",
+    "_todo": "Confirm English copy for iOS key \"enter_otp\" (auto-humanized from slug)."
+  },
+  "resend_code_in": {
+    "default": "Resend code in",
+    "_todo": "Confirm English copy for iOS key \"resend_code_in\" (auto-humanized from slug)."
+  },
+  "resend_code": {
+    "default": "Resend code",
+    "_todo": "Confirm English copy for iOS key \"resend_code\" (auto-humanized from slug)."
+  },
+  "device_found": {
+    "default": "Device found",
+    "_todo": "Confirm English copy for iOS key \"device_found\" (auto-humanized from slug)."
+  },
+  "noise_nile": {
+    "default": "Noise nile",
+    "_todo": "Confirm English copy for iOS key \"noise_nile\" (auto-humanized from slug)."
+  },
+  "select_device": {
+    "default": "Select device",
+    "_todo": "Confirm English copy for iOS key \"select_device\" (auto-humanized from slug)."
+  },
+  "cant_find_device": {
+    "default": "Cant find device",
+    "_todo": "Confirm English copy for iOS key \"cant_find_device\" (auto-humanized from slug)."
+  },
+  "see_here": {
+    "default": "See here",
+    "_todo": "Confirm English copy for iOS key \"see_here\" (auto-humanized from slug)."
+  },
+  "retry_connect": {
+    "default": "Retry connect",
+    "_todo": "Confirm English copy for iOS key \"retry_connect\" (auto-humanized from slug)."
+  },
+  "earbuds_ready_to_pair_heading": {
+    "default": "Earbuds ready to pair heading",
+    "_todo": "Confirm English copy for iOS key \"earbuds_ready_to_pair_heading\" (auto-humanized from slug)."
+  },
+  "earbuds_ready_to_pair_instruction": {
+    "default": "Earbuds ready to pair instruction",
+    "_todo": "Confirm English copy for iOS key \"earbuds_ready_to_pair_instruction\" (auto-humanized from slug)."
+  },
+  "improved_performance": {
+    "default": "Improved performance",
+    "_todo": "Confirm English copy for iOS key \"improved_performance\" (auto-humanized from slug)."
+  },
+  "enhanced_anc": {
+    "default": "Enhanced anc",
+    "_todo": "Confirm English copy for iOS key \"enhanced_anc\" (auto-humanized from slug)."
+  },
+  "remind_me_later": {
+    "default": "Remind me later",
+    "_todo": "Confirm English copy for iOS key \"remind_me_later\" (auto-humanized from slug)."
+  },
+  "take_me_home": {
+    "default": "Take me home",
+    "_todo": "Confirm English copy for iOS key \"take_me_home\" (auto-humanized from slug)."
+  },
+  "do_not_exit_this_page": {
+    "default": "Do not exit this page",
+    "_todo": "Confirm English copy for iOS key \"do_not_exit_this_page\" (auto-humanized from slug)."
+  },
+  "find_my_earbuds_heading": {
+    "default": "Find my earbuds heading",
+    "_todo": "Confirm English copy for iOS key \"find_my_earbuds_heading\" (auto-humanized from slug)."
+  },
+  "find_my_earbuds_description": {
+    "default": "Find my earbuds description",
+    "_todo": "Confirm English copy for iOS key \"find_my_earbuds_description\" (auto-humanized from slug)."
+  },
+  "find_my_earbuds_instruction": {
+    "default": "Find my earbuds instruction",
+    "_todo": "Confirm English copy for iOS key \"find_my_earbuds_instruction\" (auto-humanized from slug)."
+  },
+  "save_adjustments": {
+    "default": "Save adjustments",
+    "_todo": "Confirm English copy for iOS key \"save_adjustments\" (auto-humanized from slug)."
+  },
+  "all_devices_heading": {
+    "default": "All devices heading",
+    "_todo": "Confirm English copy for iOS key \"all_devices_heading\" (auto-humanized from slug)."
+  },
+  "learn_more": {
+    "default": "Learn more",
+    "_todo": "Confirm English copy for iOS key \"learn_more\" (auto-humanized from slug)."
+  },
+  "remind_later": {
+    "default": "Remind later",
+    "_todo": "Confirm English copy for iOS key \"remind_later\" (auto-humanized from slug)."
+  },
+  "app_update": {
+    "default": "App update",
+    "_todo": "Confirm English copy for iOS key \"app_update\" (auto-humanized from slug)."
+  },
+  "terms_conditions": {
+    "default": "Terms conditions",
+    "_todo": "Confirm English copy for iOS key \"terms_conditions\" (auto-humanized from slug)."
+  },
+  "low_battery_heading": {
+    "default": "Low battery heading",
+    "_todo": "Confirm English copy for iOS key \"low_battery_heading\" (auto-humanized from slug)."
+  },
+  "place_earbuds_in_case": {
+    "default": "Place earbuds in case",
+    "_todo": "Confirm English copy for iOS key \"place_earbuds_in_case\" (auto-humanized from slug)."
+  },
+  "Off": {
+    "default": "Off",
+    "_todo": "Confirm English copy for iOS key \"Off\" (auto-humanized from slug)."
+  },
+  "Mid": {
+    "default": "Mid",
+    "_todo": "Confirm English copy for iOS key \"Mid\" (auto-humanized from slug)."
+  },
+  "Max": {
+    "default": "Max",
+    "_todo": "Confirm English copy for iOS key \"Max\" (auto-humanized from slug)."
+  },
+  "ON": {
+    "default": "ON"
+  },
+  "Custom": {
+    "default": "Custom",
+    "_todo": "Confirm English copy for iOS key \"Custom\" (auto-humanized from slug)."
+  },
+  "DEFAULT": {
+    "default": "DEFAULT"
+  },
+  "Swift Call Mode": {
+    "default": "Swift Call Mode"
+  },
+  "It_makes_the_audio_come_alive_from_ever_corner": {
+    "default": "It makes the audio come alive from ever corner",
+    "_todo": "Confirm English copy for iOS key \"It_makes_the_audio_come_alive_from_ever_corner\" (auto-humanized from slug)."
+  },
+  "Here_are_Msg": {
+    "default": "Here are Msg",
+    "_todo": "Confirm English copy for iOS key \"Here_are_Msg\" (auto-humanized from slug)."
+  },
+  "DISCONNECTED": {
+    "default": "DISCONNECTED"
+  },
+  "off_caps": {
+    "default": "Off caps",
+    "_todo": "Confirm English copy for iOS key \"off_caps\" (auto-humanized from slug)."
+  },
+  "Wear_detection": {
+    "default": "Wear detection",
+    "_todo": "Confirm English copy for iOS key \"Wear_detection\" (auto-humanized from slug)."
+  },
+  "Swift_call_mode": {
+    "default": "Swift call mode",
+    "_todo": "Confirm English copy for iOS key \"Swift_call_mode\" (auto-humanized from slug)."
+  },
+  "MUSICCONTROL": {
+    "default": "MUSICCONTROL"
+  },
+  "CHARGING\\nYOUR BUDS": {
+    "default": "CHARGING\\nYOUR BUDS"
+  },
+  "CHARGE EARBUDS": {
+    "default": "CHARGE EARBUDS"
+  },
+  "CHARGE CASE": {
+    "default": "CHARGE CASE"
+  },
+  "NEXT": {
+    "default": "NEXT"
+  },
+  "RAIN, SWEAT, OR SHINE, YOUR EARBUDS STAY PROTECTED. TAKE THEM EVERYWHERE WITHOUT A SECOND THOUGHT.": {
+    "default": "RAIN, SWEAT, OR SHINE, YOUR EARBUDS STAY PROTECTED. TAKE THEM EVERYWHERE WITHOUT A SECOND THOUGHT."
+  },
+  "CHANGER": {
+    "default": "CHANGER"
+  },
+  "YOUR DEVICE IS IN": {
+    "default": "YOUR DEVICE IS IN"
+  },
+  "SHALL WE SWITCH THE APP TO": {
+    "default": "SHALL WE SWITCH THE APP TO"
+  },
+  "TOO?": {
+    "default": "TOO?"
+  },
+  "ENGLISH": {
+    "default": "ENGLISH"
+  },
+  "FOLLOW THE STEPS FROM THE VIDEO BELOW": {
+    "default": "FOLLOW THE STEPS FROM THE VIDEO BELOW"
+  },
+  "MY DEVICES": {
+    "default": "MY DEVICES"
+  },
+  "POWER ON/OFF": {
+    "default": "POWER ON/OFF"
+  },
+  "RESET DEVICE": {
+    "default": "RESET DEVICE"
+  },
+  "MID": {
+    "default": "MID"
+  },
+  "STANDARD": {
+    "default": "STANDARD"
+  },
+  "CUSTOM": {
+    "default": "CUSTOM"
+  },
+  "LEFT": {
+    "default": "LEFT"
+  },
+  "RIGHT": {
+    "default": "RIGHT"
+  },
+  "CUSTOMISE": {
+    "default": "CUSTOMISE"
+  },
+  "NONE": {
+    "default": "NONE"
+  },
+  "Alert": {
+    "default": "Alert",
+    "_todo": "Confirm English copy for iOS key \"Alert\" (auto-humanized from slug)."
+  },
+  "Audio App": {
+    "default": "Audio App"
+  },
+  "CANCEL": {
+    "default": "CANCEL"
+  },
+  "REMIND ME LATER": {
+    "default": "REMIND ME LATER"
+  },
+  "CUSTOMISING": {
+    "default": "CUSTOMISING"
+  },
+  "BUDS": {
+    "default": "BUDS"
+  },
+  "suggestion_text_find_device": {
+    "default": "Suggestion text find device",
+    "_todo": "Confirm English copy for iOS key \"suggestion_text_find_device\" (auto-humanized from slug)."
+  },
+  "enter_dob": {
+    "default": "Enter dob",
+    "_todo": "Confirm English copy for iOS key \"enter_dob\" (auto-humanized from slug)."
+  },
+  "REWARD GENERATED": {
+    "default": "REWARD GENERATED"
+  },
+  "DOUBLE SHAKE": {
+    "default": "DOUBLE SHAKE"
+  },
+  "QUICK SHAKE": {
+    "default": "QUICK SHAKE"
+  },
+  "Download your product user manual": {
+    "default": "Download your product user manual"
+  },
+  "Check if new features are available": {
+    "default": "Check if new features are available"
+  },
+  "FORGET THIS DEVICE": {
+    "default": "FORGET THIS DEVICE"
+  },
+  "How To Wear": {
+    "default": "How To Wear"
+  },
+  "Owner's Guide": {
+    "default": "Owner's Guide"
+  },
+  "Need help ?": {
+    "default": "Need help ?"
+  },
+  "HOW TO WEAR": {
+    "default": "HOW TO WEAR"
+  },
+  "RESET ALL": {
+    "default": "RESET ALL"
+  },
+  "Home": {
+    "default": "Home",
+    "_todo": "Confirm English copy for iOS key \"Home\" (auto-humanized from slug)."
+  },
+  "REGISTER": {
+    "default": "REGISTER"
+  },
+  "WEBSITE": {
+    "default": "WEBSITE"
+  },
+  "ONLINE STORE": {
+    "default": "ONLINE STORE"
+  },
+  "RETAIL SHOP": {
+    "default": "RETAIL SHOP"
+  },
+  "Enter name": {
+    "default": "Enter name"
+  },
+  "Your E-mail": {
+    "default": "Your E-mail"
+  },
+  "YOUR NUMBER": {
+    "default": "YOUR NUMBER"
+  },
+  "Enter number": {
+    "default": "Enter number"
+  },
+  "Where did you buy it?": {
+    "default": "Where did you buy it?"
+  },
+  "Order date": {
+    "default": "Order date"
+  },
+  "USER DETAILS": {
+    "default": "USER DETAILS"
+  },
+  "Name is required.": {
+    "default": "Name is required."
+  },
+  "Mobile number required.": {
+    "default": "Mobile number required."
+  },
+  "Date": {
+    "default": "Date",
+    "_todo": "Confirm English copy for iOS key \"Date\" (auto-humanized from slug)."
+  },
+  "DEVICE": {
+    "default": "DEVICE"
+  },
+  "In Review": {
+    "default": "In Review"
+  },
+  "Review typically takes 24-48 hours": {
+    "default": "Review typically takes 24-48 hours"
+  },
+  "Please recheck details and submit again": {
+    "default": "Please recheck details and submit again"
+  },
+  "Expires on 12/10/2026": {
+    "default": "Expires on 12/10/2026"
+  },
+  "need more help?": {
+    "default": "need more help?"
+  },
+  "Audio follows your head movement to maintain that sweet spot": {
+    "default": "Audio follows your head movement to maintain that sweet spot"
+  },
+  "Maximum loudness. Recommended for loud environments": {
+    "default": "Maximum loudness. Recommended for loud environments"
+  },
+  "Head Tracking": {
+    "default": "Head Tracking"
+  },
+  "Fixed": {
+    "default": "Fixed",
+    "_todo": "Confirm English copy for iOS key \"Fixed\" (auto-humanized from slug)."
+  },
+  "RESET": {
+    "default": "RESET"
+  },
+  "RIGHT AND BACK": {
+    "default": "RIGHT AND BACK"
+  },
+  "LEFT AND BACK": {
+    "default": "LEFT AND BACK"
+  },
+  "LEFT AND RIGHT": {
+    "default": "LEFT AND RIGHT"
+  },
+  "Chat History": {
+    "default": "Chat History"
+  },
+  "Read/Resume your previous chats": {
+    "default": "Read/Resume your previous chats"
+  },
+  "COMING SOON": {
+    "default": "COMING SOON"
+  },
+  "No chat thread\\nfound": {
+    "default": "No chat thread\\nfound"
+  },
+  "START A NEW CHAT": {
+    "default": "START A NEW CHAT"
+  },
+  "SETTING UP...": {
+    "default": "SETTING UP..."
+  },
+  "LISTENING": {
+    "default": "LISTENING"
+  },
+  "ANALYZING...": {
+    "default": "ANALYZING..."
+  },
+  "SPEAK ANYTIME": {
+    "default": "SPEAK ANYTIME"
+  },
+  "activate_ai_title": {
+    "default": "Activate ai title",
+    "_todo": "Confirm English copy for iOS key \"activate_ai_title\" (auto-humanized from slug)."
+  },
+  "Stereo": {
+    "default": "Stereo",
+    "_todo": "Confirm English copy for iOS key \"Stereo\" (auto-humanized from slug)."
+  },
+  "DONE": {
+    "default": "DONE"
+  },
+  "TRY THE DEMO AGAIN": {
+    "default": "TRY THE DEMO AGAIN"
+  },
+  "This is": {
+    "default": "This is"
+  },
+  "SELECT AN ACTION": {
+    "default": "SELECT AN ACTION"
+  },
+  "OK": {
+    "default": "OK"
+  },
+  "Go to chat history": {
+    "default": "Go to chat history"
+  },
+  "DEVICE HAS BEEN\\n REMOVED": {
+    "default": "DEVICE HAS BEEN\\n REMOVED"
+  },
+  "Choose Photo Source": {
+    "default": "Choose Photo Source"
+  },
+  "Photo Library": {
+    "default": "Photo Library"
+  },
+  "Camera": {
+    "default": "Camera",
+    "_todo": "Confirm English copy for iOS key \"Camera\" (auto-humanized from slug)."
+  },
+  "Cancel": {
+    "default": "Cancel",
+    "_todo": "Confirm English copy for iOS key \"Cancel\" (auto-humanized from slug)."
+  },
+  "PURCHASE CHANNEL": {
+    "default": "PURCHASE CHANNEL"
+  },
+  "file size should be less than 5mb": {
+    "default": "file size should be less than 5mb"
+  },
+  "Please enter valid name": {
+    "default": "Please enter valid name"
+  },
+  "Please select purchase channel": {
+    "default": "Please select purchase channel"
+  },
+  "Please select valid order date": {
+    "default": "Please select valid order date"
+  },
+  "REGISTRATION DATE": {
+    "default": "REGISTRATION DATE"
+  },
+  "EDIT DETAILS": {
+    "default": "EDIT DETAILS"
+  },
+  "SELECT AN OPTION": {
+    "default": "SELECT AN OPTION"
+  },
+  "Photos": {
+    "default": "Photos",
+    "_todo": "Confirm English copy for iOS key \"Photos\" (auto-humanized from slug)."
+  },
+  "Files": {
+    "default": "Files",
+    "_todo": "Confirm English copy for iOS key \"Files\" (auto-humanized from slug)."
+  },
+  "Noise Cancellation": {
+    "default": "Noise Cancellation"
+  },
+  "Request a Feature": {
+    "default": "Request a Feature"
+  },
+  "terms_of_service": {
+    "default": "Terms of service",
+    "_todo": "Confirm English copy for iOS key \"terms_of_service\" (auto-humanized from slug)."
+  },
+  "Help & Support": {
+    "default": "Help & Support"
+  },
+  "Get help for product issues": {
+    "default": "Get help for product issues"
+  },
+  "How may I assist you": {
+    "default": "How may I assist you"
+  },
+  "Hi, I'm": {
+    "default": "Hi, I'm"
+  },
+  "1. Ensure your earbuds are sufficiently charged, powered on, and within 9 meters of your mobile device.": {
+    "default": "1. Ensure your earbuds are sufficiently charged, powered on, and within 9 meters of your mobile device."
+  },
+  "CONTACT US": {
+    "default": "CONTACT US"
+  },
+  "PLEASE TRY AFTER SOME TIME": {
+    "default": "PLEASE TRY AFTER SOME TIME"
+  },
+  "Or": {
+    "default": "Or",
+    "_todo": "Confirm English copy for iOS key \"Or\" (auto-humanized from slug)."
+  },
+  "This action can not be modified": {
+    "default": "This action can not be modified"
+  },
+  "Access your previous chats": {
+    "default": "Access your previous chats"
+  },
+  "YES": {
+    "default": "YES"
+  },
+  "NO": {
+    "default": "NO"
+  },
+  "THE APP IS UPTO DATE": {
+    "default": "THE APP IS UPTO DATE"
+  },
+  "EDIT": {
+    "default": "EDIT"
+  },
+  "Take a photo": {
+    "default": "Take a photo"
+  },
+  "JOIN\\nNOISE AUDIO": {
+    "default": "JOIN\\nNOISE AUDIO"
+  },
+  "MOBILE NUMBER": {
+    "default": "MOBILE NUMBER"
+  },
+  "NAME": {
+    "default": "NAME"
+  },
+  "CROP": {
+    "default": "CROP"
+  },
+  "CLOSE": {
+    "default": "CLOSE"
+  },
+  "Edit": {
+    "default": "Edit",
+    "_todo": "Confirm English copy for iOS key \"Edit\" (auto-humanized from slug)."
+  },
+  "Add": {
+    "default": "Add",
+    "_todo": "Confirm English copy for iOS key \"Add\" (auto-humanized from slug)."
+  },
+  "Request A Feature": {
+    "default": "Request A Feature"
+  },
+  "Click here": {
+    "default": "Click here"
+  },
+  "Add Screenshot / Recording": {
+    "default": "Add Screenshot / Recording"
+  },
+  "Please Share Details Of Your Issue": {
+    "default": "Please Share Details Of Your Issue"
+  },
+  "REPORT AN ISSUE": {
+    "default": "REPORT AN ISSUE"
+  },
+  "*Recent app logs will be shared with developers": {
+    "default": "*Recent app logs will be shared with developers"
+  },
+  "Issue reported successfully": {
+    "default": "Issue reported successfully"
+  },
+  "SUBMIT": {
+    "default": "SUBMIT"
+  },
+  "SELECT CHANNEL": {
+    "default": "SELECT CHANNEL"
+  },
+  "I AGREE": {
+    "default": "I AGREE"
+  },
+  "I DENY": {
+    "default": "I DENY"
+  },
+  "and": {
+    "default": "And",
+    "_todo": "Confirm English copy for iOS key \"and\" (auto-humanized from slug)."
+  },
+  "Support Request": {
+    "default": "Support Request"
+  },
+  "REGISTERED NAME": {
+    "default": "REGISTERED NAME"
+  },
+  "REGISTERED E-MAIL": {
+    "default": "REGISTERED E-MAIL"
+  },
+  "NAME CANNOT BE EMPTY": {
+    "default": "NAME CANNOT BE EMPTY"
+  },
+  "Report An Issue": {
+    "default": "Report An Issue"
+  },
+  "HELP &\\nSUPPORT": {
+    "default": "HELP &\\nSUPPORT"
+  },
+  "CALL US": {
+    "default": "CALL US"
+  },
+  "MAIL US": {
+    "default": "MAIL US"
+  },
+  "Frequently Asked Questions": {
+    "default": "Frequently Asked Questions"
+  },
+  "Feedback": {
+    "default": "Feedback",
+    "_todo": "Confirm English copy for iOS key \"Feedback\" (auto-humanized from slug)."
+  },
+  "For any other query": {
+    "default": "For any other query"
+  },
+  "MAIL SUPPORT": {
+    "default": "MAIL SUPPORT"
+  },
+  "FAQS": {
+    "default": "FAQS"
+  },
+  "No support number available.": {
+    "default": "No support number available."
+  },
+  "NOT NOW": {
+    "default": "NOT NOW"
+  },
+  "APP": {
+    "default": "APP"
+  },
+  "left_bud_battery_low_charge_now": {
+    "default": "Left bud battery low charge now",
+    "_todo": "Confirm English copy for iOS key \"left_bud_battery_low_charge_now\" (auto-humanized from slug)."
+  },
+  "right_bud_battery_low_charge_now": {
+    "default": "Right bud battery low charge now",
+    "_todo": "Confirm English copy for iOS key \"right_bud_battery_low_charge_now\" (auto-humanized from slug)."
+  },
+  "both_buds_battery_low_charge_now": {
+    "default": "Both buds battery low charge now",
+    "_todo": "Confirm English copy for iOS key \"both_buds_battery_low_charge_now\" (auto-humanized from slug)."
+  },
+  "left_bud_not_detected_troubleshoot": {
+    "default": "Left bud not detected troubleshoot",
+    "_todo": "Confirm English copy for iOS key \"left_bud_not_detected_troubleshoot\" (auto-humanized from slug)."
+  },
+  "right_bud_not_detected_troubleshoot": {
+    "default": "Right bud not detected troubleshoot",
+    "_todo": "Confirm English copy for iOS key \"right_bud_not_detected_troubleshoot\" (auto-humanized from slug)."
+  },
+  "bud_not_detected_title": {
+    "default": "Bud not detected title",
+    "_todo": "Confirm English copy for iOS key \"bud_not_detected_title\" (auto-humanized from slug)."
+  },
+  "bud_not_detected_step_place_correctly": {
+    "default": "Bud not detected step place correctly",
+    "_todo": "Confirm English copy for iOS key \"bud_not_detected_step_place_correctly\" (auto-humanized from slug)."
+  },
+  "bud_not_detected_step_clean_pins": {
+    "default": "Bud not detected step clean pins",
+    "_todo": "Confirm English copy for iOS key \"bud_not_detected_step_clean_pins\" (auto-humanized from slug)."
+  },
+  "bud_not_detected_step_case_min_charge": {
+    "default": "Bud not detected step case min charge",
+    "_todo": "Confirm English copy for iOS key \"bud_not_detected_step_case_min_charge\" (auto-humanized from slug)."
+  },
+  "bud_not_detected_step_keep_lid_open": {
+    "default": "Bud not detected step keep lid open",
+    "_todo": "Confirm English copy for iOS key \"bud_not_detected_step_keep_lid_open\" (auto-humanized from slug)."
+  },
+  "bud_not_detected_step_factory_reset": {
+    "default": "Bud not detected step factory reset",
+    "_todo": "Confirm English copy for iOS key \"bud_not_detected_step_factory_reset\" (auto-humanized from slug)."
+  },
+  "case_power_alert_title": {
+    "default": "Case power alert title",
+    "_todo": "Confirm English copy for iOS key \"case_power_alert_title\" (auto-humanized from slug)."
+  },
+  "case_power_alert_step_connect_charger": {
+    "default": "Case power alert step connect charger",
+    "_todo": "Confirm English copy for iOS key \"case_power_alert_step_connect_charger\" (auto-humanized from slug)."
+  },
+  "case_power_alert_step_insert_cable": {
+    "default": "Case power alert step insert cable",
+    "_todo": "Confirm English copy for iOS key \"case_power_alert_step_insert_cable\" (auto-humanized from slug)."
+  },
+  "case_power_alert_step_wait_10_minutes": {
+    "default": "Case power alert step wait 10 minutes",
+    "_todo": "Confirm English copy for iOS key \"case_power_alert_step_wait_10_minutes\" (auto-humanized from slug)."
+  },
+  "case_power_alert_step_check_debris": {
+    "default": "Case power alert step check debris",
+    "_todo": "Confirm English copy for iOS key \"case_power_alert_step_check_debris\" (auto-humanized from slug)."
+  },
+  "help_connecting_question": {
+    "default": "Help connecting question",
+    "_todo": "Confirm English copy for iOS key \"help_connecting_question\" (auto-humanized from slug)."
+  },
+  "Location": {
+    "default": "Location",
+    "_todo": "Confirm English copy for iOS key \"Location\" (auto-humanized from slug)."
+  },
+  "Send Notifications": {
+    "default": "Send Notifications"
+  },
+  "Music Library": {
+    "default": "Music Library"
+  },
+  "Read Notifications": {
+    "default": "Read Notifications"
+  },
+  "Photos & Videos (Gallery)": {
+    "default": "Photos & Videos (Gallery)"
+  },
+  "ENABLED": {
+    "default": "ENABLED"
+  },
+  "DISABLED": {
+    "default": "DISABLED"
+  },
+  "Access granted": {
+    "default": "Access granted"
+  },
+  "DOWNLOAD USER MANUAL": {
+    "default": "DOWNLOAD USER MANUAL"
+  },
+  "DEVICE NOT FOUND": {
+    "default": "DEVICE NOT FOUND"
+  },
+  "SET UP YOUR DEVICE": {
+    "default": "SET UP YOUR DEVICE"
+  },
+  "SET UP A NEW DEVICE": {
+    "default": "SET UP A NEW DEVICE"
+  },
+  "SELECT YOUR DEVICE": {
+    "default": "SELECT YOUR DEVICE"
+  },
+  "Can't find your device?": {
+    "default": "Can't find your device?"
+  },
+  "Make sure your device is fully charged.": {
+    "default": "Make sure your device is fully charged."
+  },
+  "devices found": {
+    "default": "devices found"
+  },
+  "SET UP ANOTHER DEVICE": {
+    "default": "SET UP ANOTHER DEVICE"
+  },
+  "SUBJECT*": {
+    "default": "SUBJECT*"
+  },
+  "DESCRIPTION*": {
+    "default": "DESCRIPTION*"
+  },
+  "Search": {
+    "default": "Search",
+    "_todo": "Confirm English copy for iOS key \"Search\" (auto-humanized from slug)."
+  },
+  "New device detected": {
+    "default": "New device detected"
+  },
+  "DIDN'T FIND YOURS?": {
+    "default": "DIDN'T FIND YOURS?"
+  },
+  "GET HELP": {
+    "default": "GET HELP"
+  },
+  "DISMISS": {
+    "default": "DISMISS"
+  },
+  "Generating data ...": {
+    "default": "Generating data ..."
+  },
+  "All": {
+    "default": "All",
+    "_todo": "Confirm English copy for iOS key \"All\" (auto-humanized from slug)."
+  },
+  "No FAQs found": {
+    "default": "No FAQs found"
+  },
+  "Make sure your earbuds are  charged, turned on and within 9m of this device.": {
+    "default": "Make sure your earbuds are  charged, turned on and within 9m of this device."
+  },
+  "Open the case, leaving in the earbuds.": {
+    "default": "Open the case, leaving in the earbuds."
+  },
+  "Supported file types:": {
+    "default": "Supported file types:"
+  },
+  "onboardOWS1": {
+    "default": "Onboard OWS1",
+    "_todo": "Confirm English copy for iOS key \"onboardOWS1\" (auto-humanized from slug)."
+  },
+  "onboardOWS2": {
+    "default": "Onboard OWS2",
+    "_todo": "Confirm English copy for iOS key \"onboardOWS2\" (auto-humanized from slug)."
+  },
+  "onboardOWS3": {
+    "default": "Onboard OWS3",
+    "_todo": "Confirm English copy for iOS key \"onboardOWS3\" (auto-humanized from slug)."
+  },
+  "onboardOWS4": {
+    "default": "Onboard OWS4",
+    "_todo": "Confirm English copy for iOS key \"onboardOWS4\" (auto-humanized from slug)."
+  },
+  "ASSISTANT": {
+    "default": "ASSISTANT"
+  },
+  "PROCEED": {
+    "default": "PROCEED"
+  },
+  "onboardclip4": {
+    "default": "Onboardclip4",
+    "_todo": "Confirm English copy for iOS key \"onboardclip4\" (auto-humanized from slug)."
+  },
+  "onboardbuds_s4": {
+    "default": "Onboardbuds s4",
+    "_todo": "Confirm English copy for iOS key \"onboardbuds_s4\" (auto-humanized from slug)."
+  },
+  "onboardbuds4": {
+    "default": "Onboardbuds4",
+    "_todo": "Confirm English copy for iOS key \"onboardbuds4\" (auto-humanized from slug)."
+  },
+  "UNDERSTOOD": {
+    "default": "UNDERSTOOD"
+  },
+  "VOCAL": {
+    "default": "VOCAL"
+  },
+  "POP": {
+    "default": "POP"
+  },
+  "ELECTRONIC": {
+    "default": "ELECTRONIC"
+  },
+  "DYNAMIC": {
+    "default": "DYNAMIC"
+  },
+  "Report submitted successfully": {
+    "default": "Report submitted successfully"
+  },
+  "Disconnected": {
+    "default": "Disconnected",
+    "_todo": "Confirm English copy for iOS key \"Disconnected\" (auto-humanized from slug)."
+  },
+  "You're now using": {
+    "default": "You're now using"
+  }
+}

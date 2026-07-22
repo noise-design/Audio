@@ -1,0 +1,70 @@
+{
+  "upload": {
+    "default": "Upload",
+    "_todo": "Confirm English copy for iOS key \"upload\" (auto-humanized from slug)."
+  },
+  "my_profile": {
+    "default": "My profile",
+    "_todo": "Confirm English copy for iOS key \"my_profile\" (auto-humanized from slug)."
+  },
+  "delete_profile": {
+    "default": "Delete profile",
+    "_todo": "Confirm English copy for iOS key \"delete_profile\" (auto-humanized from slug)."
+  },
+  "Personalize_your_buds": {
+    "default": "Personalize your buds",
+    "_todo": "Confirm English copy for iOS key \"Personalize_your_buds\" (auto-humanized from slug)."
+  },
+  "Personalize_your_buds_entry_placeholder": {
+    "default": "Personalize your buds entry placeholder",
+    "_todo": "Confirm English copy for iOS key \"Personalize_your_buds_entry_placeholder\" (auto-humanized from slug)."
+  },
+  "Edit Profile": {
+    "default": "Edit Profile"
+  },
+  "ENTER A DEVICE NAME": {
+    "default": "ENTER A DEVICE NAME"
+  },
+  "Personalize_your_buds_heading": {
+    "default": "Personalize your buds heading",
+    "_todo": "Confirm English copy for iOS key \"Personalize_your_buds_heading\" (auto-humanized from slug)."
+  },
+  "edit_profile": {
+    "default": "Edit profile",
+    "_todo": "Confirm English copy for iOS key \"edit_profile\" (auto-humanized from slug)."
+  },
+  "Personalize your\\nlistening experience": {
+    "default": "Personalize your\\nlistening experience"
+  },
+  "DEVICE NAME": {
+    "default": "DEVICE NAME"
+  },
+  "Are you sure you want to delete this thread?": {
+    "default": "Are you sure you want to delete this thread?"
+  },
+  "DELETE": {
+    "default": "DELETE"
+  },
+  "Upload from gallery": {
+    "default": "Upload from gallery"
+  },
+  "Delete": {
+    "default": "Delete",
+    "_todo": "Confirm English copy for iOS key \"Delete\" (auto-humanized from slug)."
+  },
+  "PROFILE IMAGE DELETED": {
+    "default": "PROFILE IMAGE DELETED"
+  },
+  "Complete Profile": {
+    "default": "Complete Profile"
+  },
+  "Upload up to 3 media files not exceeding 20 MB in the formats JPEG/JPG/PNG/HEIC/MP4": {
+    "default": "Upload up to 3 media files not exceeding 20 MB in the formats JPEG/JPG/PNG/HEIC/MP4"
+  },
+  "UPLOAD SCREENSHOT": {
+    "default": "UPLOAD SCREENSHOT"
+  },
+  "Please upload only screenshots of your posted review — other images won’t be eligible for rewards.": {
+    "default": "Please upload only screenshots of your posted review — other images won’t be eligible for rewards."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "scan_again": {
+    "default": "Scan again",
+    "_todo": "Confirm English copy for iOS key \"scan_again\" (auto-humanized from slug)."
+  },
+  "setup_this_device": {
+    "default": "Setup this device",
+    "_todo": "Confirm English copy for iOS key \"setup_this_device\" (auto-humanized from slug)."
+  },
+  "faster_discovery": {
+    "default": "Faster discovery",
+    "_todo": "Confirm English copy for iOS key \"faster_discovery\" (auto-humanized from slug)."
+  },
+  "scan_device_description": {
+    "default": "Scan device description",
+    "_todo": "Confirm English copy for iOS key \"scan_device_description\" (auto-humanized from slug)."
+  },
+  "Connect_2_time": {
+    "default": "Connect 2 time",
+    "_todo": "Confirm English copy for iOS key \"Connect_2_time\" (auto-humanized from slug)."
+  },
+  "RECONNECT": {
+    "default": "RECONNECT"
+  },
+  "RECONNECTING...": {
+    "default": "RECONNECTING..."
+  },
+  "Connect_with_2_devices_at_the_same_time.": {
+    "default": "Connect_with_2_devices_at_the_same_time."
+  },
+  "PLACE THE EARBUDS IN THE CASE AND CLOSE THE LID.": {
+    "default": "PLACE THE EARBUDS IN THE CASE AND CLOSE THE LID."
+  },
+  "WHEN CHARGING THE CASE LIGHT GLOWS ORANGE &\\nTURNS WHITE WHEN FULLY CHARGED": {
+    "default": "WHEN CHARGING THE CASE LIGHT GLOWS ORANGE &\\nTURNS WHITE WHEN FULLY CHARGED"
+  },
+  "KEEP EARBUDS IN CASE WITH LID OPEN": {
+    "default": "KEEP EARBUDS IN CASE WITH LID OPEN"
+  },
+  "AUTO-PAUSES MUSIC WHEN YOU\\nTAKE OFF YOUR HEADPHONES": {
+    "default": "AUTO-PAUSES MUSIC WHEN YOU\\nTAKE OFF YOUR HEADPHONES"
+  },
+  "SEAMLESSLY CONNECT WITH\\nTWO DEVICES AT A TIME": {
+    "default": "SEAMLESSLY CONNECT WITH\\nTWO DEVICES AT A TIME"
+  },
+  "FORGET DEVICE": {
+    "default": "FORGET DEVICE"
+  },
+  "CONNECTED": {
+    "default": "CONNECTED"
+  },
+  "YES, FORGET DEVICE": {
+    "default": "YES, FORGET DEVICE"
+  },
+  "DEVICE FOUND": {
+    "default": "DEVICE FOUND"
+  },
+  "SELECT DEVICE": {
+    "default": "SELECT DEVICE"
+  },
+  "ARE YOU SURE YOU\\nWANT TO REMOVE THIS\\nDEVICE?": {
+    "default": "ARE YOU SURE YOU\\nWANT TO REMOVE THIS\\nDEVICE?"
+  },
+  "CONNECT TO DEVICE": {
+    "default": "CONNECT TO DEVICE"
+  },
+  "TAKE ME TO APP STORE": {
+    "default": "TAKE ME TO APP STORE"
+  },
+  "KEEP THE BUD ON CHARGE": {
+    "default": "KEEP THE BUD ON CHARGE"
+  },
+  "MEET": {
+    "default": "MEET"
+  },
+  "scanning": {
+    "default": "Scanning",
+    "_todo": "Confirm English copy for iOS key \"scanning\" (auto-humanized from slug)."
+  },
+  "Connect with two\\ndevices at a time": {
+    "default": "Connect with two\\ndevices at a time"
+  },
+  "Auto-pause music when you take off your device": {
+    "default": "Auto-pause music when you take off your device"
+  },
+  "Audio stays in place. Best suited when you are sitting down": {
+    "default": "Audio stays in place. Best suited when you are sitting down"
+  },
+  "THE CASE LIGHT TURNS ORANGE WHEN CHARGING AND TURNS TO WHITE WHEN FULLY CHARGED": {
+    "default": "THE CASE LIGHT TURNS ORANGE WHEN CHARGING AND TURNS TO WHITE WHEN FULLY CHARGED"
+  },
+  "ADDITIONALLY PLEASE REMOVE THE DEVICE\\nFROM YOUR BLUETOOTH SETTINGS": {
+    "default": "ADDITIONALLY PLEASE REMOVE THE DEVICE\\nFROM YOUR BLUETOOTH SETTINGS"
+  },
+  "TURN IT BACK ON FROM THE BLUETOOTH SECTION IN YOUR DEVICE SETTINGS": {
+    "default": "TURN IT BACK ON FROM THE BLUETOOTH SECTION IN YOUR DEVICE SETTINGS"
+  },
+  "Enable BT": {
+    "default": "Enable BT"
+  },
+  "Only left bud connected": {
+    "default": "Only left bud connected"
+  },
+  "Only right bud connected": {
+    "default": "Only right bud connected"
+  },
+  "2. Open the charging case while keeping the earbuds inside.": {
+    "default": "2. Open the charging case while keeping the earbuds inside."
+  },
+  "3. Make sure the earbuds are not connected to any other nearby device or application. The earbuds can connect to only one device at a time.": {
+    "default": "3. Make sure the earbuds are not connected to any other nearby device or application. The earbuds can connect to only one device at a time."
+  },
+  "2. Make sure the headphones are not connected to any other nearby device or application.": {
+    "default": "2. Make sure the headphones are not connected to any other nearby device or application."
+  },
+  "CONNECTED DEVICES": {
+    "default": "CONNECTED DEVICES"
+  },
+  "Discoverability": {
+    "default": "Discoverability",
+    "_todo": "Confirm English copy for iOS key \"Discoverability\" (auto-humanized from slug)."
+  },
+  "Your device will be discoverable to nearby BT devices": {
+    "default": "Your device will be discoverable to nearby BT devices"
+  },
+  "Device Not Connected": {
+    "default": "Device Not Connected"
+  },
+  "Bluetooth": {
+    "default": "Bluetooth",
+    "_todo": "Confirm English copy for iOS key \"Bluetooth\" (auto-humanized from slug)."
+  },
+  "BT": {
+    "default": "BT"
+  },
+  "Access needed for device discovery and your device to products in your vicinity": {
+    "default": "Access needed for device discovery and your device to products in your vicinity"
+  },
+  "Please enable Bluetooth to continue": {
+    "default": "Please enable Bluetooth to continue"
+  },
+  "Your headphone can connect to 2 devices at a time.": {
+    "default": "Your headphone can connect to 2 devices at a time."
+  },
+  "Your buds can connect to 2 devices at a time.": {
+    "default": "Your buds can connect to 2 devices at a time."
+  },
+  "Enable to allow connection to 2 devices at a time.": {
+    "default": "Enable to allow connection to 2 devices at a time."
+  },
+  "Enable discovery of nearby devices.": {
+    "default": "Enable discovery of nearby devices."
+  },
+  "CONNECT": {
+    "default": "CONNECT"
+  },
+  "Connected via BT": {
+    "default": "Connected via BT"
+  },
+  "Connect via BT": {
+    "default": "Connect via BT"
+  },
+  "NO DEVICE FOUND": {
+    "default": "NO DEVICE FOUND"
+  },
+  "CHECK CURRENTLY BT CONNECTED DEVICES": {
+    "default": "CHECK CURRENTLY BT CONNECTED DEVICES"
+  },
+  "CURRENTLY CONNECTED": {
+    "default": "CURRENTLY CONNECTED"
+  },
+  "Keep your device nearby your phone.": {
+    "default": "Keep your device nearby your phone."
+  },
+  "Keep the buds in the case with lid open.": {
+    "default": "Keep the buds in the case with lid open."
+  },
+  "1 device found": {
+    "default": "1 device found"
+  },
+  "SCANNING...": {
+    "default": "SCANNING..."
+  },
+  "PAIR": {
+    "default": "PAIR"
+  },
+  "CONNECTING": {
+    "default": "CONNECTING"
+  },
+  "CONNECTING...": {
+    "default": "CONNECTING..."
+  },
+  "RETRY CONNECTING": {
+    "default": "RETRY CONNECTING"
+  },
+  "SCAN AGAIN": {
+    "default": "SCAN AGAIN"
+  },
+  "Make sure Bluetooth is enabled on your device.": {
+    "default": "Make sure Bluetooth is enabled on your device."
+  },
+  "Keep the buds in the case with the lid open.": {
+    "default": "Keep the buds in the case with the lid open."
+  },
+  "Make sure your headphones don’t disconnect from your mobile BT while connecting.": {
+    "default": "Make sure your headphones don’t disconnect from your mobile BT while connecting."
+  },
+  "Make sure your buds don’t disconnect from your mobile BT while connecting": {
+    "default": "Make sure your buds don’t disconnect from your mobile BT while connecting"
+  },
+  "We need permissions to use your mobile’s Bluetooth and location so nearby products can be discovered": {
+    "default": "We need permissions to use your mobile’s Bluetooth and location so nearby products can be discovered"
+  },
+  "PLACE THE EARPIECES IN THE CASE AND CLOSE THE LID. CONNECT THE CASE TO A CHARGER USING THE IN-BOX TYPE-C CABLE": {
+    "default": "PLACE THE EARPIECES IN THE CASE AND CLOSE THE LID. CONNECT THE CASE TO A CHARGER USING THE IN-BOX TYPE-C CABLE"
+  },
+  "CHARGE YOUR DEVICE": {
+    "default": "CHARGE YOUR DEVICE"
+  },
+  "CONNECT WITH 2 DEVICES AT THE SAME TIME.": {
+    "default": "CONNECT WITH 2 DEVICES AT THE SAME TIME."
+  },
+  "BT Disconnected": {
+    "default": "BT Disconnected"
+  }
+}

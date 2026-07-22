@@ -1,0 +1,185 @@
+{
+  "Noise_Control": {
+    "default": "Geräuschkontrolle"
+  },
+  "Transparency": {
+    "default": "Transparenz"
+  },
+  "ANC": {
+    "default": "ANC"
+  },
+  "Adaptive": {
+    "default": "Adaptiv"
+  },
+  "Spatial Audio": {
+    "default": "Raumklang"
+  },
+  "EQ Control": {
+    "default": "EQ Steuerung"
+  },
+  "JAZZ": {
+    "default": "Jazz"
+  },
+  "Rock": {
+    "default": "Rock"
+  },
+  "Club": {
+    "default": "Club"
+  },
+  "Focus Mode": {
+    "default": "Fokusmodus"
+  },
+  "NOISE\\nCONTROL": {
+    "default": "UMGEBUNGSGERÄUSCHSTEUERUNG"
+  },
+  "SPATIAL\\nAUDIO": {
+    "default": "RÄUMLICHER KLANG"
+  },
+  "TAP & HOLD ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "TIPPE & HALTE DEN MASTERBUD, UM ZWISCHEN ANC MODI ZU WECHSELN."
+  },
+  "49dB\\nANC": {
+    "default": "49 dB ANC"
+  },
+  "SINGLE TAP ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "EINMAL TIPPEN AUF DEM MASTERBUDS ZUM ANC MODI WECHSEL."
+  },
+  "TAP VOLUME + AND - ON THE EARBUD TO SWITCH BETWEEN ANC MODES.": {
+    "default": "TIPPE + UND – AM MASTERBUD, UM ZWISCHEN ANC MODI ZU WECHSELN."
+  },
+  "TOGGLE ANC MODES": {
+    "default": "ANC MODI UMSCHALTEN"
+  },
+  "DOUBLE TAP ON ANC BUTTON TO SWITCH BETWEEN ANC MODES": {
+    "default": "DOPPELT TIPPEN AM ANC KNOPF ZUR MODIWECHSEL"
+  },
+  "EQUALISER": {
+    "default": "Equalizer"
+  },
+  "BASS": {
+    "default": "Bass"
+  },
+  "TREBLE": {
+    "default": "Höhen"
+  },
+  "PERSONALIZE SOUND WITH\\nCUSTOM EQ CONTROL SETTINGS.": {
+    "default": "PERSONALISIERE DEN SOUND MIT BENUTZERDEFINIERTEN EQ-EINSTELLUNGEN."
+  },
+  "SWITCH ANC MODES": {
+    "default": "ANC-MODI WECHSELN"
+  },
+  "GAMING MODE": {
+    "default": "SPIELMODUS"
+  },
+  "KEEP TAPPING ON MODE SWITCH BUTTON TO SWITCH BETWEEN DIFFERENT ANC MODES": {
+    "default": "Tippe wiederholt auf die Modus-Taste, um zwischen den verschiedenen ANC-Modi zu wechseln"
+  },
+  "TAP TWICE ON MODE SWITCH BUTTON TO TOGGLE BETWEEN SPATIAL AUDIO & MUSIC MODE": {
+    "default": "DRÜCKE DEN MODUSWECHSELKNOPF DOPPELT, UM ZWISCHEN SPATIAL AUDIO & MUSIKMODUS ZU WECHSELN"
+  },
+  "STEP INTO ANY ENVIRONMENT, WHETHER IT’S A BUSTLING STREET OR A CROWDED CAFÉ, AND LET THE WORLD FADE AWAY. ADAPTIVE ANC DOES THE WORK SO YOU CAN FOCUS ON WHAT MATTERS.": {
+    "default": "TAUCHE EIN IN JEDE UMGEBUNG, OB BELEBTE STRAßE ODER VOLLES CAFÉ – UND LASS DIE WELT VERSCHWINDEN. ADAPTIVE ANC MACHT DEN REST, DAMIT DU DICH AUF DAS WICHTIGE KONZENTRIEREN KANNST."
+  },
+  "Side Tone": {
+    "default": "Nebenklang"
+  },
+  "AUDIO BOOST": {
+    "default": "Audioverstärkung"
+  },
+  "Audio Boost": {
+    "default": "Audio Boost"
+  },
+  "Toggle Spatial Audio": {
+    "default": "Spatial Audio umschalten"
+  },
+  "Sidetone": {
+    "default": "Nebenklang"
+  },
+  "Deeper, richer bass for a fuller listening experience": {
+    "default": "Tieferer, satterer Bass für ein volleres Hörerlebnis"
+  },
+  "Enhance and add depth to your content with Spatial Audio.": {
+    "default": "Verleihe Deinen Inhalten mehr Tiefe mit Spatial Audio."
+  },
+  "Balanced amplification. Recommended for best experience": {
+    "default": "Symphonische Klangbalance. Für ein optimales Hörerlebnis empfohlen"
+  },
+  "TAP FOUR TIMES TO ENABLE OR DISABLE SPATIAL AUDIO": {
+    "default": "VIERMAL TIPPEN, UM SPATIAL AUDIO EIN- ODER AUSZUSCHALTEN"
+  },
+  "Bass Boost": {
+    "default": "Bass Boost"
+  },
+  "Spatial Audio & Adaptive ANC": {
+    "default": "Räumlicher Klang & Adaptives ANC"
+  },
+  "Adaptive ANC, so you can focus on what matters. Spatial Audio, so you step into any environment and let the music be your muse.": {
+    "default": "Adaptives ANC für maximale Konzentration. Räumlicher Klang, der Dich in jede Umgebung eintauchen lässt."
+  },
+  "Experience balanced, distortion-free audio with deep bass, clear mids, and crisp highs.": {
+    "default": "Erlebe ausgewogenen, verzerrungsfreien Klang mit sattem Bass, klaren Mitten und präzisen Höhen."
+  },
+  "Tap four times on either side of the bud to activate Spatial Audio.": {
+    "default": "Tippe viermal auf eine der beiden Seiten des Earbuds, um Spatial Audio zu aktivieren."
+  },
+  "Adaptive ANC": {
+    "default": "Adaptives ANC"
+  },
+  "Tap & hold on the right bud to toggle between ANC modes.": {
+    "default": "Tippe und halte den rechten Earbud, um zwischen den ANC-Modi zu wechseln."
+  },
+  "Spatial Audio cannot be used with ANC on": {
+    "default": "Räumlicher Klang kann nicht bei aktiviertem ANC verwendet werden"
+  },
+  "CLUB": {
+    "default": "CLUB"
+  },
+  "ROCK": {
+    "default": "ROCK"
+  },
+  "Equaliser": {
+    "default": "Equalizer"
+  },
+  "Spatial audio can not be use with ANC enabled": {
+    "default": "Räumliches Audio kann bei aktiviertem ANC nicht verwendet werden"
+  },
+  "TAP AND HOLD ON THE RIGHT EARBUD TO SWITCH BETWEEN ANC MODES": {
+    "default": "HALTE DEN RECHTEN EARBUD GEDRÜCKT, UM ZWISCHEN ANC-MODI ZU WECHSELN"
+  },
+  "To enable ANC with a single bud, disable in-ear detection": {
+    "default": "Um ANC mit einem einzelnen Earbud zu aktivieren, deaktiviere die In-Ear-Erkennung"
+  },
+  "To enable ANC with a single bud, disable in-ear detection via Controls": {
+    "default": "Um ANC mit einem einzelnen Earbud zu aktivieren, deaktivieren die In-Ear-Erkennung über die Steuerung"
+  },
+  "TAP FOUR TIMES ON EITHER EARPIECE TO ENABLE/DISABLE AUDIO BOOST": {
+    "default": "VIERMAL AUF EINEN DER MASTERBUD TIPPEN, UM DIE AUDIOVERSTÄRKUNG ZU AKTIVIEREN/DEAKTIVIEREN"
+  },
+  "TAP & HOLD ON EITHER BUD TO ENABLE/DISABLE GAMING MODE": {
+    "default": "AUF EINEN DER MASTERBUDS TIPPEN UND HALTEN, UM DEN GAMING-MODUS ZU AKTIVIEREN/DEAKTIVIEREN"
+  },
+  "YOUR CURRENT EQ DOESN'T SUPPORT AUDIO BOOST. SWITCH YOUR EQ TO ENABLE.": {
+    "default": "DEINE AKTUELLE EQ UNTERSTÜTZT KEINE AUDIOVERSTÄRKUNG. WECHSLE DEINE EQ, UM SIE ZU AKTIVIEREN."
+  },
+  "AUDIO BOOST IS ENABLED": {
+    "default": "AUDIOVERSTÄRKUNG IST AKTIVIERT"
+  },
+  "AUDIO BOOST IS TUNED ONLY FOR THE DEFAULT EQ. PROCEEDING TO CUSTOMISE WILL DISABLE AUDIO BOOST.": {
+    "default": "DIE AUDIOVERSTÄRKUNG IST NUR FÜR DIE STANDARD-EQ ABGESTIMMT. WENN DU MIT DEM ANPASSEN FORTFÄHRST, WIRD DIE AUDIOVERSTÄRKUNG DEAKTIVIERT."
+  },
+  "audio boost is tuned for compatibility": {
+    "default": "Die Audioverstärkung ist auf Kompatibilität abgestimmt"
+  },
+  "BASS BOOST": {
+    "default": "BASS BOOST"
+  },
+  "CLASSICAL": {
+    "default": "KLASSIK"
+  },
+  "BALANCED": {
+    "default": "AUSGEWOGEN"
+  },
+  "COMFORT": {
+    "default": "KOMFORT"
+  }
+}

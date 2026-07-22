@@ -1,0 +1,167 @@
+{
+  "app_ver": {
+    "default": "App ver",
+    "_todo": "Confirm English copy for iOS key \"app_ver\" (auto-humanized from slug)."
+  },
+  "software_updated_heading": {
+    "default": "Software updated heading",
+    "_todo": "Confirm English copy for iOS key \"software_updated_heading\" (auto-humanized from slug)."
+  },
+  "software_updated_description": {
+    "default": "Software updated description",
+    "_todo": "Confirm English copy for iOS key \"software_updated_description\" (auto-humanized from slug)."
+  },
+  "whats_new": {
+    "default": "Whats new",
+    "_todo": "Confirm English copy for iOS key \"whats_new\" (auto-humanized from slug)."
+  },
+  "update_firmware": {
+    "default": "Update firmware",
+    "_todo": "Confirm English copy for iOS key \"update_firmware\" (auto-humanized from slug)."
+  },
+  "firmware_update_in_progress": {
+    "default": "Firmware update in progress",
+    "_todo": "Confirm English copy for iOS key \"firmware_update_in_progress\" (auto-humanized from slug)."
+  },
+  "updating_firmware": {
+    "default": "Updating firmware",
+    "_todo": "Confirm English copy for iOS key \"updating_firmware\" (auto-humanized from slug)."
+  },
+  "software_updated_done_heading": {
+    "default": "Software updated done heading",
+    "_todo": "Confirm English copy for iOS key \"software_updated_done_heading\" (auto-humanized from slug)."
+  },
+  "update_now": {
+    "default": "Update now",
+    "_todo": "Confirm English copy for iOS key \"update_now\" (auto-humanized from slug)."
+  },
+  "firmware_update_available": {
+    "default": "Firmware update available",
+    "_todo": "Confirm English copy for iOS key \"firmware_update_available\" (auto-humanized from slug)."
+  },
+  "APP\\nUPDATE": {
+    "default": "APP\\nUPDATE"
+  },
+  "FIRMWARE\\nUPDATE": {
+    "default": "FIRMWARE\\nUPDATE"
+  },
+  "App Ver": {
+    "default": "App Ver"
+  },
+  "UPDATE AVAILABLE": {
+    "default": "UPDATE AVAILABLE"
+  },
+  "VER": {
+    "default": "VER"
+  },
+  "KEEP YOUR HEADPHONES CLOSE TO YOUR PHONE DURING UPDATE": {
+    "default": "KEEP YOUR HEADPHONES CLOSE TO YOUR PHONE DURING UPDATE"
+  },
+  "Check for the latest device update": {
+    "default": "Check for the latest device update"
+  },
+  "Your app is up to date": {
+    "default": "Your app is up to date"
+  },
+  "Firmware\\nUpdate": {
+    "default": "Firmware\\nUpdate"
+  },
+  "App\\nUpdate": {
+    "default": "App\\nUpdate"
+  },
+  "SOFTWARE IS UP TO DATE": {
+    "default": "SOFTWARE IS UP TO DATE"
+  },
+  "You can initiate up to 5 chats a week. you can however, go to your chat history to access or resume your previous chats.": {
+    "default": "You can initiate up to 5 chats a week. you can however, go to your chat history to access or resume your previous chats."
+  },
+  "app_version": {
+    "default": "App version",
+    "_todo": "Confirm English copy for iOS key \"app_version\" (auto-humanized from slug)."
+  },
+  "Current Version": {
+    "default": "Current Version"
+  },
+  "WHAT'S NEW": {
+    "default": "WHAT'S NEW"
+  },
+  "UPDATE APP": {
+    "default": "UPDATE APP"
+  },
+  "You’ll be redirected to the App Store. Once updated, return here to continue.": {
+    "default": "You’ll be redirected to the App Store. Once updated, return here to continue."
+  },
+  "UPDATE PROFILE": {
+    "default": "UPDATE PROFILE"
+  },
+  "UPDATE YOUR BIRTHDAY": {
+    "default": "UPDATE YOUR BIRTHDAY"
+  },
+  "UPDATE": {
+    "default": "UPDATE"
+  },
+  "PROFILE UPDATED": {
+    "default": "PROFILE UPDATED"
+  },
+  "NAME UPDATED": {
+    "default": "NAME UPDATED"
+  },
+  "DATE OF BIRTH UPDATED": {
+    "default": "DATE OF BIRTH UPDATED"
+  },
+  "Update Available": {
+    "default": "Update Available"
+  },
+  "Update Required": {
+    "default": "Update Required"
+  },
+  "Up to date": {
+    "default": "Up to date"
+  },
+  "TRANSFERRING FIRMWARE": {
+    "default": "TRANSFERRING FIRMWARE"
+  },
+  "PROFILE IMAGE UPDATED": {
+    "default": "PROFILE IMAGE UPDATED"
+  },
+  "Helps discover and pair with nearby devices and to stream audio from your device to your product": {
+    "default": "Helps discover and pair with nearby devices and to stream audio from your device to your product"
+  },
+  "Helps discover, pair, and sync your audio device with the app and your phone's system.": {
+    "default": "Helps discover, pair, and sync your audio device with the app and your phone's system."
+  },
+  "Helps discover, pair, and sync your audio device with the app.": {
+    "default": "Helps discover, pair, and sync your audio device with the app."
+  },
+  "Stay informed about important firmware and app updates.": {
+    "default": "Stay informed about important firmware and app updates."
+  },
+  "DO NOT CLOSE THE LID DURING THE UPDATE.": {
+    "default": "DO NOT CLOSE THE LID DURING THE UPDATE."
+  },
+  "POWER OFF AND POWER ON YOUR HEADPHONES TO VERIFY FIRMWARE UPDATE": {
+    "default": "POWER OFF AND POWER ON YOUR HEADPHONES TO VERIFY FIRMWARE UPDATE"
+  },
+  "ASSETS": {
+    "default": "ASSETS"
+  },
+  "DOWNLOADING-": {
+    "default": "DOWNLOADING-"
+  },
+  "ASSET DOWNLOAD": {
+    "default": "ASSET DOWNLOAD"
+  },
+  "MAY TAKE 1–2 MINS. DO NOT EXIT THIS PAGE": {
+    "default": "MAY TAKE 1–2 MINS. DO NOT EXIT THIS PAGE"
+  },
+  "INSTALLING FIRMWARE": {
+    "default": "INSTALLING FIRMWARE"
+  },
+  "Downloading": {
+    "default": "Downloading",
+    "_todo": "Confirm English copy for iOS key \"Downloading\" (auto-humanized from slug)."
+  },
+  "You'll be redirected to the App Store. Once updated, return here to continue.": {
+    "default": "You'll be redirected to the App Store. Once updated, return here to continue."
+  }
+}

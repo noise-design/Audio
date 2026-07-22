@@ -1,0 +1,59 @@
+{
+  "AI": {
+    "default": "AI"
+  },
+  "Ensure the app stays open in\\nthe background to activate AI": {
+    "default": "AI सक्रिय करने के लिए सुनिश्चित करें\\nकि ऐप बैकग्राउंड में खुला रहे"
+  },
+  "AI Companion": {
+    "default": "AI कम्पेनियन"
+  },
+  "Your own AI buddy to answer your questions": {
+    "default": "आपके सवालों का जवाब देने के लिए आपका खुद का AI बडी"
+  },
+  "AI Transcription": {
+    "default": "AI ट्रांसक्रिप्शन"
+  },
+  "On Device AI": {
+    "default": "डिवाइस पर AI"
+  },
+  "Learn how to activate voice AI from your device": {
+    "default": "जानें कि अपने डिवाइस से वॉइस AI कैसे सक्रिय करें"
+  },
+  "AI Assistant": {
+    "default": "AI असिस्टेंट"
+  },
+  "Noise AI – your personal AI companion to assist you through the day.": {
+    "default": "Noise AI — दिन भर आपकी मदद के लिए आपका पर्सनल AI कम्पेनियन।"
+  },
+  "Tap and hold on the left bud to activate Noise AI assistant. App needs to be open in foreground.": {
+    "default": "Noise AI असिस्टेंट सक्रिय करने के लिए बाएं बड पर टैप करके रखें। ऐप फोरग्राउंड में खुला होना चाहिए।"
+  },
+  "Noise AI": {
+    "default": "Noise AI"
+  },
+  "Learn how to activate AI on your device": {
+    "default": "जानें कि अपने डिवाइस पर AI कैसे सक्रिय करें"
+  },
+  "USE NOISE AI": {
+    "default": "Noise AI उपयोग करें"
+  },
+  "Noise AI uses your inputs to power responses and store chat history. Interactions may be securely analysed to improve performance.": {
+    "default": "Noise AI आपके इनपुट का उपयोग रिस्पॉन्स देने और चैट हिस्ट्री स्टोर करने के लिए करता है। परफॉर्मेंस बेहतर करने के लिए इंटरैक्शन का सुरक्षित विश्लेषण किया जा सकता है।"
+  },
+  "AI Help Assistant": {
+    "default": "AI हेल्प असिस्टेंट"
+  },
+  "Allows you to interact with Noise AI voice assistant.": {
+    "default": "Noise AI वॉइस असिस्टेंट के साथ इंटरैक्ट करने की अनुमति देता है।"
+  },
+  "Some ideas to get you started": {
+    "default": "शुरू करने के लिए कुछ आइडिया"
+  },
+  "To activate AI assistant on your device, the app must remain open. Once activated, you can exit the app.": {
+    "default": "डिवाइस पर AI असिस्टेंट सक्रिय करने के लिए ऐप खुला रहना चाहिए। एक बार सक्रिय होने पर आप ऐप से बाहर जा सकते हैं।"
+  },
+  "THINKING": {
+    "default": "सोच रहा है"
+  }
+}

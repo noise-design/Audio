@@ -1,0 +1,21 @@
+{
+  "$comment": "Locale registry consumed by the i18n loader. Parent first.",
+  "parent": "en",
+  "available": [
+    {
+      "code": "en",
+      "name": "English",
+      "isParent": true
+    },
+    {
+      "code": "de",
+      "name": "Deutsch (German)",
+      "isParent": false
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी (Hindi)",
+      "isParent": false
+    }
+  ]
+}

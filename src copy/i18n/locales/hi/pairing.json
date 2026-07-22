@@ -1,0 +1,143 @@
+{
+  "scan_again": {
+    "default": "दोबारा स्कैन करें"
+  },
+  "setup_this_device": {
+    "default": "इस डिवाइस को सेटअप करें"
+  },
+  "faster_discovery": {
+    "default": "तेज़ डिस्कवरी"
+  },
+  "scan_device_description": {
+    "default": "डिवाइस को डिस्कवरेबल बनाने के लिए पावर बटन को दो बार दबाएं"
+  },
+  "Connect_2_time": {
+    "default": "एक साथ 2 डिवाइस से कनेक्ट करें।"
+  },
+  "RECONNECT": {
+    "default": "दोबारा कनेक्ट करें"
+  },
+  "RECONNECTING...": {
+    "default": "दोबारा कनेक्ट हो रहा है..."
+  },
+  "Connect_with_2_devices_at_the_same_time.": {
+    "default": "एक साथ 2 डिवाइस से कनेक्ट करें।"
+  },
+  "PLACE THE EARBUDS IN THE CASE AND CLOSE THE LID.": {
+    "default": "ईयरबड्स को केस में रखें और ढक्कन बंद करें।"
+  },
+  "WHEN CHARGING THE CASE LIGHT GLOWS ORANGE &\\nTURNS WHITE WHEN FULLY CHARGED": {
+    "default": "चार्ज होते समय केस की लाइट नारंगी होती है और\\nपूरी तरह चार्ज होने पर सफ़ेद हो जाती है"
+  },
+  "KEEP EARBUDS IN CASE WITH LID OPEN": {
+    "default": "ईयरबड्स को ढक्कन खुला रखते हुए केस में रखें"
+  },
+  "AUTO-PAUSES MUSIC WHEN YOU\\nTAKE OFF YOUR HEADPHONES": {
+    "default": "हेडफ़ोन उतारने पर\\nम्यूज़िक अपने आप रुक जाता है"
+  },
+  "SEAMLESSLY CONNECT WITH\\nTWO DEVICES AT A TIME": {
+    "default": "एक साथ दो डिवाइस से\\nआसानी से कनेक्ट करें"
+  },
+  "FORGET DEVICE": {
+    "default": "डिवाइस भूल जाएं"
+  },
+  "CONNECTED": {
+    "default": "कनेक्टेड"
+  },
+  "YES, FORGET DEVICE": {
+    "default": "हाँ, डिवाइस भूल जाएं"
+  },
+  "DEVICE FOUND": {
+    "default": "डिवाइस मिला"
+  },
+  "SELECT DEVICE": {
+    "default": "डिवाइस चुनें"
+  },
+  "ARE YOU SURE YOU\\nWANT TO REMOVE THIS\\nDEVICE?": {
+    "default": "क्या आप वाकई इस\\nडिवाइस को हटाना चाहते हैं?"
+  },
+  "CONNECT TO DEVICE": {
+    "default": "डिवाइस से कनेक्ट करें"
+  },
+  "TAKE ME TO APP STORE": {
+    "default": "मुझे ऐप स्टोर पर ले जाएं"
+  },
+  "KEEP THE BUD ON CHARGE": {
+    "default": "बड को चार्ज पर रखें"
+  },
+  "MEET": {
+    "default": "मिलिए"
+  },
+  "scanning": {
+    "default": "स्कैनिंग"
+  },
+  "Connect with two\\ndevices at a time": {
+    "default": "एक साथ दो\\nडिवाइस से कनेक्ट करें"
+  },
+  "Auto-pause music when you take off your device": {
+    "default": "डिवाइस उतारने पर म्यूज़िक अपने आप रुक जाता है"
+  },
+  "Audio stays in place. Best suited when you are sitting down": {
+    "default": "ऑडियो स्थिर रहता है। बैठे होने पर सबसे उपयुक्त"
+  },
+  "THE CASE LIGHT TURNS ORANGE WHEN CHARGING AND TURNS TO WHITE WHEN FULLY CHARGED": {
+    "default": "चार्ज होते समय केस की लाइट नारंगी होती है और पूरी तरह चार्ज होने पर सफ़ेद हो जाती है"
+  },
+  "ADDITIONALLY PLEASE REMOVE THE DEVICE\\nFROM YOUR BLUETOOTH SETTINGS": {
+    "default": "इसके अलावा कृपया डिवाइस को\\nअपनी ब्लूटूथ सेटिंग्स से भी हटाएं"
+  },
+  "TURN IT BACK ON FROM THE BLUETOOTH SECTION IN YOUR DEVICE SETTINGS": {
+    "default": "अपने डिवाइस सेटिंग्स में ब्लूटूथ सेक्शन से इसे वापस चालू करें"
+  },
+  "Enable BT": {
+    "default": "BT चालू करें"
+  },
+  "Only left bud connected": {
+    "default": "केवल बायाँ बड कनेक्टेड है"
+  },
+  "Only right bud connected": {
+    "default": "केवल दायाँ बड कनेक्टेड है"
+  },
+  "2. Open the charging case while keeping the earbuds inside.": {
+    "default": "2. ईयरबड्स को अंदर रखते हुए चार्जिंग केस खोलें।"
+  },
+  "3. Make sure the earbuds are not connected to any other nearby device or application. The earbuds can connect to only one device at a time.": {
+    "default": "3. सुनिश्चित करें कि ईयरबड्स किसी अन्य नजदीकी डिवाइस या ऐप से कनेक्ट नहीं हैं। ईयरबड्स एक समय में केवल एक डिवाइस से कनेक्ट हो सकते हैं।"
+  },
+  "2. Make sure the headphones are not connected to any other nearby device or application.": {
+    "default": "2. सुनिश्चित करें कि हेडफ़ोन किसी अन्य नजदीकी डिवाइस या ऐप से कनेक्ट नहीं हैं।"
+  },
+  "CONNECTED DEVICES": {
+    "default": "कनेक्टेड\\nडिवाइस"
+  },
+  "Discoverability": {
+    "default": "डिस्कवरेबिलिटी"
+  },
+  "Your device will be discoverable to nearby BT devices": {
+    "default": "आपका डिवाइस आसपास के BT डिवाइस को दिखेगा"
+  },
+  "Device Not Connected": {
+    "default": "डिवाइस कनेक्टेड नहीं है"
+  },
+  "Bluetooth": {
+    "default": "ब्लूटूथ"
+  },
+  "BT": {
+    "default": "BT"
+  },
+  "Access needed for device discovery and your device to products in your vicinity": {
+    "default": "डिवाइस खोज और आपके डिवाइस को आसपास के प्रोडक्ट से जोड़ने के लिए यह अनुमति ज़रूरी है।"
+  },
+  "Please enable Bluetooth to continue": {
+    "default": "जारी रखने के लिए कृपया ब्लूटूथ चालू करें।"
+  },
+  "Enable discovery of nearby devices.": {
+    "default": "आसपास के डिवाइस की खोज सक्षम करें।"
+  },
+  "CONNECT WITH 2 DEVICES AT THE SAME TIME.": {
+    "default": "एक साथ 2 डिवाइस से कनेक्ट करें।"
+  },
+  "BT Disconnected": {
+    "default": "BT डिस्कनेक्ट हो गया"
+  }
+}

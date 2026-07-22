@@ -1,0 +1,56 @@
+{
+  "upload": {
+    "default": "अपलोड करें"
+  },
+  "my_profile": {
+    "default": "मेरी प्रोफ़ाइल"
+  },
+  "delete_profile": {
+    "default": "प्रोफ़ाइल हटाएं"
+  },
+  "Personalize_your_buds": {
+    "default": "अपने बड्स को पर्सनलाइज़ करें"
+  },
+  "Personalize_your_buds_entry_placeholder": {
+    "default": "जैसे. मेरे बड्स"
+  },
+  "Edit Profile": {
+    "default": "प्रोफ़ाइल एडिट करें"
+  },
+  "ENTER A DEVICE NAME": {
+    "default": "डिवाइस का नाम दर्ज करें"
+  },
+  "Personalize_your_buds_heading": {
+    "default": "अपने डिवाइस को पर्सनलाइज़ करें"
+  },
+  "edit_profile": {
+    "default": "प्रोफ़ाइल एडिट करें"
+  },
+  "Personalize your\\nlistening experience": {
+    "default": "अपने सुनने के\\nअनुभव को पर्सनलाइज़ करें"
+  },
+  "DEVICE NAME": {
+    "default": "डिवाइस का नाम"
+  },
+  "Are you sure you want to delete this thread?": {
+    "default": "क्या आप वाकई इस थ्रेड को हटाना चाहते हैं?"
+  },
+  "DELETE": {
+    "default": "हटाएं"
+  },
+  "Upload from gallery": {
+    "default": "गैलरी से अपलोड करें"
+  },
+  "Delete": {
+    "default": "हटाएं"
+  },
+  "PROFILE IMAGE DELETED": {
+    "default": "प्रोफ़ाइल इमेज हटा दी गई"
+  },
+  "Complete Profile": {
+    "default": "प्रोफ़ाइल पूरी करें"
+  },
+  "Upload up to 3 media files not exceeding 20 MB in the formats JPEG/JPG/PNG/HEIC/MP4": {
+    "default": "JPEG/JPG/PNG/HEIC/MP4 फ़ॉर्मेट में 20MB से कम की अधिकतम 3 मीडिया फ़ाइलें अपलोड करें"
+  }
+}

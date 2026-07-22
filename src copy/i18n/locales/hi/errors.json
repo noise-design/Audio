@@ -1,0 +1,89 @@
+{
+  "invalid_code": {
+    "default": "कोड अमान्य लगता है। दोबारा कोशिश करें!"
+  },
+  "mobile_number_validation_msg": {
+    "default": "कृपया एक वैध नंबर दर्ज करें"
+  },
+  "noInternet": {
+    "default": "इंटरनेट कनेक्शन नहीं है, कृपया बाद में दोबारा कोशिश करें।"
+  },
+  "left_bud_is_critically_low": {
+    "default": "बायाँ बड बहुत कम चार्ज पर है"
+  },
+  "right_bud_is_critically_low": {
+    "default": "दायाँ बड बहुत कम चार्ज पर है"
+  },
+  "buds_are_critically_low": {
+    "default": "बड्स बहुत कम चार्ज पर हैं"
+  },
+  "box_is_critically_low": {
+    "default": "आपके डिवाइस का चार्ज बहुत कम है।"
+  },
+  "headphone_is_critically_low": {
+    "default": "हेडफ़ोन का चार्ज बहुत कम है।"
+  },
+  "FIRMWARE UPDATE\\nFAILED": {
+    "default": "फ़र्मवेयर अपडेट\\nफेल हो गया"
+  },
+  "NO UPDATE AVAILABLE": {
+    "default": "कोई अपडेट उपलब्ध नहीं है"
+  },
+  "UNABLE TO CONNECT DEVICE": {
+    "default": "डिवाइस कनेक्ट करने में असमर्थ"
+  },
+  "DEVICE IS NOT PAIRED": {
+    "default": "डिवाइस पेयर नहीं है"
+  },
+  "PLEASE WAIT FOR THE TIMER TO RESET": {
+    "default": "कृपया टाइमर रीसेट होने तक प्रतीक्षा करें"
+  },
+  "Registration Failed": {
+    "default": "रजिस्ट्रेशन फेल हो गया"
+  },
+  "API response failed": {
+    "default": "API रिस्पॉन्स फेल हो गया"
+  },
+  "REQUEST FAILED": {
+    "default": "रिक्वेस्ट फेल हो गई"
+  },
+  "Uh Oh! Looks like we have an API response failure!": {
+    "default": "अरे! लगता है API रिस्पॉन्स फेल हो गया!"
+  },
+  "Something went wrong": {
+    "default": "कुछ गलत हो गया"
+  },
+  "Device failed to connect": {
+    "default": "डिवाइस कनेक्ट नहीं हो पाया"
+  },
+  "TRY AGAIN": {
+    "default": "दोबारा कोशिश करें"
+  },
+  "Maintenance": {
+    "default": "मेंटेनेंस"
+  },
+  "Failed to submit report. Please try again.": {
+    "default": "रिपोर्ट सबमिट नहीं हो सकी। कृपया दोबारा कोशिश करें।"
+  },
+  "case_battery_critically_low_charge_now": {
+    "default": "केस की बैटरी बहुत कम है। अभी चार्ज करें।"
+  },
+  "BT is disabled on your device. Enable to proceed": {
+    "default": "आपके डिवाइस पर BT बंद है। आगे बढ़ने के लिए चालू करें।"
+  },
+  "Location is disabled on your device. Enable to proceed": {
+    "default": "आपके डिवाइस पर लोकेशन बंद है। आगे बढ़ने के लिए चालू करें।"
+  },
+  "LIMIT REACHED": {
+    "default": "सीमा पूरी हो गई"
+  },
+  "APP_UNDER_MAINTENANCE": {
+    "default": "ऐप मेंटेनेंस पर है"
+  },
+  "PLEASE CLOSE AND REOPEN YOUR CASE TO VERIFY FIRMWARE UPDATE": {
+    "default": "फ़र्मवेयर अपडेट वेरीफाई करने के लिए कृपया अपना केस बंद करें और दोबारा खोलें"
+  },
+  "FIRMWARE UPDATE TIMED OUT": {
+    "default": "फ़र्मवेयर अपडेट का समय समाप्त हो गया"
+  }
+}

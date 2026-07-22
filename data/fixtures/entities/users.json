@@ -1,0 +1,12 @@
+{
+  "$purpose": "Shared canonical user fixtures — one per persona (P1..P5). Shape follows data/model/user/User.kt (+ UserInfo). Persona mapping is inferred (personas are stubs — memory/product/personas.md). Fields beyond identity are TODO until personas are validated.",
+  "$canonicalShape": "memory/architecture/data-models.md",
+  "users": [
+    { "persona": "P1", "id": "fixture-user-p1", "name": "TODO", "email": "p1@example.test", "authType": "email", "ownedDevices": ["HW-BUDS-1", "HW-ALT-BUDS"], "isGuest": false },
+    { "persona": "P2", "id": "fixture-user-p2", "name": "TODO", "email": "p2@example.test", "authType": "google", "ownedDevices": ["HW-MBUDS-2"], "isGuest": false },
+    { "persona": "P3", "id": "fixture-user-p3", "name": "TODO", "email": "p3@example.test", "authType": "email", "ownedDevices": ["HW-MBUDS-MAX"], "isGuest": false },
+    { "persona": "P4", "id": "fixture-user-p4", "name": "TODO", "email": "p4@example.test", "authType": "phone", "ownedDevices": ["HW-MBUDS-2", "HW-MBUDS-MAX"], "isGuest": false, "aiUser": true },
+    { "persona": "P5", "id": "fixture-user-p5", "name": "TODO", "email": null, "authType": "guest", "ownedDevices": ["HW-ALT-OWS", "HW-ALT-CLIP"], "isGuest": true }
+  ],
+  "$note": "TODO(product/qa): replace 'name' and add profile fields (UserInfo/UserGoals) once personas are validated. UserGoals field in the model is a fitness heritage remnant (see ADR-008/017) — confirm relevance before populating."
+}

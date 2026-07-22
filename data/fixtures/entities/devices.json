@@ -1,0 +1,15 @@
+{
+  "$purpose": "Shared canonical device fixtures — one per HW-* model. Shapes follow common/.../model/AudioDevice.kt (runtime) + ColorFitNetworkDevice.kt (DTO). Scenario-specific fixtures stay per-feature. deviceType/sdkType strings are real (DeviceType.kt); addresses/firmware are placeholders (TODO if a test needs a real value).",
+  "$canonicalShape": "memory/architecture/data-models.md",
+  "devices": [
+    { "hwId": "HW-BUDS-1",     "bluetooth_name": "Noise Buds 1",        "deviceType": "nile",            "sdkType": "TODO", "address": "00:11:22:33:44:01", "colorType": 1, "firmwareVersion": "1.0.0", "is_in_duff": false },
+    { "hwId": "HW-MBUDS-2",    "bluetooth_name": "Noise Master Buds 2", "deviceType": "budspro",         "sdkType": "TODO", "address": "00:11:22:33:44:02", "colorType": 2, "firmwareVersion": "1.0.0", "colorCode": "0x02", "is_in_duff": false },
+    { "hwId": "HW-MBUDS-MAX",  "bluetooth_name": "Master Buds Max",     "deviceType": "budsmax",         "sdkType": "TODO", "address": "00:11:22:33:44:03", "colorType": 3, "firmwareVersion": "1.0.0", "formFactor": "headphones", "is_in_duff": false },
+    { "hwId": "HW-BRIDGEPORT", "bluetooth_name": "Noise Bridgeport",    "deviceType": "noisebridgeport", "sdkType": "TODO", "address": "00:11:22:33:44:04", "colorType": 1, "firmwareVersion": "1.0.0", "is_in_duff": false },
+    { "hwId": "HW-ALT-OWS",    "bluetooth_name": "ALT Buds Open",       "deviceType": "alt_ows",         "sdkType": "TODO", "address": "00:11:22:33:44:05", "colorType": 1, "firmwareVersion": "1.0.0", "is_in_duff": false },
+    { "hwId": "HW-ALT-CLIP",   "bluetooth_name": "ALT Clip",            "deviceType": "alt_clip",        "sdkType": "TODO", "address": "00:11:22:33:44:06", "colorType": 1, "firmwareVersion": "1.0.0", "is_in_duff": false },
+    { "hwId": "HW-ALT-BUDS-S", "bluetooth_name": "ALT Buds(S)",         "deviceType": "alt_buds_s",      "sdkType": "JL",   "address": "00:11:22:33:44:07", "colorType": 1, "firmwareVersion": "1.0.0", "is_in_duff": false, "note": "JL chip; OTA-quirk scenario fixtures belong in the firmware feature (ADR-016)" },
+    { "hwId": "HW-ALT-BUDS",   "bluetooth_name": "ALT Buds",            "deviceType": "alt_buds",        "sdkType": "JL",   "address": "00:11:22:33:44:08", "colorType": 1, "firmwareVersion": "1.0.0", "is_in_duff": false }
+  ],
+  "$firmwareVariants": "TODO(qa): where firmware behavior differs (e.g. JL pre-OTA, MB2 branches), add one device fixture per firmware-relevant variant here."
+}
